@@ -1,0 +1,4846 @@
+Girona - Osasuna
+  1: 1.72
+  2: 3.75
+  3: 4.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/eqc03-girona_fc_osasuna
+-----
+Las Palmas - Real Madrid
+  1: 8.00
+  2: 5.20
+  3: 1.31
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6qc03-ud_las_palmas_real_madrid
+-----
+Barcelona - Real Valladolid
+  1: 1.21
+  2: 5.80
+  3: 10.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2hl03-barcelona_real_valladolid
+-----
+Athletic Club - Atletico de Madrid
+  1: 2.75
+  2: 3.15
+  3: 2.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7hl03-athletic_club_atletico_de_madrid
+-----
+Espanyol - Rayo Vallecano
+  1: 2.60
+  2: 3.00
+  3: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1hl03-espanyol_rayo_vallecano
+-----
+Leganes - Mallorca
+  1: 2.40
+  2: 2.90
+  3: 3.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0hl03-leganes_mallorca
+-----
+Valencia - Villarreal
+  1: 2.80
+  2: 3.30
+  3: 2.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8hl03-valencia_villarreal
+-----
+Osasuna - Celta de Vigo
+  1: 2.20
+  2: 3.10
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5hl03-osasuna_celta_de_vigo
+-----
+Alaves - Las Palmas
+  1: 1.95
+  2: 3.15
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4hl03-alaves_ud_las_palmas
+-----
+Sevilla - Girona
+  1: 2.17
+  2: 3.45
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3hl03-sevilla_girona_fc
+-----
+Getafe - Real Sociedad
+  1: 3.25
+  2: 2.75
+  3: 2.22
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6hl03-getafe_real_sociedad
+-----
+Real Madrid - Real Betis
+  1: 1.25
+  2: 5.00
+  3: 8.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9hl03-real_madrid_real_betis
+-----
+Arsenal - Brighton
+  1: 1.31
+  2: 5.00
+  3: 7.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/goc03-arsenal_brighton
+-----
+Ipswich Town - Fulham
+  1: 2.85
+  2: 3.35
+  3: 2.22
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9oc03-ipswich_town_fulham
+-----
+Nottingham Forest - Wolverhampton
+  1: 1.99
+  2: 3.40
+  3: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/aoc03-nottingham_forest_wolverhampton
+-----
+Brentford - Southampton
+  1: 1.68
+  2: 3.75
+  3: 4.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/boc03-brentford_fc_southampton
+-----
+Everton - Bournemouth
+  1: 2.60
+  2: 3.25
+  3: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/eoc03-everton_bournemouth
+-----
+Leicester - Aston Villa
+  1: 4.20
+  2: 3.70
+  3: 1.68
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rld03-leicester_aston_villa
+-----
+West Ham - Manchester City
+  1: 6.40
+  2: 4.80
+  3: 1.36
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/foc03-west_ham_manchester_city
+-----
+Newcastle - Tottenham
+  1: 2.35
+  2: 3.70
+  3: 2.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/e3d03-newcastle_tottenham
+-----
+Chelsea - Crystal Palace
+  1: 1.53
+  2: 4.00
+  3: 4.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f3d03-chelsea_crystal_palace
+-----
+Manchester United - Liverpool
+  1: 3.40
+  2: 3.80
+  3: 1.78
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/g3d03-manchester_united_liverpool
+-----
+Southampton - Manchester United
+  1: 3.70
+  2: 3.25
+  3: 1.83
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wnn03-southampton_manchester_united
+-----
+Liverpool - Nottingham Forest
+  1: 1.20
+  2: 5.60
+  3: 9.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3on03-liverpool_nottingham_forest
+-----
+Crystal Palace - Leicester
+  1: 1.57
+  2: 3.60
+  3: 4.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/unn03-crystal_palace_leicester
+-----
+Manchester City - Brentford
+  1: 1.15
+  2: 6.20
+  3: 11.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xnn03-manchester_city_brentford_fc
+-----
+Brighton - Ipswich Town
+  1: 1.37
+  2: 4.30
+  3: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1on03-brighton_ipswich_town
+-----
+Fulham - West Ham
+  1: 2.50
+  2: 3.15
+  3: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0on03-fulham_west_ham
+-----
+Aston Villa - Everton
+  1: 1.39
+  2: 4.30
+  3: 6.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/tnn03-aston_villa_everton
+-----
+Bournemouth - Chelsea
+  1: 2.95
+  2: 3.30
+  3: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/znn03-bournemouth_chelsea
+-----
+Tottenham - Arsenal
+  1: 3.60
+  2: 3.35
+  3: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ynn03-tottenham_arsenal
+-----
+Wolverhampton - Newcastle
+  1: 3.50
+  2: 3.40
+  3: 1.83
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4on03-wolverhampton_newcastle
+-----
+Astana - Brann-Bergen
+  1: 3.70
+  2: 3.80
+  3: 1.87
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yxi03-fc_astana_brann_bergen
+-----
+Helsinki - Klaksvik
+  1: 2.12
+  2: 3.30
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1yi03-hjk_helsinki_klaksvik
+-----
+Zira - Omonia Nicosia
+  1: 2.90
+  2: 3.30
+  3: 2.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1ri03-zira_fk_omonia_nicosia
+-----
+MFK Ruzomberok - Noah
+  1: 2.50
+  2: 3.25
+  3: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2ri03-mfk_ruzomberok_fc_noah
+-----
+Paksi - Mlada Boleslav
+  1: 2.50
+  2: 3.40
+  3: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rxi03-paksi_fc_mlada_boleslav
+-----
+Trabzonspor - Saint-Gall
+  1: 1.61
+  2: 3.80
+  3: 5.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0yi03-trabzonspor_fc_saint_gall
+-----
+Olimpia Ljubljana - Rijeka
+  1: 2.55
+  2: 3.15
+  3: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0ri03-olimpia_ljubljana_rijeka
+-----
+Pafos - CFR Cluj
+  1: 2.07
+  2: 3.30
+  3: 3.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zqi03-pafos_fc_cfr_cluj
+-----
+The New Saints - Panevezys
+  1: 1.53
+  2: 4.20
+  3: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gyi03-the_new_saints_fk_panevezys
+-----
+Panathinaikos - Lens
+  1: 2.65
+  2: 3.40
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ozi03-panathinaikos_lens
+-----
+Cercle Brujas - Wisla Cracovia
+  1: 1.35
+  2: 5.00
+  3: 7.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/iyi03-cercle_brujas_wisla_cracovia
+-----
+Drita - Legia Varsovia
+  1: 4.50
+  2: 3.70
+  3: 1.71
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vqi03-kf_drita_legia_varsovia
+-----
+Kilmarnock - Copenhague
+  1: 4.80
+  2: 3.80
+  3: 1.63
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wzi03-kilmarnock_fc_fc_copenhague
+-----
+Zrinjski Mostar - Vitoria Guimaraes
+  1: 3.30
+  2: 3.40
+  3: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zzi03-zrinjski_mostar_vitoria_guimaraes
+-----
+UE Santa Coloma - Vikingur Reykjavik
+  1: 4.80
+  2: 4.20
+  3: 1.58
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qti03-ue_santa_coloma_vikingur_reykjavik
+-----
+Celje - Pyunik Yerevan
+  1: 1.68
+  2: 3.55
+  3: 4.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/70j03-nk_celje_fc_pyunik_yerevan
+-----
+Maribor - Djurgardens
+  1: 2.60
+  2: 3.30
+  3: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zsi03-nk_maribor_djurgardens_if
+-----
+Heidenheim 1846 - Hacken
+  1: 1.60
+  2: 4.30
+  3: 4.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0ti03-fc_heidenheim_1846_bk_hacken
+-----
+Servette - Chelsea
+  1: 4.40
+  2: 4.20
+  3: 1.62
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ysi03-servette_fc_chelsea
+-----
+Real Betis - Kryvbas
+  1: 1.17
+  2: 6.50
+  3: 13.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zni03-real_betis_fc_kryvbas
+-----
+Puskas Akademia - Fiorentina
+  1: 5.80
+  2: 4.10
+  3: 1.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xni03-puskas_akademia_fc_fiorentina
+-----
+Larne - Lincoln
+  1: 1.67
+  2: 3.55
+  3: 5.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wni03-larne_fc_lincoln_fc
+-----
+Granada - Huesca
+  1: 1.75
+  2: 3.00
+  3: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/t9m03-granada_sd_huesca
+-----
+Real Oviedo - Racing de Santander
+  1: 1.98
+  2: 3.15
+  3: 3.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ahl03-real_oviedo_racing_de_santander
+-----
+Cadiz - Tenerife
+  1: 1.70
+  2: 3.00
+  3: 4.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/u9m03-cadiz_cf_tenerife
+-----
+Almeria - Sporting de Gijon
+  1: 1.65
+  2: 3.25
+  3: 4.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x9m03-almeria_sporting_de_gijon
+-----
+Malaga - Albacete Balompie
+  1: 2.05
+  2: 2.90
+  3: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z9m03-malaga_albacete_balompie
+-----
+Deportivo La Coruna - Racing Ferrol
+  1: 1.80
+  2: 3.00
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3am03-deportivo_la_coruna_racing_ferrol
+-----
+Burgos - Castellon
+  1: 2.35
+  2: 2.95
+  3: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2am03-burgos_cf_castellon
+-----
+Eldense - Cartagena
+  1: 1.82
+  2: 2.95
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6am03-cd_eldense_cartagena
+-----
+Mirandes - Real Zaragoza
+  1: 2.50
+  2: 2.75
+  3: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7am03-mirandes_real_zaragoza
+-----
+Eibar - Levante
+  1: 1.91
+  2: 3.15
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cam03-sd_eibar_levante
+-----
+Elche - Cordoba
+  1: 1.99
+  2: 2.90
+  3: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jam03-elche_cf_cordoba_cf
+-----
+Union Berlin - Sankt-Pauli
+  1: 1.93
+  2: 3.40
+  3: 3.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f3c03-union_berlin_sankt_pauli
+-----
+Bochum - Borussia Monchengladbach
+  1: 2.40
+  2: 3.45
+  3: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/k3c03-bochum_borussia_monchengladbach
+-----
+Eintracht Frankfurt - Hoffenheim
+  1: 1.75
+  2: 3.90
+  3: 3.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/p3c03-eintracht_frankfurt_hoffenheim
+-----
+Holstein Kiel - Wolfsburgo
+  1: 3.00
+  2: 3.45
+  3: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/q3c03-holstein_kiel_wolfsburgo
+-----
+Stuttgart - Mainz
+  1: 1.58
+  2: 3.95
+  3: 4.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/r3c03-vfb_stuttgart_mainz
+-----
+Werder Bremen - Borussia Dortmund
+  1: 3.70
+  2: 3.90
+  3: 1.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/u3c03-werder_bremen_borussia_dortmund
+-----
+Bayer Leverkusen - Leipzig
+  1: 1.72
+  2: 3.90
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x3c03-bayer_leverkusen_rb_leipzig
+-----
+Heidenheim 1846 - Augsburgo
+  1: 2.32
+  2: 3.20
+  3: 2.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/24c03-fc_heidenheim_1846_augsburgo
+-----
+Bayern Munich - Friburgo
+  1: 1.16
+  2: 6.40
+  3: 9.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/44c03-bayern_munich_friburgo
+-----
+Borussia Dortmund - Heidenheim 1846
+  1: 1.31
+  2: 4.90
+  3: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/c0o03-borussia_dortmund_fc_heidenheim_1846
+-----
+Borussia Monchengladbach - Stuttgart
+  1: 2.50
+  2: 3.75
+  3: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d0o03-borussia_monchengladbach_vfb_stuttgart
+-----
+Leipzig - Union Berlin
+  1: 1.39
+  2: 4.30
+  3: 6.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/b0o03-rb_leipzig_union_berlin
+-----
+Friburgo - Bochum
+  1: 1.73
+  2: 3.55
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a0o03-friburgo_bochum
+-----
+Wolfsburgo - Eintracht Frankfurt
+  1: 2.25
+  2: 3.40
+  3: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/90o03-wolfsburgo_eintracht_frankfurt
+-----
+Hoffenheim - Bayer Leverkusen
+  1: 4.60
+  2: 3.60
+  3: 1.58
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/70o03-hoffenheim_bayer_leverkusen
+-----
+Holstein Kiel - Bayern Munich
+  1: 7.50
+  2: 5.20
+  3: 1.27
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/80o03-holstein_kiel_bayern_munich
+-----
+Augsburgo - Sankt-Pauli
+  1: 1.82
+  2: 3.50
+  3: 3.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/e0o03-augsburgo_sankt_pauli
+-----
+Mainz - Werder Bremen
+  1: 1.91
+  2: 3.50
+  3: 3.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f0o03-mainz_werder_bremen
+-----
+M.Granollers-H.Zeballos - Cerundolo F - Ugo Carabelli C
+  1: 1.01
+  2: 6.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ncl03-m_granollers_h_zeballos_cerundolo_f_ugo_carabelli_c
+-----
+Krueger M - Stalder R - Lammons N - Withrow J
+  1: 4.10
+  2: 1.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kdl03-krueger_m_stalder_r_lammons_n_withrow_j
+-----
+J.Eysseric-F.Martin - King E - Nakashima B
+  1: 2.02
+  2: 1.52
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5dl03-j_eysseric_f_martin_king_e_nakashima_b
+-----
+Muller A - Ofner S - Mies A - Smith J-P
+  1: 2.17
+  2: 1.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dlo03-muller_a_ofner_s_mies_a_smith_j_p
+-----
+Erler A - Middelkoop M - Behar A - Johnson L
+  1: 1.73
+  2: 1.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ocl03-erler_a_middelkoop_m_behar_a_johnson_l
+-----
+Carreno Busta P - Martos Gornes S - Matos R - Melo M
+  1: 3.25
+  2: 1.19
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ycl03-carreno_busta_p_martos_gornes_s_matos_r_melo_m
+-----
+Cash R - Tracy J - Nagal S - Nishioka Y
+  1: 1.11
+  2: 3.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uhl03-cash_r_tracy_j_nagal_s_nishioka_y
+-----
+Kotov P - Seyboth Wild T - Carballes Baena R - Coria F
+  1: 1.45
+  2: 2.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wel03-kotov_p_seyboth_wild_t_carballes_baena_r_coria_f
+-----
+J.Murray-J.Peers - Goransson A - Verbeek S
+  1: 1.36
+  2: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yel03-j_murray_j_peers_goransson_a_verbeek_s
+-----
+Hidalgo D - Tabilo A - Glasspool L - Hijikata R
+  1: 2.45
+  2: 1.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rhl03-hidalgo_d_tabilo_a_glasspool_l_hijikata_r
+-----
+Nys H - Zielinski J - Martinez P - Munar J
+  1: 1.12
+  2: 3.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ucl03-nys_h_zielinski_j_martinez_p_munar_j
+-----
+S.Arends-R.Haase - Bopanna R - Ebden M
+  1: 3.20
+  2: 1.19
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vhl03-s_arends_r_haase_bopanna_r_ebden_m
+-----
+Bolelli S - Vavassori A - Blumberg W - Ruud C
+  1: 1.24
+  2: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vel03-bolelli_s_vavassori_a_blumberg_w_ruud_c
+-----
+S.Gille-J.Vliegen - Kecmanovic M - Safiullin R
+  1: 1.55
+  2: 1.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qel03-s_gille_j_vliegen_kecmanovic_m_safiullin_r
+-----
+W.Koolhof-N.Mektic - Griekspoor T - Kokkinakis T
+  1: 1.35
+  2: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ldl03-w_koolhof_n_mektic_griekspoor_t_kokkinakis_t
+-----
+R.Ram-J.Salisbury - Diaz Acosta F - Etcheverry T M
+  1: 1.03
+  2: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4dl03-r_ram_j_salisbury_diaz_acosta_f_etcheverry_t_m
+-----
+Cash J - Galloway R - Boyer T - Nava E
+  1: 1.20
+  2: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/iip03-cash_j_galloway_r_boyer_t_nava_e
+-----
+Luton Town - Queens Park Rangers
+  1: 1.71
+  2: 3.30
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/k8k03-luton_town_queens_park_rangers
+-----
+Cardiff City - Middlesbrough
+  1: 3.55
+  2: 3.35
+  3: 1.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f8k03-cardiff_city_middlesbrough
+-----
+Burnley - Blackburn Rovers
+  1: 1.71
+  2: 3.35
+  3: 3.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/g8k03-burnley_fc_blackburn_rovers
+-----
+Coventry City - Norwich City
+  1: 1.75
+  2: 3.30
+  3: 3.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h8k03-coventry_city_norwich_city
+-----
+Plymouth Argyle - Stoke City
+  1: 2.85
+  2: 3.20
+  3: 2.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/s8k03-plymouth_argyle_stoke_city
+-----
+West Bromwich Albion - Swansea
+  1: 1.75
+  2: 3.15
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n8k03-west_bromwich_albion_swansea
+-----
+Leeds United - Hull City
+  1: 1.29
+  2: 4.40
+  3: 6.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/m8k03-leeds_united_hull_city
+-----
+Derby County - Bristol City
+  1: 2.60
+  2: 3.05
+  3: 2.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l8k03-derby_county_bristol_city
+-----
+Millwall - Sheffield Wednesday
+  1: 2.25
+  2: 3.10
+  3: 2.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j8k03-millwall_fc_sheffield_wednesday
+-----
+Portsmouth - Sunderland
+  1: 3.25
+  2: 3.30
+  3: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/i8k03-portsmouth_fc_sunderland
+-----
+Oxford United - Preston North End
+  1: 2.15
+  2: 3.15
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/e8k03-oxford_united_preston_north_end
+-----
+Sheffield United - Watford
+  1: 1.68
+  2: 3.45
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d8k03-sheffield_united_watford
+-----
+Blackpool - Wycombe Wanderers
+  1: 1.75
+  2: 3.25
+  3: 3.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w8k03-fc_blackpool_wycombe_wanderers
+-----
+Rotherham United - Huddersfield Town
+  1: 2.55
+  2: 3.10
+  3: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z8k03-rotherham_united_huddersfield_town
+-----
+Mansfield Town - Stockport County
+  1: 2.30
+  2: 3.35
+  3: 2.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/u8k03-mansfield_town_stockport_county
+-----
+Peterborough United - Wrexham
+  1: 1.95
+  2: 3.35
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l9k03-peterborough_united_wrexham_fc
+-----
+Bristol Rovers - Cambridge United
+  1: 1.87
+  2: 3.10
+  3: 3.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/89k03-bristol_rovers_cambridge_united
+-----
+Shrewsbury Town - Leyton Orient
+  1: 2.65
+  2: 3.05
+  3: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/79k03-shrewsbury_town_leyton_orient
+-----
+Crawley Town - Barnsley
+  1: 2.80
+  2: 3.25
+  3: 2.07
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/59k03-crawley_town_barnsley_fc
+-----
+Reading - Charlton Athletic
+  1: 2.17
+  2: 3.15
+  3: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/39k03-reading_fc_charlton_athletic
+-----
+Stevenage - Lincoln City
+  1: 2.12
+  2: 3.00
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/19k03-stevenage_fc_lincoln_city
+-----
+Birmingham City - Wigan Athletic
+  1: 1.35
+  2: 4.20
+  3: 5.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x8k03-birmingham_city_wigan_athletic
+-----
+Bolton Wanderers - Exeter City
+  1: 1.42
+  2: 3.85
+  3: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v8k03-bolton_wanderers_exeter_city
+-----
+Northampton Town - Burton Albion
+  1: 2.05
+  2: 3.15
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o9k03-northampton_town_burton_albion
+-----
+Gillingham - Chesterfield
+  1: 2.45
+  2: 3.00
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/y9k03-gillingham_fc_chesterfield_fc
+-----
+Port Vale - Doncaster Rovers
+  1: 2.35
+  2: 3.05
+  3: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1ak03-port_vale_doncaster_rovers
+-----
+Swindon Town - Notts County
+  1: 2.45
+  2: 3.35
+  3: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nak03-swindon_town_notts_county
+-----
+Morecambe - Newport County
+  1: 2.05
+  2: 3.10
+  3: 3.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mak03-morecambe_fc_newport_county_afc
+-----
+Walsall - Cheltenham Town
+  1: 1.63
+  2: 3.35
+  3: 4.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lak03-walsall_fc_cheltenham_town
+-----
+Harrogate Town - Barrow
+  1: 3.10
+  2: 3.00
+  3: 2.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bak03-harrogate_town_barrow_afc
+-----
+Grimsby Town - Bradford City
+  1: 2.80
+  2: 3.05
+  3: 2.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9ak03-grimsby_town_bradford_city
+-----
+Accrington Stanley - Colchester United
+  1: 2.45
+  2: 3.00
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8ak03-accrington_stanley_colchester_united
+-----
+Bromley - Crewe Alexandra
+  1: 1.97
+  2: 3.10
+  3: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7ak03-bromley_crewe_alexandra
+-----
+Carlisle United - Tranmere Rovers
+  1: 1.99
+  2: 3.00
+  3: 3.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3ak03-carlisle_united_tranmere_rovers
+-----
+Wimbledon - Fleetwood Town
+  1: 2.00
+  2: 3.10
+  3: 3.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2ak03-afc_wimbledon_fleetwood_town
+-----
+Salford City - Milton Keynes Dons
+  1: 2.85
+  2: 3.20
+  3: 2.07
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/oak03-salford_city_milton_keynes_dons
+-----
+Fylde - Southend United
+  1: 3.25
+  2: 3.25
+  3: 1.87
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ebm03-afc_fylde_southend_united
+-----
+Barnet - Tamworth
+  1: 1.50
+  2: 3.75
+  3: 4.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2dm03-barnet_fc_tamworth_fc
+-----
+Boston United - Yeovil Town
+  1: 3.00
+  2: 3.10
+  3: 2.02
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1dm03-boston_united_yeovil_town
+-----
+Ebbsfleet United - Halifax Town
+  1: 2.25
+  2: 3.05
+  3: 2.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lbm03-ebbsfleet_united_fc_halifax_town
+-----
+Gateshead - Eastleigh
+  1: 1.53
+  2: 3.65
+  3: 4.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kbm03-gateshead_eastleigh_fc
+-----
+Solihull Moors - Wealdstone
+  1: 1.72
+  2: 3.50
+  3: 3.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jbm03-solihull_moors_wealdstone_fc
+-----
+Altrincham - Oldham Athletic
+  1: 2.65
+  2: 3.20
+  3: 2.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ibm03-altrincham_fc_oldham_athletic
+-----
+Dagenham & Redbridge - York City
+  1: 2.42
+  2: 3.05
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hbm03-dagenham_redbridge_york_city
+-----
+Rochdale - Woking
+  1: 1.92
+  2: 3.15
+  3: 3.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gbm03-rochdale_afc_woking
+-----
+Aldershot Town - Maidenhead United
+  1: 1.75
+  2: 3.45
+  3: 3.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fbm03-aldershot_town_maidenhead_united
+-----
+Hartlepool United - Braintree Town
+  1: 1.63
+  2: 3.50
+  3: 4.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3dm03-hartlepool_united_braintree_town_fc
+-----
+Sutton United - Forest Green Rovers
+  1: 2.07
+  2: 3.25
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0dm03-sutton_united_forest_green_rovers
+-----
+Venecia - Torino
+  1: 3.50
+  2: 3.30
+  3: 1.98
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/afd03-venecia_torino
+-----
+Inter Milan - Atalanta
+  1: 1.58
+  2: 3.95
+  3: 4.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kpc03-inter_milan_atalanta
+-----
+Lecce - Cagliari
+  1: 2.17
+  2: 3.05
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/epc03-lecce_cagliari
+-----
+Bolonia - Empoli
+  1: 1.58
+  2: 3.55
+  3: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hpc03-bolonia_empoli
+-----
+Naples - Parma
+  1: 1.42
+  2: 4.30
+  3: 6.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lpc03-naples_parma_fc
+-----
+Lazio Rome - Milan
+  1: 2.75
+  2: 3.25
+  3: 2.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fpc03-lazio_rome_milan_ac
+-----
+Genoa - Hellas Verona
+  1: 1.93
+  2: 3.05
+  3: 3.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gpc03-genoa_hellas_verona
+-----
+Fiorentina - Monza
+  1: 1.58
+  2: 3.60
+  3: 4.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mpc03-fiorentina_ac_monza
+-----
+Juventus - Roma
+  1: 1.67
+  2: 3.40
+  3: 4.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jpc03-juventus_roma
+-----
+Udinese - Come
+  1: 1.93
+  2: 3.15
+  3: 3.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7ld03-udinese_come
+-----
+Sampdoria - Bari
+  1: 1.82
+  2: 3.10
+  3: 3.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/23o03-sampdoria_as_bari
+-----
+Modene - Cittadella
+  1: 2.00
+  2: 2.95
+  3: 3.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z2o03-modene_as_cittadella
+-----
+Sudtirol - Brescia
+  1: 2.12
+  2: 2.80
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/03o03-fc_sudtirol_brescia
+-----
+Pisa - Reggiana 1919
+  1: 1.62
+  2: 3.30
+  3: 4.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/13o03-pisa_ac_reggiana_1919
+-----
+Palermo - Nuova Cosenza Calcio
+  1: 1.87
+  2: 3.10
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lfp03-palermo_nuova_cosenza_calcio
+-----
+Lyon - Estrasburgo
+  1: 1.68
+  2: 3.75
+  3: 4.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3qc03-lyon_estrasburgo
+-----
+Brest - Saint-Etienne
+  1: 1.75
+  2: 3.50
+  3: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cqc03-brest_saint_etienne
+-----
+Montpellier - Nantes
+  1: 2.15
+  2: 3.25
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4qc03-montpellier_nantes
+-----
+Toulouse - Marseille
+  1: 3.60
+  2: 3.50
+  3: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9qc03-toulouse_marseille
+-----
+Monaco - Lens
+  1: 1.77
+  2: 3.65
+  3: 3.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8qc03-monaco_lens
+-----
+Reims - Rennes
+  1: 2.70
+  2: 3.30
+  3: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/doc03-reims_rennes
+-----
+Angers - Niza
+  1: 3.75
+  2: 3.10
+  3: 1.88
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w4l03-angers_niza
+-----
+Le Havre - Auxerre
+  1: 2.60
+  2: 3.10
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x4l03-le_havre_auxerre
+-----
+Lille - Paris SG
+  1: 3.55
+  2: 3.50
+  3: 1.81
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5qc03-lille_paris_sg
+-----
+Rennes - Montpellier
+  1: 1.53
+  2: 3.75
+  3: 5.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4qo03-rennes_montpellier
+-----
+Paris SG - Brest
+  1: 1.33
+  2: 4.60
+  3: 6.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5qo03-paris_sg_brest
+-----
+Toulouse - Le Havre
+  1: 1.61
+  2: 3.55
+  3: 4.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6qo03-toulouse_le_havre
+-----
+Marseille - Niza
+  1: 2.00
+  2: 3.30
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7qo03-marseille_niza
+-----
+Saint-Etienne - Lille
+  1: 3.95
+  2: 3.10
+  3: 1.83
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8qo03-saint_etienne_lille
+-----
+Auxerre - Monaco
+  1: 3.75
+  2: 3.30
+  3: 1.83
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9qo03-auxerre_monaco
+-----
+Estrasburgo - Angers
+  1: 1.83
+  2: 3.15
+  3: 3.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/aqo03-estrasburgo_angers
+-----
+Lens - Lyon
+  1: 2.00
+  2: 3.30
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bqo03-lens_lyon
+-----
+Nantes - Reims
+  1: 2.45
+  2: 3.20
+  3: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cqo03-nantes_reims
+-----
+Caen - Annecy
+  1: 1.97
+  2: 3.15
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3pj03-caen_annecy_fc
+-----
+Dunkerque - Rodez
+  1: 2.47
+  2: 3.00
+  3: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1pk03-dunkerque_rodez
+-----
+Grenoble Foot - Pau
+  1: 2.07
+  2: 3.05
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2pk03-grenoble_foot_pau
+-----
+Ajaccio - Troyes
+  1: 2.00
+  2: 2.85
+  3: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hnm03-ac_ajaccio_troyes
+-----
+Clermont - Paris
+  1: 2.47
+  2: 2.90
+  3: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4hn03-clermont_paris_fc
+-----
+Martigues - Bastia
+  1: 2.60
+  2: 2.80
+  3: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7hn03-fc_martigues_bastia
+-----
+Guingamp - Red Star
+  1: 1.70
+  2: 3.15
+  3: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8hn03-guingamp_red_star
+-----
+Metz - Laval
+  1: 1.70
+  2: 3.05
+  3: 4.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3hn03-metz_laval
+-----
+Amiens - Lorient
+  1: 3.45
+  2: 3.05
+  3: 1.88
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6hn03-amiens_lorient
+-----
+Sochaux - Le Mans
+  1: 2.10
+  2: 3.05
+  3: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xaj03-sochaux_le_mans
+-----
+Rouen - Orleans
+  1: 2.55
+  2: 2.65
+  3: 2.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yaj03-rouen_orleans
+-----
+Versailles 78 - Nancy
+  1: 1.99
+  2: 2.90
+  3: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xdk03-versailles_78_nancy
+-----
+Fortuna Dusseldorf - Hannover 96
+  1: 1.99
+  2: 3.30
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xyk03-fortuna_dusseldorf_hannover_96
+-----
+SSV Jahn Regensburg - Greuther Furth
+  1: 2.65
+  2: 3.15
+  3: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zpn03-ssv_jahn_regensburg_greuther_furth
+-----
+Nuremberg - 1. Magdeburg
+  1: 2.40
+  2: 3.25
+  3: 2.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uyk03-fc_nuremberg_1_fc_magdeburg
+-----
+Elversberg - Darmstadt
+  1: 2.20
+  2: 3.35
+  3: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wpn03-sv_elversberg_darmstadt
+-----
+Hamburgo - Preussen Munster
+  1: 1.35
+  2: 4.40
+  3: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1qn03-hamburgo_sc_preussen_munster
+-----
+Kaiserslautern - Hertha Berlin
+  1: 2.10
+  2: 3.40
+  3: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zek03-kaiserslautern_hertha_berlin
+-----
+Eintracht Braunschweig - Karlsruhe
+  1: 3.05
+  2: 3.55
+  3: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yyk03-eintracht_braunschweig_karlsruhe
+-----
+Schalke 04 - Colonia
+  1: 2.80
+  2: 3.30
+  3: 2.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0qn03-schalke_04_colonia
+-----
+Paderborn 07 - SSV Ulm 1846
+  1: 1.50
+  2: 3.80
+  3: 4.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2qn03-sc_paderborn_07_ssv_ulm_1846
+-----
+Victoria Cologne - Hansa Rostock
+  1: 2.65
+  2: 3.25
+  3: 2.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2xn03-fc_victoria_cologne_hansa_rostock
+-----
+Arminia Bielefeld - Sandhausen
+  1: 1.77
+  2: 3.45
+  3: 3.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/93k03-arminia_bielefeld_sv_sandhausen
+-----
+Ingolstadt - Munich 1860
+  1: 1.71
+  2: 3.45
+  3: 3.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wyk03-ingolstadt_munich_1860
+-----
+Waldhof Mannheim - 1. Saarbrucken
+  1: 2.40
+  2: 3.30
+  3: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h6l03-sv_waldhof_mannheim_1_fc_saarbrucken
+-----
+Dynamo Dresde - Stuttgart Amateur
+  1: 1.35
+  2: 4.20
+  3: 5.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jzn03-dynamo_dresde_stuttgart_amateur
+-----
+Alemannia Aachen - Erzgebirge Aue
+  1: 2.25
+  2: 3.20
+  3: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nzn03-tsv_alemannia_aachen_erzgebirge_aue
+-----
+Wehen Wiesbaden - Energie Cottbus
+  1: 1.60
+  2: 3.45
+  3: 4.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lzn03-sv_wehen_wiesbaden_energie_cottbus
+-----
+SpVgg Unterhaching - Rot Weiss Essen
+  1: 2.55
+  2: 3.20
+  3: 2.22
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f6l03-spvgg_unterhaching_rot_weiss_essen
+-----
+Hannover 96 II - Verl 1924
+  1: 2.25
+  2: 3.30
+  3: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mzn03-hannover_96_ii_sc_verl_1924
+-----
+Waalwijk - Alkmaar
+  1: 5.20
+  2: 4.00
+  3: 1.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j6g03-rkc_waalwijk_az_alkmaar
+-----
+Almere City - Groningen
+  1: 3.10
+  2: 3.30
+  3: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/q6g03-almere_city_fc_fc_groningen
+-----
+Fortuna Sittard - N.E.C. Nijmegen
+  1: 2.15
+  2: 3.35
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v6g03-fortuna_sittard_n_e_c_nijmegen
+-----
+Heerenveen - Breda
+  1: 1.65
+  2: 3.75
+  3: 4.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w6g03-heerenveen_nac_breda
+-----
+Willem II - Sparta Rotterdam
+  1: 2.65
+  2: 3.30
+  3: 2.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/37g03-willem_ii_sparta_rotterdam
+-----
+Utrecht - Twente
+  1: 2.70
+  2: 3.25
+  3: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/57g03-fc_utrecht_fc_twente
+-----
+Zwolle - Heracles Almelo
+  1: 1.92
+  2: 3.45
+  3: 3.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/77g03-pec_zwolle_heracles_almelo
+-----
+Eindhoven - Ahead Eagles
+  1: 1.11
+  2: 7.25
+  3: 13.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/97g03-psv_eindhoven_go_ahead_eagles
+-----
+Twente - Zwolle
+  1: 1.16
+  2: 5.80
+  3: 12.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zyo03-fc_twente_pec_zwolle
+-----
+Groningen - Feyenoord
+  1: 5.80
+  2: 4.20
+  3: 1.41
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0zo03-fc_groningen_feyenoord
+-----
+Breda - Fortuna Sittard
+  1: 2.80
+  2: 3.45
+  3: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4zo03-nac_breda_fortuna_sittard
+-----
+Alkmaar - Heerenveen
+  1: 1.61
+  2: 3.65
+  3: 4.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9zo03-az_alkmaar_heerenveen
+-----
+Eindhoven - N.E.C. Nijmegen
+  1: 1.16
+  2: 5.80
+  3: 12.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bzo03-psv_eindhoven_n_e_c_nijmegen
+-----
+Sparta Rotterdam - Ahead Eagles
+  1: 2.10
+  2: 3.30
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dzo03-sparta_rotterdam_go_ahead_eagles
+-----
+Willem II - Waalwijk
+  1: 2.07
+  2: 3.20
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hzo03-willem_ii_rkc_waalwijk
+-----
+Heracles Almelo - Almere City
+  1: 2.07
+  2: 3.35
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nzo03-heracles_almelo_almere_city_fc
+-----
+Jong Utrecht - Emmen
+  1: 3.00
+  2: 3.60
+  3: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/blj03-jong_fc_utrecht_fc_emmen
+-----
+Vitesse Arnhem - Eindhoven
+  1: 2.10
+  2: 3.65
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/oan03-vitesse_arnhem_fc_eindhoven
+-----
+Maastricht - Jong
+  1: 2.07
+  2: 3.80
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dzm03-mvv_maastricht_jong_psv
+-----
+Dordrecht - Cambuur Leeuwarden
+  1: 2.35
+  2: 3.90
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2mm03-fc_dordrecht_cambuur_leeuwarden
+-----
+Telstar - Jong Alkmaar
+  1: 1.87
+  2: 3.90
+  3: 3.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1mm03-sc_telstar_jong_az_alkmaar
+-----
+Helmond Sport - Venlo
+  1: 2.40
+  2: 3.35
+  3: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/t7l03-helmond_sport_venlo
+-----
+Jong Ajax Amsterdam - Den Bosch
+  1: 1.90
+  2: 3.80
+  3: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jck03-jong_ajax_amsterdam_fc_den_bosch
+-----
+ADO Den Haag - Excelsior Rotterdam
+  1: 2.15
+  2: 3.75
+  3: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pan03-ado_den_haag_excelsior_rotterdam
+-----
+Volendam - Oss
+  1: 1.78
+  2: 3.60
+  3: 3.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nan03-fc_volendam_fc_oss
+-----
+Roda - De Graafschap
+  1: 1.90
+  2: 3.80
+  3: 3.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/s7l03-roda_de_graafschap
+-----
+KRC Genk - Westerlo
+  1: 1.68
+  2: 3.95
+  3: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/sck03-krc_genk_westerlo
+-----
+Malinas - Sporting Charleroi
+  1: 2.55
+  2: 3.25
+  3: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ccl03-fc_malinas_sporting_charleroi
+-----
+Kfco Beerschot Wilrijk - FCV Dender EH
+  1: 2.80
+  2: 3.20
+  3: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3ql03-kfco_beerschot_wilrijk_fcv_dender_eh
+-----
+Oud-Heverlee Leuven - Standard de Lieja
+  1: 1.85
+  2: 3.35
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5al03-oud_heverlee_leuven_standard_de_lieja
+-----
+Club Brugge - Cercle Brujas
+  1: 1.48
+  2: 4.10
+  3: 4.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ezk03-club_brugge_cercle_brujas
+-----
+KAA Gent - Royal Antwerp
+  1: 2.37
+  2: 3.35
+  3: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/85l03-kaa_gent_royal_antwerp_fc
+-----
+Union Saint-Gilloise - Anderlecht
+  1: 1.93
+  2: 3.45
+  3: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6al03-union_saint_gilloise_rsc_anderlecht
+-----
+KV Kortrijk - St.Truidense VV
+  1: 2.00
+  2: 3.35
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fcl03-kv_kortrijk_st_truidense_vv
+-----
+RWD Molenbeek - Eupen
+  1: 2.05
+  2: 3.25
+  3: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3ln03-rwd_molenbeek_as_eupen
+-----
+Zulte Waregem - KSC Lokeren Temse
+  1: 1.41
+  2: 4.10
+  3: 5.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vzn03-zulte_waregem_ksc_lokeren_temse
+-----
+Anderlecht Futures - Raal La Louviere
+  1: 2.60
+  2: 3.35
+  3: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/tzn03-rsc_anderlecht_futures_raal_la_louviere
+-----
+Patro Maasmechelen - Jong Club Brugge
+  1: 1.63
+  2: 3.50
+  3: 4.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cek03-patro_maasmechelen_jong_club_brugge
+-----
+Liege - Waasland-Beveren
+  1: 2.20
+  2: 3.15
+  3: 2.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gcl03-rfc_liege_waasland_beveren
+-----
+Jong KRC Genk - Francs Borains
+  1: 2.02
+  2: 3.25
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hcl03-jong_krc_genk_francs_borains
+-----
+KFC Oosterzonen - Kmsk Deinze
+  1: 3.10
+  2: 3.25
+  3: 1.92
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/95l03-kfc_oosterzonen_kmsk_deinze
+-----
+Seraing United - Lommel United
+  1: 3.85
+  2: 3.45
+  3: 1.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/icl03-rfc_seraing_united_lommel_united
+-----
+Moreirense - Benfica
+  1: 6.40
+  2: 4.20
+  3: 1.43
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mgl03-moreirense_benfica
+-----
+Santa Clara - Avs Futebol Sad
+  1: 1.78
+  2: 3.30
+  3: 4.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/krl03-santa_clara_avs_futebol_sad
+-----
+Estrela - Casa Pia Atletico
+  1: 2.12
+  2: 3.10
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fmk03-cf_estrela_casa_pia_atletico
+-----
+Boavista - Estoril
+  1: 2.32
+  2: 3.10
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1bl03-boavista_estoril
+-----
+Sporting CP - Porto
+  1: 1.81
+  2: 3.55
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lrl03-sporting_cp_fc_porto
+-----
+Nacional Madeira - Sporting Farense
+  1: 2.10
+  2: 3.20
+  3: 3.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mrl03-nacional_madeira_sporting_farense
+-----
+Ave - Arouca
+  1: 2.20
+  2: 3.05
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j6l03-rio_ave_arouca
+-----
+Vitoria Guimaraes - Famalicao
+  1: 1.87
+  2: 3.20
+  3: 3.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ngl03-vitoria_guimaraes_fc_famalicao
+-----
+Gil Vicente - Braga
+  1: 4.10
+  2: 3.60
+  3: 1.67
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ogl03-fc_gil_vicente_braga
+-----
+Alverca - Academico Viseu
+  1: 2.85
+  2: 3.00
+  3: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4ao03-alverca_academico_viseu
+-----
+Oliveirense - Leixoes
+  1: 2.70
+  2: 3.05
+  3: 2.22
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wbk03-ud_oliveirense_leixoes_sc
+-----
+Tondela - Felgueiras
+  1: 2.17
+  2: 3.00
+  3: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5ao03-tondela_felgueiras
+-----
+Vizela - SCU Torreense
+  1: 1.70
+  2: 3.35
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7ao03-fc_vizela_scu_torreense
+-----
+Portimonense - Maritimo Madeira
+  1: 2.65
+  2: 3.00
+  3: 2.27
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9ao03-portimonense_sc_cs_maritimo_madeira
+-----
+Feirense - Benfica Lisbonne B
+  1: 2.37
+  2: 3.20
+  3: 2.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0bl03-feirense_benfica_lisbonne_b
+-----
+Pacos Ferreira - Penafiel
+  1: 1.98
+  2: 3.10
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/c6l03-pacos_ferreira_fc_penafiel
+-----
+Porto B - Uniao Leiria
+  1: 2.25
+  2: 3.20
+  3: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zal03-fc_porto_b_uniao_leiria
+-----
+Chaves - Mafra
+  1: 1.75
+  2: 3.30
+  3: 3.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ueo03-chaves_cd_mafra
+-----
+Apoel Nicosia - Rigas Futbola Skola
+  1: 1.52
+  2: 4.00
+  3: 5.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cpi03-apoel_nicosia_rigas_futbola_skola
+-----
+Elfsborg - Molde
+  1: 2.15
+  2: 3.65
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dpi03-if_elfsborg_molde
+-----
+Petrocub - Ludogorets
+  1: 4.10
+  2: 3.60
+  3: 1.78
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kpi03-cs_petrocub_fk_ludogorets
+-----
+Anderlecht - Dynamo Minsk
+  1: 1.28
+  2: 5.20
+  3: 9.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fui03-rsc_anderlecht_dynamo_minsk
+-----
+Besiktas - Lugano
+  1: 1.41
+  2: 4.60
+  3: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gui03-besiktas_fc_lugano
+-----
+Ajax - Jagiellonia Bialystok
+  1: 1.19
+  2: 6.50
+  3: 11.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lpi03-ajax_jagiellonia_bialystok
+-----
+FCSB - LASK
+  1: 2.10
+  2: 3.25
+  3: 3.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/eui03-fcsb_lask
+-----
+Heart of Midlothian - Viktoria Plzen
+  1: 3.55
+  2: 3.40
+  3: 1.99
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dui03-heart_of_midlothian_fc_viktoria_plzen
+-----
+Backa Topola - Maccabi Tel Aviv
+  1: 3.35
+  2: 3.55
+  3: 2.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hqi03-backa_topola_maccabi_tel_aviv
+-----
+Borac Banja Luka - Ferencvarosi
+  1: 5.80
+  2: 3.50
+  3: 1.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gqi03-borac_banja_luka_ferencvarosi_tc
+-----
+Shamrock Rovers - PAOK Thessaloniki
+  1: 5.00
+  2: 3.90
+  3: 1.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kqi03-shamrock_rovers_paok_thessaloniki
+-----
+Rapid Viena - Braga
+  1: 2.70
+  2: 3.45
+  3: 2.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/iqi03-rapid_viena_braga
+-----
+Aris Limassol - Als Omonia
+  1: 1.19
+  2: 4.90
+  3: 9.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zam03-aris_limassol_als_omonia
+-----
+Anorthosis Famagouste - Apollon Limassol
+  1: 3.05
+  2: 3.20
+  3: 1.97
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wal03-anorthosis_famagouste_apollon_limassol
+-----
+Enosis NP - Karmiotissa Polemidion
+  1: 2.42
+  2: 3.10
+  3: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/obm03-enosis_np_fc_karmiotissa_polemidion
+-----
+AEL Limassol - Omonia Aradippou
+  1: 1.30
+  2: 4.10
+  3: 7.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nem03-ael_limassol_omonia_aradippou
+-----
+AEK Larnaca - Pafos
+  1: 2.15
+  2: 3.00
+  3: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yal03-aek_larnaca_pafos_fc
+-----
+Apoel Nicosia - Ethnikos Achnas
+  1: 1.27
+  2: 4.60
+  3: 7.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xal03-apoel_nicosia_ethnikos_achnas
+-----
+NEA Salamina Famagouste - Omonia Nicosia
+  1: 4.30
+  2: 3.70
+  3: 1.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lbl03-nea_salamina_famagouste_omonia_nicosia
+-----
+Austria Klagenfurt - Blau Weiss Linz
+  1: 2.07
+  2: 3.40
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n0l03-sk_austria_klagenfurt_fc_blau_weiss_linz
+-----
+Hartberg - GAK Grazer
+  1: 1.95
+  2: 3.50
+  3: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o0l03-tsv_hartberg_gak_grazer
+-----
+Sturm Graz - WSG Tirol
+  1: 1.28
+  2: 4.90
+  3: 8.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xek03-sturm_graz_wsg_tirol
+-----
+LASK - Wolfsberger
+  1: 1.67
+  2: 3.70
+  3: 4.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/11l03-lask_wolfsberger_ac
+-----
+Rapid Viena - Red Bull Salzbourg
+  1: 3.60
+  2: 3.65
+  3: 1.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/21l03-rapid_viena_red_bull_salzbourg
+-----
+SCR Altach - Austria Viena
+  1: 2.70
+  2: 3.35
+  3: 2.22
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/71l03-scr_altach_austria_viena
+-----
+SKU Amstetten - Schwarz Weiss Bregenz
+  1: 1.99
+  2: 3.30
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hbj03-sku_amstetten_schwarz_weiss_bregenz
+-----
+Liefering - Sturm Graz
+  1: 1.40
+  2: 4.40
+  3: 4.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/83k03-fc_liefering_sk_sturm_graz_a
+-----
+Austria Lustenau - Floridsdorfer
+  1: 2.02
+  2: 3.15
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/abm03-sc_austria_lustenau_floridsdorfer_ac
+-----
+Admira Wacker Modling - Rapid de Vienne II
+  1: 1.80
+  2: 3.40
+  3: 3.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bbm03-fc_admira_wacker_modling_sk_rapid_de_vienne_ii
+-----
+First Vienna 1894 - SKN ST Polten
+  1: 2.10
+  2: 3.20
+  3: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dpj03-first_vienna_fc_1894_skn_st_polten
+-----
+Lafnitz - Ried
+  1: 6.00
+  2: 4.70
+  3: 1.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/73k03-sv_lafnitz_ried
+-----
+Stripfing/Weiden - Horn
+  1: 2.07
+  2: 3.30
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a3k03-sv_stripfing_weiden_sv_horn
+-----
+ASK Voitsberg - KSV 1919
+  1: 2.35
+  2: 3.30
+  3: 2.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w6n03-ask_voitsberg_ksv_1919
+-----
+Yverdon-Sport - Grasshopper Zurich
+  1: 2.75
+  2: 3.40
+  3: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/e6l03-yverdon_sport_fc_grasshopper_zurich
+-----
+Sion - Basilea
+  1: 2.55
+  2: 3.55
+  3: 2.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jrl03-fc_sion_basilea
+-----
+Young Boys - Lausanne-Sport
+  1: 1.71
+  2: 4.00
+  3: 3.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gfk03-young_boys_fc_lausanne_sport
+-----
+Winterthur - Servette
+  1: 3.40
+  2: 3.60
+  3: 1.82
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j0l03-fc_winterthur_servette_fc
+-----
+Lugano - Saint-Gall
+  1: 2.15
+  2: 3.55
+  3: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/g6l03-fc_lugano_fc_saint_gall
+-----
+Zurich - Lucerne
+  1: 1.82
+  2: 3.60
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/k6l03-fc_zurich_fc_lucerne
+-----
+Neuchatel Xamax - Vaduz
+  1: 1.97
+  2: 3.45
+  3: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/y4l03-fc_neuchatel_xamax_fc_vaduz
+-----
+Stade Nyonnais - Stade LS Ouchy
+  1: 2.25
+  2: 3.35
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7uo03-stade_nyonnais_fc_stade_ls_ouchy
+-----
+Schaffhausen - Thoune
+  1: 3.15
+  2: 3.30
+  3: 1.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/i6l03-fc_schaffhausen_fc_thoune
+-----
+Etoile Carouge - Wil 1900
+  1: 2.20
+  2: 3.30
+  3: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6uo03-etoile_carouge_fc_wil_1900
+-----
+Aarau - Bellinzone
+  1: 1.97
+  2: 3.25
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0ek03-fc_aarau_ac_bellinzone
+-----
+Obolon Kiev - Zorya Lugansk
+  1: 3.05
+  2: 3.00
+  3: 2.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/05l03-fc_obolon_kiev_zorya_lugansk
+-----
+Rukh Vinnyky - Ingulets
+  1: 1.53
+  2: 3.50
+  3: 4.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1zo03-rukh_vinnyky_fc_ingulets
+-----
+Karpaty Lviv - Vorskla Poltava
+  1: 2.32
+  2: 3.05
+  3: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8zo03-karpaty_lviv_fc_vorskla_poltava
+-----
+Oleksandria - Kolos Kovalyovka
+  1: 1.81
+  2: 2.95
+  3: 3.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wdm03-fc_oleksandria_kolos_kovalyovka
+-----
+Chernomorets Odessa - Polissya Zhytomyr
+  1: 4.90
+  2: 3.40
+  3: 1.53
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v9m03-chernomorets_odessa_polissya_zhytomyr
+-----
+Veres Rivne - Levy Bereg Kyiv
+  1: 1.92
+  2: 3.10
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/czo03-veres_rivne_fc_levy_bereg_kyiv
+-----
+Kryvbas - Shakhtar Donetsk
+  1: 5.40
+  2: 3.95
+  3: 1.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n7l03-fc_kryvbas_shakhtar_donetsk
+-----
+Fehervar - MTK Budapest
+  1: 1.80
+  2: 3.45
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/05g03-fehervar_fc_mtk_budapest_fc
+-----
+Debrecen - Zalaegerszeg TE
+  1: 1.83
+  2: 3.35
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/35g03-debrecen_zalaegerszeg_te
+-----
+Diosgyori Vtk - Gyor Eto
+  1: 1.87
+  2: 3.40
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/45g03-diosgyori_vtk_gyor_eto_fc
+-----
+Kecskemeti TE - Ujpest
+  1: 2.20
+  2: 3.00
+  3: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/75g03-kecskemeti_te_ujpest_fc
+-----
+Paksi - Puskas Akademia
+  1: 2.27
+  2: 3.25
+  3: 2.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/95g03-paksi_fc_puskas_akademia_fc
+-----
+Ferencvarosi - Nyiregyhaza
+  1: 1.23
+  2: 4.90
+  3: 7.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l5g03-ferencvarosi_tc_nyiregyhaza_fc
+-----
+Nafta Lendava - Domzale
+  1: 2.80
+  2: 3.15
+  3: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a6n03-nafta_lendava_nk_domzale
+-----
+Radomlje - ASK Bravo
+  1: 2.65
+  2: 3.00
+  3: 2.27
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4gm03-nk_radomlje_ask_bravo
+-----
+Nd Primorje - Maribor
+  1: 5.40
+  2: 4.00
+  3: 1.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/b6n03-nd_primorje_nk_maribor
+-----
+Olimpia Ljubljana - Mura 05
+  1: 1.43
+  2: 3.80
+  3: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xcl03-olimpia_ljubljana_mura_05
+-----
+Luka Koper - Celje
+  1: 2.95
+  2: 3.15
+  3: 2.02
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0dl03-fc_luka_koper_nk_celje
+-----
+MFK Skalica - TJ Vysne Opatske
+  1: 2.37
+  2: 3.10
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ydk03-mfk_skalica_tj_fk_vysne_opatske
+-----
+KFC Komarno - MFK Zemplin Michalovce
+  1: 2.07
+  2: 3.10
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w8m03-kfc_komarno_mfk_zemplin_michalovce
+-----
+Podbrezova - Banska Bystrica
+  1: 1.92
+  2: 3.35
+  3: 3.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/19l03-fk_podbrezova_banska_bystrica
+-----
+Slovan Bratislava - MSK Zilina
+  1: 1.73
+  2: 3.55
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fsl03-slovan_bratislava_msk_zilina
+-----
+Spartak Trnava - MFK Ruzomberok
+  1: 1.45
+  2: 3.55
+  3: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/09l03-fc_spartak_trnava_mfk_ruzomberok
+-----
+Anna Bondar - Anna Kalinskaya
+  1: 4.40
+  2: 1.14
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9fo03-anna_bondar_hun_anna_kalinskaya_rus
+-----
+Clara Tauson - Diana Shnaider
+  1: 3.25
+  2: 1.26
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6fo03-clara_tauson_den_diana_shnaider_rus
+-----
+Yulia Putintseva - Xin Yu Wang
+  1: 1.50
+  2: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mio03-yulia_putintseva_kaz_xin_yu_wang_chn
+-----
+Caroline Dolehide - Sara Errani
+  1: 1.25
+  2: 3.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/m4o03-caroline_dolehide_usa_sara_errani_ita
+-----
+Andreeva, Mirra - Ashlyn Krueger
+  1: 1.20
+  2: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o5o03-andreeva_mirra_ashlyn_krueger_usa
+-----
+Katie Boulter - Jessica Bouzas Maneiro
+  1: 1.43
+  2: 2.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a9o03-katie_boulter_gbr_jessica_bouzas_maneiro_esp
+-----
+Marie Bouzkova - Ludmilla Samsonova
+  1: 2.35
+  2: 1.48
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vho03-marie_bouzkova_cze_ludmilla_samsonova_rus
+-----
+Beatriz Haddad Maia - Sara Sorribes Tormo
+  1: 1.22
+  2: 3.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/who03-beatriz_haddad_maia_bra_sara_sorribes_tormo_esp
+-----
+Karolina Pliskova - Jasmine Paolini
+  1: 3.15
+  2: 1.28
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3lo03-karolina_pliskova_cze_jasmine_paolini_ita
+-----
+Varvara Lepchenko - Anastasia Potapova
+  1: 4.30
+  2: 1.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ffo03-varvara_lepchenko_usa_anastasia_potapova_rus
+-----
+Iga Swiatek - Ena Shibahara
+  1: 1.01
+  2: 9.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j4o03-iga_swiatek_pol_ena_shibahara_usa
+-----
+Sofia Kenin - Jessica Pegula
+  1: 5.00
+  2: 1.11
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qko03-sofia_kenin_usa_jessica_pegula_usa
+-----
+Elisabetta Cocciaretto - Anastasia Pavlyuchenkova
+  1: 2.42
+  2: 1.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/25o03-elisabetta_cocciaretto_ita_anastasia_pavlyuchenkova_rus
+-----
+Elena Rybakina - Jessika Ponchet
+  1: 1.02
+  2: 8.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x9o03-elena_rybakina_rus_jessika_ponchet_fra
+-----
+Naomi Osaka - Karolina Muchova
+  1: 1.61
+  2: 2.07
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/17o03-naomi_osaka_jpn_karolina_muchova_cze
+-----
+Caroline Wozniacki - Renata Zarazua
+  1: 1.15
+  2: 4.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/16o03-caroline_wozniacki_den_renata_zarazua_mex
+-----
+Elena Gabriela Ruse - Paula Badosa Gibert
+  1: 3.35
+  2: 1.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pdp03-elena_gabriela_ruse_rou_paula_badosa_gibert_esp
+-----
+Madison Keys - Elise Mertens
+  1: 1.35
+  2: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rdp03-madison_keys_usa_elise_mertens_bel
+-----
+Muhammad A - Watson H - Uchijima M - Yuan Y
+  1: 1.25
+  2: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bil03-muhammad_a_watson_h_uchijima_m_yuan_y
+-----
+Sun L - Wang X - Mihalikova T - Nicholls O
+  1: 2.10
+  2: 1.48
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vil03-sun_l_wang_x_mihalikova_t_nicholls_o
+-----
+Lumsden M - Siskova A - Guo H - Niculescu M
+  1: 3.10
+  2: 1.21
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3il03-lumsden_m_siskova_a_guo_h_niculescu_m
+-----
+E.Alexandrova -A.Blinkova - Corley C - Corley I
+  1: 1.31
+  2: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/adl03-e_alexandrova_rus_a_blinkova_rus_corley_c_corley_i
+-----
+Kozlova K - Volynets K - Kostyuk M - Ruse E
+  1: 4.50
+  2: 1.08
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2il03-kozlova_k_volynets_k_kostyuk_m_ruse_e
+-----
+Mladenovic K - Zhang S - Hsieh S W - Mertens E
+  1: 3.35
+  2: 1.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/efl03-mladenovic_k_zhang_s_hsieh_s_w_mertens_e
+-----
+Dart H - Parry D - Noskova L - Shnaider D
+  1: 2.07
+  2: 1.48
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cdl03-dart_h_parry_d_noskova_l_shnaider_d
+-----
+Kalinina A - Trevisan M - Harrison C - Rosolska A
+  1: 1.26
+  2: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fkl03-kalinina_a_trevisan_m_harrison_c_rosolska_a
+-----
+Dabrowski G - Routliffe E - Fernandez L A - Putintseva Y
+  1: 1.29
+  2: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6dl03-dabrowski_g_routliffe_e_fernandez_l_a_putintseva_y
+-----
+Olmos G - Panova A - A.Rus-N.Stojanovic
+  1: 1.34
+  2: 2.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cil03-olmos_g_panova_a_a_rus_n_stojanovic
+-----
+Maria T - Schmiedlova A K - Shibahara E - Sutjiadi A
+  1: 5.40
+  2: 1.04
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0pm03-maria_t_schmiedlova_a_k_shibahara_e_sutjiadi_a
+-----
+Jiang X - Ninomiya M - Bondar A - Burel C
+  1: 1.21
+  2: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ail03-jiang_x_ninomiya_m_bondar_a_burel_c
+-----
+Bronzetti L - Samsonova L - Siniakova K - Townsend T
+  1: 4.70
+  2: 1.07
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6il03-bronzetti_l_samsonova_l_siniakova_k_townsend_t
+-----
+Danilina A - Khromacheva I - Grant T C - Jovic I
+  1: 1.11
+  2: 3.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gdl03-danilina_a_khromacheva_i_grant_t_c_jovic_i
+-----
+A.Potapova-Y.Sizikova - Linette M - Stearns P
+  1: 2.10
+  2: 1.48
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/skl03-a_potapova_y_sizikova_linette_m_stearns_p
+-----
+M.Kato-Y.Wang - Errani S - Paolini J
+  1: 3.15
+  2: 1.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ddl03-m_kato_y_wang_errani_s_paolini_j
+-----
+Haddad Maia B - Siegemund L - Montgomery R - Ngounoue C
+  1: 1.12
+  2: 3.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ojp03-haddad_maia_b_siegemund_l_montgomery_r_ngounoue_c
+-----
+Schuurs D - Stefani L - Boulter K - Kalinskaya A
+  1: 1.37
+  2: 2.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/sjp03-schuurs_d_stefani_l_boulter_k_kalinskaya_a
+-----
+Andreeva M - Pavlyuchenkova A - Osorio C - Parks A
+  1: 1.34
+  2: 2.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0kp03-andreeva_m_pavlyuchenkova_a_osorio_c_parks_a
+-----
+B.Mattek-Sands-J.Murray - Mcdonald M - Mateas M
+  1: 1.26
+  2: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jmn03-b_mattek_sands_j_murray_mcdonald_m_mateas_m
+-----
+Ebden M - Krejcikova B - Krajicek A - Chan H-C
+  1: 1.43
+  2: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lqn03-ebden_m_krejcikova_b_krajicek_a_chan_h_c
+-----
+Nys H - Kichenok N - Dodig I - Melichar-Martinez N
+  1: 2.25
+  2: 1.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4mn03-nys_h_kichenok_n_dodig_i_melichar_martinez_n
+-----
+Withrow J - Parks A - Routliffe E - Venus M
+  1: 2.35
+  2: 1.38
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/emn03-withrow_j_parks_a_routliffe_e_venus_m
+-----
+Skupski N - Krawczyk D - Kwiatkowski T - Krueger A
+  1: 1.21
+  2: 3.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kqn03-skupski_n_krawczyk_d_kwiatkowski_t_krueger_a
+-----
+Galloway R - Rogers S - Vavassori A - Errani S
+  1: 3.00
+  2: 1.23
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9mn03-galloway_r_rogers_s_vavassori_a_errani_s
+-----
+Puetz T - Schuurs D - Bopanna R - Sutjiadi A
+  1: 1.80
+  2: 1.68
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/amn03-puetz_t_schuurs_d_bopanna_r_sutjiadi_a
+-----
+T.Townsend-D.Young - Molteni A - Muhammad A
+  1: 2.05
+  2: 1.52
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8mn03-t_townsend_d_young_molteni_a_muhammad_a
+-----
+Gonzalez S - Olmos G - Tsitsipas S - Badosa P
+  1: 1.47
+  2: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hmn03-gonzalez_s_olmos_g_tsitsipas_s_badosa_p
+-----
+Salisbury J - Dabrowski G - Heliovaara H - Danilina A
+  1: 1.42
+  2: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5mn03-salisbury_j_dabrowski_g_heliovaara_h_danilina_a
+-----
+Doumbia S - Kichenok L - Gille S - Perez E
+  1: 1.60
+  2: 1.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jqn03-doumbia_s_kichenok_l_gille_s_perez_e
+-----
+Bigun K - Jovic I - Purcell M - Yastremska D
+  1: 4.20
+  2: 1.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3mn03-bigun_k_jovic_i_purcell_m_yastremska_d
+-----
+Jordan Thompson - Hubert Hurkacz
+  1: 2.55
+  2: 1.41
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o3o03-jordan_thompson_aus_hubert_hurkacz_pol
+-----
+Mattia Bellucci - Christopher O'Connell
+  1: 1.36
+  2: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hmo03-mattia_bellucci_ita_christopher_o_connell_aus
+-----
+Tomas Machac - Sebastian Korda
+  1: 2.95
+  2: 1.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dmo03-tomas_machac_cze_sebastian_korda_usa
+-----
+Matteo Arnaldi - Roman Safiullin
+  1: 1.60
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qeo03-matteo_arnaldi_ita_roman_safiullin_rus
+-----
+Jannik Sinner - Alex Michelsen
+  1: 1.03
+  2: 8.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/neo03-jannik_sinner_ita_alex_michelsen_usa
+-----
+Kokkinakis, Thanasi - Nuno Borges
+  1: 1.61
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/peo03-kokkinakis_thanasi_nuno_borges_por
+-----
+Flavio Cobolli - Zizou Bergs
+  1: 1.43
+  2: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fmo03-flavio_cobolli_ita_zizou_bergs_bel
+-----
+Alex De Minaur - Otto Virtanen
+  1: 1.14
+  2: 4.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8fo03-alex_de_minaur_aus_otto_virtanen_fin
+-----
+Facundo Diaz Acosta - Jack Draper
+  1: 6.50
+  2: 1.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/oeo03-facundo_diaz_acosta_arg_jack_draper_gbr
+-----
+David Goffin - Adrian Mannarino
+  1: 1.43
+  2: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z9o03-david_goffin_bel_adrian_mannarino_fra
+-----
+Tristan Schoolkate - Jakub Mensik
+  1: 4.90
+  2: 1.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/b9o03-tristan_schoolkate_aus_jakub_mensik_rtc
+-----
+Arthur Fils - Gabriel Diallo
+  1: 1.32
+  2: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lmo03-arthur_fils_fra_gabriel_diallo_can
+-----
+Mariano Navone - Daniel Evans
+  1: 1.92
+  2: 1.73
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dfo03-mariano_navone_arg_daniel_evans_gbr
+-----
+Max Purcell - Tommy Paul
+  1: 6.00
+  2: 1.07
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/umo03-max_purcell_tommy_paul_usa
+-----
+Fabian Marozsan - Daniil Medvedev
+  1: 5.40
+  2: 1.09
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/emo03-fabian_marozsan_hun_daniil_medvedev_rus
+-----
+Carlos Alcaraz - Botic Van De Zandschulp
+  1: 1.01
+  2: 9.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bmo03-carlos_alcaraz_botic_van_de_zandschulp_ned
+-----
+Tomas Martin Etcheverry - Alexander Zverev
+  1: 6.40
+  2: 1.06
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0ip03-tomas_martin_etcheverry_arg_alexander_zverev_ger
+-----
+Tallon Griekspoor - Grigor Dimitrov
+  1: 3.80
+  2: 1.19
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6ip03-tallon_griekspoor_ned_grigor_dimitrov_bul
+-----
+Barton, Hynek - Nikolas Sanchez-Izquierdo
+  1: 1.75
+  2: 1.72
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w0o03-barton_hynek_nikolas_sanchez_izquierdo
+-----
+Santiago Fa Rodriguez Taverna - Lukas Neumayer
+  1: 2.20
+  2: 1.43
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a5o03-santiago_fa_rodriguez_taverna_arg_lukas_neumayer_aus
+-----
+Rocha, Henrique - Daniel Masur
+  1: 1.36
+  2: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zzn03-rocha_henrique_daniel_masur_ger
+-----
+Enrico Dalla Valle - Faria, Jaime
+  1: 1.97
+  2: 1.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/22o03-enrico_dalla_valle_ita_faria_jaime
+-----
+Daniel Cukierman - Adrian Andreev
+  1: 3.20
+  2: 1.19
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z4p03-daniel_cukierman_isr_adrian_andreev_rus
+-----
+Dino Prizmic - Carlos Taberner
+  1: 1.90
+  2: 1.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0dp03-dino_prizmic_cro_carlos_taberner_esp
+-----
+Broom C - Willis M - Gengel M - Sultanov K
+  1: 1.34
+  2: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4vn03-broom_c_willis_m_gengel_m_sultanov_k
+-----
+Babic Z - Holmgren A - Barroso Campos A - Geerts M
+  1: 1.93
+  2: 1.58
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/92o03-babic_z_holmgren_a_barroso_campos_a_geerts_m
+-----
+Alcantara F C - Isaro P - Rai A - Reynolds F
+  1: 1.78
+  2: 1.78
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8vo03-alcantara_f_c_isaro_p_rai_a_reynolds_f
+-----
+Bollipalli R C - Kadhe A - Haliak M - Pokorny L
+  1: 1.23
+  2: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/evo03-bollipalli_r_c_kadhe_a_haliak_m_pokorny_l
+-----
+T.Matsui-K.Uesugi - Uchida K - Yuzuki T
+  1: 1.58
+  2: 1.93
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zoo03-t_matsui_k_uesugi_uchida_k_yuzuki_t
+-----
+Donskoy E - Karlovskiy E - Hsu Y H - Sun F
+  1: 2.50
+  2: 1.33
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wno03-donskoy_e_karlovskiy_e_hsu_y_h_sun_f
+-----
+Beibit Zhukayev - Tung-Lin Wu
+  1: 1.72
+  2: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fln03-beibit_zhukayev_kaz_tung_lin_wu_tpe
+-----
+Tang, Sheng - Fajing Sun
+  1: 4.40
+  2: 1.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ivn03-tang_sheng_fajing_sun_chn
+-----
+Vadym Ursu - Yasutaka Uchiyama
+  1: 2.80
+  2: 1.31
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kwn03-vadym_ursu_ukr_yasutaka_uchiyama_jpn
+-----
+Yan Bai - Seong Chan Hong
+  1: 2.70
+  2: 1.33
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hvn03-yan_bai_chn_seong_chan_hong_cds
+-----
+Noguchi - Mark Lajal
+  1: 2.60
+  2: 1.31
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9mo03-rio_noguchi_jpn_mark_lajal_est
+-----
+Norbert Gombos - Dalibor Svrcina
+  1: 1.81
+  2: 1.67
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kuo03-norbert_gombos_svk_dalibor_svrcina_cze
+-----
+Arneodo R - Arribage T - Cruz R - Rocha F
+  1: 1.03
+  2: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/t1p03-arneodo_r_arribage_t_cruz_r_rocha_f
+-----
+Andreev A - Sanchez Izquierdo N - Cukierman D - Matuszewski P
+  1: 2.42
+  2: 1.36
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/oep03-andreev_a_sanchez_izquierdo_n_cukierman_d_matuszewski_p
+-----
+Hermans M - Pujol Navarro B - Agamenone F - Rodriguez Taverna S
+  1: 2.55
+  2: 1.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h8p03-hermans_m_pujol_navarro_b_agamenone_f_rodriguez_taverna_s
+-----
+Banthia S - Whiting T - Masur D - Moeller M
+  1: 2.00
+  2: 1.53
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/q1p03-banthia_s_whiting_t_masur_d_moeller_m
+-----
+Barnat J - Duda F - Bergevi F - Veldheer M
+  1: 2.40
+  2: 1.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qdp03-barnat_j_duda_f_bergevi_f_veldheer_m
+-----
+Ingildsen J - Stevenson D - Jecan M-A - Liutarevich I
+  1: 1.67
+  2: 1.82
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w0p03-ingildsen_j_stevenson_d_jecan_m_a_liutarevich_i
+-----
+Oradini G - Travaglia S - Arnaboldi A - Arnaboldi F
+  1: 1.55
+  2: 1.98
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2ap03-oradini_g_travaglia_s_arnaboldi_a_arnaboldi_f
+-----
+Jerome Kym - Yannick Hanfmann
+  1: 1.78
+  2: 1.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x4p03-jerome_kym_sui_yannick_hanfmann_ger
+-----
+Marc-Andrea Huesler - Alexander Blockx
+  1: 1.28
+  2: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/t6p03-marc_andrea_huesler_sui_alexander_blockx_bel
+-----
+Khumoun Sultanov - Raphael Collignon
+  1: 2.65
+  2: 1.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ycp03-khumoun_sultanov_uzb_raphael_collignon_bel
+-----
+Charles Broom - Matteo Gigante
+  1: 2.65
+  2: 1.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jgp03-charles_broom_gbr_matteo_gigante_ita
+-----
+Enzo Couacaud - Pierre-Hugues Herbert
+  1: 1.61
+  2: 1.88
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cvn03-enzo_couacaud_fra_pierre_hugues_herbert_fra
+-----
+Marco Trungelliti - Ricardas Berankis
+  1: 1.85
+  2: 1.63
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jfp03-marco_trungelliti_arg_ricardas_berankis_ltu
+-----
+Montes-De La Torre, Inaki - Abedallah Shelbayh
+  1: 1.99
+  2: 1.53
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zcp03-montes_de_la_torre_inaki_abedallah_shelbayh_jor
+-----
+Marin Cilic - Duje Ajdukovic
+  1: 1.77
+  2: 1.71
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ukp03-marin_cilic_cro_duje_ajdukovic_cro
+-----
+Filip Cristian Jianu - Gabriel Debru
+  1: 2.02
+  2: 1.52
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bzn03-filip_cristian_jianu_rom_gabriel_debru_fra
+-----
+Valerio Aboian - Andrew Paulson
+  1: 2.55
+  2: 1.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/50o03-valerio_aboian_arg_andrew_paulson_cze
+-----
+Nikoloz Basilashvili - Kei Nishikori
+  1: 2.75
+  2: 1.27
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/s6p03-nikoloz_basilashvili_geo_kei_nishikori_jpn
+-----
+Filip Misolic - Ignacio Buse
+  1: 1.95
+  2: 1.57
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/czn03-filip_misolic_srb_ignacio_buse_per
+-----
+Zsombor Piros - Alex Molcan
+  1: 1.83
+  2: 1.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hap03-zsombor_piros_hon_alex_molcan_svk
+-----
+Genaro Alberto Olivieri - Stefano Travaglia
+  1: 2.22
+  2: 1.43
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qhp03-genaro_alberto_olivieri_arg_stefano_travaglia_ita
+-----
+Leonie Kung - Blokhina, Alexis
+  1: 1.32
+  2: 2.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rcp03-leonie_kung_sui_blokhina_alexis
+-----
+Sinja Kraus - Julia Middendorf
+  1: 1.03
+  2: 4.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ucp03-sinja_kraus_aut_julia_middendorf_all
+-----
+Silvia Ambrosio - Radivojevic, Lola
+  1: 2.35
+  2: 1.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wcp03-silvia_ambrosio_ger_radivojevic_lola
+-----
+Kamilla Bartone - Costoulas, Sofia
+  1: 1.93
+  2: 1.51
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pcp03-kamilla_bartone_lat_costoulas_sofia
+-----
+Mona Barthel - Irene Burillo Escorihuela
+  1: 1.42
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6gp03-mona_barthel_ger_irene_burillo_escorihuela_esp
+-----
+Daems J - Firman A - Magali Kempen - Salden L
+  1: 3.30
+  2: 1.14
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5gp03-daems_j_firman_a_magali_kempen_salden_l
+-----
+Nolte F - Rumpf P - Ambrosio S - Gettwart F
+  1: 4.50
+  2: 1.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a4n03-nolte_f_rumpf_p_ambrosio_s_gettwart_f
+-----
+Anshba A - Falkowska W - Dittmann G M - Sandberg V
+  1: 1.03
+  2: 4.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2gp03-anshba_a_falkowska_w_dittmann_g_m_sandberg_v
+-----
+Boston Celtics - New York Knicks
+  1: 1.42
+  2: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/s0a03-boston_celtics_new_york_knicks
+-----
+Los Angeles Lakers - Minnesota Timberwolves
+  1: 1.83
+  2: 1.73
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/y0a03-los_angeles_lakers_minnesota_timberwolves
+-----
+Detroit Pistons - Indiana Pacers
+  1: 2.50
+  2: 1.39
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/71a03-detroit_pistons_indiana_pacers
+-----
+Toronto Raptors - Cleveland Cavaliers
+  1: 2.17
+  2: 1.51
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/m2a03-toronto_raptors_cleveland_cavaliers
+-----
+Miami Heat - Orlando Magic
+  1: 1.73
+  2: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l1a03-miami_heat_orlando_magic
+-----
+Philadelphia 76ers - Milwaukee Bucks
+  1: 1.48
+  2: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j3a03-philadelphia_76ers_milwaukee_bucks
+-----
+Atlanta Hawks - Brooklyn Nets
+  1: 1.28
+  2: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h1a03-atlanta_hawks_brooklyn_nets
+-----
+Houston Rockets - Charlotte Hornets
+  1: 1.33
+  2: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/13a03-houston_rockets_charlotte_hornets
+-----
+New Orleans Pelicans - Chicago Bulls
+  1: 1.34
+  2: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d3a03-new_orleans_pelicans_chicago_bulls
+-----
+Utah Jazz - Memphis Grizzlies
+  1: 1.95
+  2: 1.63
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/i1a03-utah_jazz_memphis_grizzlies
+-----
+Los Angeles Clippers - Phoenix Suns
+  1: 1.75
+  2: 1.83
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f1a03-los_angeles_clippers_phoenix_suns
+-----
+Portland Trail Blazers - Golden State Warriors
+  1: 2.10
+  2: 1.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/61a03-portland_trail_blazers_golden_state_warriors
+-----
+Washington Wizards - Boston Celtics
+  1: 4.90
+  2: 1.09
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/r0a03-washington_wizards_boston_celtics
+-----
+Dallas Mavericks - San Antonio Spurs
+  1: 1.26
+  2: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v0a03-dallas_mavericks_san_antonio_spurs
+-----
+Sacramento Kings - Minnesota Timberwolves
+  1: 1.73
+  2: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/11a03-sacramento_kings_minnesota_timberwolves
+-----
+Denver Nuggets - Oklahoma City Thunder
+  1: 1.67
+  2: 1.92
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x0a03-denver_nuggets_oklahoma_city_thunder
+-----
+Boston Celtics - Atlanta Hawks
+  1: 1.11
+  2: 4.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rj903-boston_celtics_atlanta_hawks
+-----
+New York Knicks - San Antonio Spurs
+  1: 1.18
+  2: 3.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/08a03-new_york_knicks_san_antonio_spurs
+-----
+Dallas Mavericks - Minnesota Timberwolves
+  1: 1.51
+  2: 2.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/38a03-dallas_mavericks_minnesota_timberwolves
+-----
+Boston Celtics - Philadelphia 76ers
+  1: 1.45
+  2: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/48a03-boston_celtics_philadelphia_76ers
+-----
+Golden State Warriors - Los Angeles Lakers
+  1: 1.55
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n7a03-golden_state_warriors_los_angeles_lakers
+-----
+Phoenix Suns - Denver Nuggets
+  1: 1.73
+  2: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x7a03-phoenix_suns_denver_nuggets
+-----
+Sudafrica - Nueva Zelanda
+  1: 1.28
+  2: 19.00
+  3: 3.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/t5c03-sudafrica_nueva_zelanda
+-----
+Argentina - Australia
+  1: 1.31
+  2: 20.00
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/s5c03-argentina_australia
+-----
+Bayonne - Perpignan
+  1: 1.25
+  2: 21.00
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/36g03-bayonne_perpignan
+-----
+Clermont - Pau
+  1: 1.18
+  2: 22.00
+  3: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/26g03-clermont_pau
+-----
+Castres - Racing 92
+  1: 1.45
+  2: 19.00
+  3: 2.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/46g03-castres_racing_92
+-----
+Montpellier - Lyon
+  1: 1.25
+  2: 21.00
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/76g03-montpellier_lyon
+-----
+Bordeaux-Begles - Stade Francais
+  1: 1.18
+  2: 22.00
+  3: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/16g03-bordeaux_begles_stade_francais
+-----
+La Rochelle - Toulon
+  1: 1.18
+  2: 22.00
+  3: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z5g03-la_rochelle_toulon
+-----
+Vannes - Toulouse
+  1: 3.75
+  2: 22.00
+  3: 1.21
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/66g03-vannes_toulouse
+-----
+Brive - Oyonnax
+  1: 1.31
+  2: 20.00
+  3: 3.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/u5g03-brive_oyonnax
+-----
+Stade Nicois - Beziers
+  1: 1.92
+  2: 23.00
+  3: 1.73
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uqk03-stade_nicois_beziers
+-----
+Biarritz - Valence Romans
+  1: 1.15
+  2: 23.00
+  3: 4.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v5g03-biarritz_valence_romans
+-----
+Nevers - Grenoble
+  1: 1.40
+  2: 19.00
+  3: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w5g03-nevers_grenoble
+-----
+Mont-de-Marsan - Colomiers
+  1: 1.25
+  2: 20.00
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x5g03-mont_de_marsan_colomiers
+-----
+Aurillac - Angouleme
+  1: 1.28
+  2: 20.00
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/y5g03-aurillac_angouleme
+-----
+Dax - Montauban
+  1: 1.19
+  2: 21.00
+  3: 3.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/06g03-dax_montauban
+-----
+Provence Rugby - Agen
+  1: 1.10
+  2: 25.00
+  3: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4qk03-provence_rugby_agen
+-----
+Northland - Southland
+  1: 1.21
+  2: 23.00
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wvl03-northland_southland
+-----
+North Harbour - Counties Manukau
+  1: 1.11
+  2: 28.00
+  3: 4.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xvl03-north_harbour_counties_manukau
+-----
+Taranaki - Otago
+  1: 1.21
+  2: 23.00
+  3: 3.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/tvl03-taranaki_otago
+-----
+Waikato - Auckland
+  1: 2.40
+  2: 21.00
+  3: 1.43
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vvl03-waikato_auckland
+-----
+Tasman - Bay of Plenty
+  1: 1.21
+  2: 23.00
+  3: 3.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uvl03-tasman_bay_of_plenty
+-----
+Magdebourg - Fuchse Berlin
+  1: 1.92
+  2: 7.50
+  3: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kte03-sc_magdebourg_fuchse_berlin
+-----
+PSG Handball - Nantes
+  1: 1.31
+  2: 8.50
+  3: 4.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uqo03-psg_handball_nantes
+-----
+Moser Medical Uhk Krems - HC Linz AG
+  1: 1.48
+  2: 8.25
+  3: 3.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6zo03-moser_medical_uhk_krems_hc_linz_ag
+-----
+Leigh Centurions - Warrington Wolves
+  1: 1.92
+  2: 17.00
+  3: 1.72
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vxl03-leigh_centurions_warrington_wolves
+-----
+Hull Kingston Rovers - Salford Red Devils
+  1: 1.08
+  2: 22.00
+  3: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gyl03-hull_kingston_rovers_salford_red_devils
+-----
+Hull - Castleford Tigers
+  1: 1.68
+  2: 19.00
+  3: 1.93
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uxl03-hull_fc_castleford_tigers
+-----
+Dragons Catalans - Wigan Warriors
+  1: 2.75
+  2: 18.00
+  3: 1.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/txl03-dragons_catalans_wigan_warriors
+-----
+Huddersfield - ST Helens
+  1: 2.65
+  2: 20.00
+  3: 1.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rxl03-huddersfield_st_helens
+-----
+London Broncos - Leeds Rhinos
+  1: 6.20
+  2: 29.00
+  3: 1.04
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/sxl03-london_broncos_leeds_rhinos
+-----
+North Queensland Cowboys - Melbourne Storm
+  1: 1.18
+  2: 22.00
+  3: 3.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yje03-north_queensland_cowboys_melbourne_storm
+-----
+Canterbury Bulldogs - Manly Sea Eagles
+  1: 1.55
+  2: 19.00
+  3: 2.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5ke03-canterbury_bulldogs_manly_sea_eagles
+-----
+Penrith Panthers - South Sydney Rabbitohs
+  1: 1.08
+  2: 25.00
+  3: 5.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4ke03-penrith_panthers_south_sydney_rabbitohs
+-----
+Parramatta Eels - ST George Illawarra Dragons
+  1: 2.17
+  2: 21.00
+  3: 1.53
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0ke03-parramatta_eels_st_george_illawarra_dragons
+-----
+Dolphins - Brisbane Broncos
+  1: 2.60
+  2: 21.00
+  3: 1.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1ke03-dolphins_nrl_brisbane_broncos
+-----
+Cronulla Sharks - New Zealand Warriors
+  1: 1.14
+  2: 23.00
+  3: 4.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2ke03-cronulla_sharks_new_zealand_warriors
+-----
+Newcastle Knights - Gold Coast Titans
+  1: 1.30
+  2: 21.00
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8ke03-newcastle_knights_gold_coast_titans
+-----
+Sydney Roosters - Canberra Raiders
+  1: 1.13
+  2: 25.00
+  3: 4.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3ke03-sydney_roosters_canberra_raiders
+-----
+Republique Tcheque - Norway
+  1: 1.05
+  2: 7.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gon03-republique_tcheque_norway
+-----
+Turquia - Hungria
+  1: 1.00
+  2: 9.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/elo03-turquia_hungria
+-----
+Rumania - Kosovo
+  1: 1.04
+  2: 7.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/poo03-rumania_kosovo
+-----
+Alemania - Finlandia
+  1: 1.05
+  2: 6.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qoo03-alemania_finlandia
+-----
+Eslovenia - Estonia
+  1: 1.02
+  2: 8.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/epo03-eslovenia_estonia
+-----
+Kazajistan - Hungria
+  1: 1.57
+  2: 4.00
+  3: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5pe03-kazajistan_hungria
+-----
+Francia - Ucrania
+  1: 1.32
+  2: 4.50
+  3: 5.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cpo03-francia_ucrania
+-----
+Norway - Japon
+  1: 1.18
+  2: 5.60
+  3: 8.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/y3j03-norway_japon
+-----
+Eslovaquia - Austria
+  1: 1.37
+  2: 3.95
+  3: 6.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4pe03-eslovaquia_austria
+-----
+Letonia - Eslovenia
+  1: 1.31
+  2: 4.80
+  3: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z3j03-letonia_eslovenia
+-----
+Dinamarca - Reino Unido
+  1: 1.20
+  2: 5.40
+  3: 7.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/04j03-dinamarca_reino_unido
+-----
+Buffalo Sabres - New Jersey Devils
+  1: 2.70
+  2: 3.95
+  3: 1.88
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ak9z2-buffalo_sabres_new_jersey_devils
+-----
+Seattle Kraken - ST. Louis Blues
+  1: 2.07
+  2: 3.85
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dk9z2-seattle_kraken_st_louis_blues
+-----
+Florida Panthers - Boston Bruins
+  1: 1.95
+  2: 3.65
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fk9z2-florida_panthers_boston_bruins
+-----
+Utah Hockey Club - Chicago Blackhawks
+  1: 1.83
+  2: 4.10
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kw403-utah_hockey_club_chicago_blackhawks
+-----
+JKH Gks Jastrzebie - Tatryski Podhale Nowy Targ
+  1: 1.63
+  2: 4.10
+  3: 3.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9no03-jkh_gks_jastrzebie_tatryski_podhale_nowy_targ
+-----
+TKH Nesta Torun - MKS Cracovia Krakow
+  1: 2.17
+  2: 3.45
+  3: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ano03-tkh_nesta_torun_mks_cracovia_krakow
+-----
+Frolunda HC - Leksands
+  1: 1.95
+  2: 3.65
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3x7z2-frolunda_hc_leksands_if
+-----
+Linkopings HC - Brynas
+  1: 1.92
+  2: 3.80
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6x7z2-linkopings_hc_brynas_if
+-----
+Malmo Redhawks - Skelleftea
+  1: 3.05
+  2: 3.90
+  3: 1.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8x7z2-malmo_redhawks_skelleftea_aik
+-----
+Vaxjo Lakers HC - Hv71
+  1: 1.71
+  2: 3.90
+  3: 3.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bx7z2-vaxjo_lakers_hc_hv71
+-----
+Farjestad - Rogle
+  1: 2.10
+  2: 3.70
+  3: 2.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gx7z2-farjestad_bk_rogle_bk
+-----
+Lulea HF - Timra
+  1: 1.80
+  2: 3.65
+  3: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ix7z2-lulea_hf_timra_ik
+-----
+Orebro HK - Modo Hockey
+  1: 1.75
+  2: 3.75
+  3: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kx7z2-orebro_hk_modo_hockey
+-----
+Vaasan Sport - Karpat Oulu
+  1: 2.60
+  2: 3.75
+  3: 2.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bpl03-vaasan_sport_karpat_oulu
+-----
+Kalpa Hockey - Saipa Lappeenranta
+  1: 1.43
+  2: 4.20
+  3: 4.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cpl03-kalpa_hockey_saipa_lappeenranta
+-----
+Tappara Tampere - TPS Turku
+  1: 1.71
+  2: 3.75
+  3: 3.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dpl03-tappara_tampere_tps_turku
+-----
+Rauma Lukko - Kookoo
+  1: 1.73
+  2: 3.80
+  3: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gpl03-rauma_lukko_kookoo
+-----
+Dynamo Pardubice - Sapa Fehervar Av19
+  1: 1.18
+  2: 6.00
+  3: 7.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hhi03-dynamo_pardubice_sapa_fehervar_av19
+-----
+Ilves Tampere - Aksam Unia Oswiecim
+  1: 1.08
+  2: 7.25
+  3: 11.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ghi03-ilves_tampere_aksam_unia_oswiecim
+-----
+Storhamar Dragons - Zurich Lions
+  1: 4.90
+  2: 5.20
+  3: 1.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fhi03-storhamar_dragons_zurich_lions
+-----
+Vaxjo Lakers HC - Eisbaren Berlin
+  1: 1.47
+  2: 4.40
+  3: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ihi03-vaxjo_lakers_hc_eisbaren_berlin
+-----
+HC Sparta Prague - Tappara Tampere
+  1: 2.17
+  2: 3.90
+  3: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jhi03-hc_sparta_prague_tappara_tampere
+-----
+Fribourg Gotteron - Sheffield Steelers
+  1: 1.08
+  2: 7.25
+  3: 11.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lhi03-fribourg_gotteron_sheffield_steelers
+-----
+Pelicans Lahti - Farjestad
+  1: 2.65
+  2: 3.90
+  3: 1.92
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rhi03-pelicans_lahti_farjestad_bk
+-----
+Straubing Tigers - Sonderjyske
+  1: 1.23
+  2: 5.80
+  3: 6.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mhi03-straubing_tigers_sonderjyske
+-----
+Fischtown Pinguins Bremerhaven - Geneva Servette
+  1: 2.32
+  2: 3.85
+  3: 2.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ehi03-fischtown_pinguins_bremerhaven_geneva_servette
+-----
+HC Lausanne - HC Ocelari Trinec
+  1: 1.81
+  2: 3.95
+  3: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/phi03-hc_lausanne_hc_ocelari_trinec
+-----
+Rouen - KAC Klagenfurt
+  1: 2.40
+  2: 3.95
+  3: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ohi03-rouen_kac_klagenfurt
+-----
+Red Bull Salzburg - Skelleftea
+  1: 4.30
+  2: 4.40
+  3: 1.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nhi03-red_bull_salzburg_skelleftea_aik
+-----
+HC Vitkovice - HC Plzen
+  1: 1.75
+  2: 3.80
+  3: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yt7z2-hc_vitkovice_hc_plzen
+-----
+HC Litvinov - Mountfield HK
+  1: 1.97
+  2: 3.70
+  3: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2hez2-hc_litvinov_mountfield_hk
+-----
+HC Mlada Boleslav - HC Olomouc
+  1: 1.83
+  2: 3.80
+  3: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4hez2-hc_mlada_boleslav_hc_olomouc
+-----
+HC Motor Ceske Budejovice - HC Karlovy Vary
+  1: 1.70
+  2: 3.90
+  3: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5hez2-hc_motor_ceske_budejovice_hc_karlovy_vary
+-----
+Dynamo Pardubice - Rytiri Kladno
+  1: 1.24
+  2: 5.20
+  3: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3hez2-dynamo_pardubice_rytiri_kladno
+-----
+HC Kometa Brno - HC Liberec
+  1: 1.88
+  2: 3.90
+  3: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7hez2-hc_kometa_brno_hc_liberec
+-----
+HC Sparta Prague - HC Ocelari Trinec
+  1: 1.87
+  2: 3.80
+  3: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6hez2-hc_sparta_prague_hc_ocelari_trinec
+-----
+Kansas City Chiefs - Baltimore Ravens
+  1: 1.53
+  2: 2.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9f1y2-kansas_city_chiefs_baltimore_ravens
+-----
+Philadelphia Eagles - Green Bay Packers
+  1: 1.55
+  2: 1.98
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ja4x2-philadelphia_eagles_green_bay_packers
+-----
+New Orleans Saints - Carolina Panthers
+  1: 1.38
+  2: 2.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wv3y2-new_orleans_saints_carolina_panthers
+-----
+New York Giants - Minnesota Vikings
+  1: 1.78
+  2: 1.68
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/sv3y2-new_york_giants_minnesota_vikings
+-----
+Miami Dolphins - Jacksonville Jaguars
+  1: 1.48
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rv3y2-miami_dolphins_jacksonville_jaguars
+-----
+Indianapolis Colts - Houston Texans
+  1: 1.95
+  2: 1.57
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pv3y2-indianapolis_colts_houston_texans
+-----
+Buffalo Bills - Arizona Cardinals
+  1: 1.31
+  2: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mv3y2-buffalo_bills_arizona_cardinals
+-----
+Atlanta Falcons - Pittsburgh Steelers
+  1: 1.53
+  2: 2.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lv3y2-atlanta_falcons_pittsburgh_steelers
+-----
+Cincinnati Bengals - New England Patriots
+  1: 1.15
+  2: 3.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kv3y2-cincinnati_bengals_new_england_patriots
+-----
+Chicago Bears - Tennessee Titans
+  1: 1.37
+  2: 2.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xv3y2-chicago_bears_tennessee_titans
+-----
+Seattle Seahawks - Denver Broncos
+  1: 1.31
+  2: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nv3y2-seattle_seahawks_denver_broncos
+-----
+Los Angeles Chargers - Las Vegas Raiders
+  1: 1.43
+  2: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ov3y2-los_angeles_chargers_las_vegas_raiders
+-----
+Cleveland Browns - Dallas Cowboys
+  1: 1.58
+  2: 1.93
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pc2y2-cleveland_browns_dallas_cowboys
+-----
+Tampa Bay Buccaneers - Washington Commanders
+  1: 1.43
+  2: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uv3y2-tampa_bay_buccaneers_washington_commanders
+-----
+Detroit Lions - Los Angeles Rams
+  1: 1.45
+  2: 2.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qv3y2-detroit_lions_los_angeles_rams
+-----
+San Francisco 49ers - New York Jets
+  1: 1.39
+  2: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pg2y2-san_francisco_49ers_new_york_jets
+-----
+Miami Dolphins - Buffalo Bills
+  1: 1.70
+  2: 1.78
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qr3y2-miami_dolphins_buffalo_bills
+-----
+Kansas City Chiefs - Cincinnati Bengals
+  1: 1.43
+  2: 2.22
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0s3y2-kansas_city_chiefs_cincinnati_bengals
+-----
+Minnesota Vikings - New York Jets
+  1: 2.25
+  2: 1.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6s3y2-minnesota_vikings_new_york_jets
+-----
+Chicago Bears - Jacksonville Jaguars
+  1: 1.75
+  2: 1.72
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cs3y2-chicago_bears_jacksonville_jaguars
+-----
+Jacksonville Jaguars - New England Patriots
+  1: 1.27
+  2: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/es3y2-jacksonville_jaguars_new_england_patriots
+-----
+Carolina Panthers - New York Giants
+  1: 1.81
+  2: 1.67
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hs3y2-carolina_panthers_new_york_giants
+-----
+Houston Texans - Baltimore Ravens
+  1: 1.85
+  2: 1.63
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4t3y2-houston_texans_baltimore_ravens
+-----
+Villanova Wildcats - Youngstown State Penguins
+  1: 1.19
+  2: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/oxm03-villanova_wildcats_youngstown_state_penguins
+-----
+Rutgers Scarlet Knights - Howard Bison
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/40o03-rutgers_scarlet_knights_howard_bison
+-----
+UL Monroe Warhawks - Jackson State Tigers
+  1: 1.24
+  2: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7hm03-ul_monroe_warhawks_jackson_state_tigers
+-----
+Bowling Green Falcons - Fordham Rams
+  1: 1.08
+  2: 4.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vgm03-bowling_green_falcons_fordham_rams
+-----
+Buffalo Bulls - Lafayette Leopards
+  1: 1.48
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2hm03-buffalo_bulls_lafayette_leopards
+-----
+North Carolina - Western Carolina Catamounts
+  1: 1.00
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wdl03-north_carolina_western_carolina_catamounts
+-----
+Arkansas Razorbacks - Arkansas-Pine Bluff Golden Lions
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qzn03-arkansas_razorbacks_arkansas_pine_bluff_golden_lions
+-----
+Toledo Rockets - Duquesne Dukes
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3xn03-toledo_rockets_duquesne_dukes
+-----
+Missouri Tigers - Murray State Racers
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f7o03-missouri_tigers_murray_state_racers
+-----
+Jacksonville State Gamecocks - Coastal Carolina Chanticleers
+  1: 1.53
+  2: 2.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zrfy2-jacksonville_state_gamecocks_coastal_carolina_chanticleers
+-----
+Minnesota Golden Gophers - North Carolina
+  1: 1.85
+  2: 1.63
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yrfy2-minnesota_golden_gophers_north_carolina
+-----
+UAB Blazers - Alcorn State Braves
+  1: 1.02
+  2: 5.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dhm03-uab_blazers_alcorn_state_braves
+-----
+Tulane Green Wave - Southeastern Louisiana Lions
+  1: 1.01
+  2: 6.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5xn03-tulane_green_wave_southeastern_louisiana_lions
+-----
+Kansas Jayhawks - Lindenwood University Lions
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/c7o03-kansas_jayhawks_lindenwood_university_lions
+-----
+Colorado Buffaloes - Dakota DU Nord Etat DU Bison
+  1: 1.22
+  2: 3.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6ybx2-colorado_buffaloes_dakota_du_nord_etat_du_bison
+-----
+Illinois Fighting Illini - Eastern Illinois Panthers
+  1: 1.00
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vdl03-illinois_fighting_illini_eastern_illinois_panthers
+-----
+San Jose State Spartans - Sacramento State Hornets
+  1: 1.48
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xml03-san_jose_state_spartans_sacramento_state_hornets
+-----
+Oklahoma Sooners - Temple Owls
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/g1ly2-oklahoma_sooners_temple_owls
+-----
+Michigan - Florida Atlantic Owls
+  1: 1.10
+  2: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h1ly2-michigan_florida_atlantic_owls
+-----
+Duke Blue Devils - Elon Phoenix
+  1: 1.02
+  2: 5.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/m3c03-duke_blue_devils_elon_phoenix
+-----
+Wisconsin Badgers - Michigan
+  1: 1.01
+  2: 6.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/i1ly2-wisconsin_badgers_michigan
+-----
+Stanford Cardinal - TCU Horned Frogs
+  1: 3.00
+  2: 1.22
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j1ly2-stanford_cardinal_tcu_horned_frogs
+-----
+Iowa Hawkeyes - Illinois State Redbirds
+  1: 1.02
+  2: 6.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v3c03-iowa_hawkeyes_illinois_state_redbirds
+-----
+Pittsburgh Panthers - Kent ST Golden Flashes
+  1: 1.03
+  2: 5.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o1ly2-pittsburgh_panthers_kent_st_golden_flashes
+-----
+Maryland Terrapins - Connecticut Huskies
+  1: 1.03
+  2: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n1ly2-maryland_terrapins_connecticut_huskies
+-----
+Vanderbilt Commodores - Virginia Tech Hokies
+  1: 3.95
+  2: 1.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/m1ly2-vanderbilt_commodores_virginia_tech_hokies
+-----
+West Virginia Mountaineers - Penn ST Nittany Lions
+  1: 3.00
+  2: 1.23
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/k1ly2-west_virginia_mountaineers_penn_st_nittany_lions
+-----
+Georgie Bulldogs - Clemson Tigers
+  1: 1.12
+  2: 3.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/822x2-georgie_bulldogs_clemson_tigers
+-----
+Oklahoma State Cowboys - South Dakota State Jackrabbits
+  1: 1.20
+  2: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n42z2-oklahoma_state_cowboys_south_dakota_state_jackrabbits
+-----
+Cincinnati Bearcats - Towson Tigers
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/sdl03-cincinnati_bearcats_towson_tigers
+-----
+Washington State Cougars - Portland State Vikings
+  1: 1.00
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qdl03-washington_state_cougars_portland_state_vikings
+-----
+Ohio - Akron Zips
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cb2z2-ohio_akron_zips
+-----
+Massachusetts Umass - Eastern Michigan Eagles
+  1: 1.55
+  2: 1.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/q42z2-massachusetts_umass_eastern_michigan_eagles
+-----
+Northwestern Wildcats - Miami Ohio Redhawks
+  1: 1.55
+  2: 1.98
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/52ly2-northwestern_wildcats_miami_ohio_redhawks
+-----
+Indiana Hoosiers - Florida International Panthers
+  1: 1.03
+  2: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/42ly2-indiana_hoosiers_florida_international_panthers
+-----
+UT San Antonio Roadrunners - Kennesaw State Owls
+  1: 1.02
+  2: 6.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/32ly2-ut_san_antonio_roadrunners_kennesaw_state_owls
+-----
+Syracuse Orange - Ohio Bobcats
+  1: 1.06
+  2: 4.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/03ly2-syracuse_orange_ohio_bobcats
+-----
+Iowa - North Dakota Fighting Hawks
+  1: 1.01
+  2: 6.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pdl03-iowa_north_dakota_fighting_hawks
+-----
+Texas Longhorns - Colorado
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/22ly2-texas_longhorns_colorado
+-----
+Nebraska Cornhuskers - Utep Miners
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/12ly2-nebraska_cornhuskers_utep_miners
+-----
+Florida Gators - Miami Florida Hurricanes
+  1: 1.95
+  2: 1.57
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/y1ly2-florida_gators_miami_florida_hurricanes
+-----
+Georgia Southern Eagles - Boise State Broncos
+  1: 3.65
+  2: 1.14
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/62ly2-georgia_southern_eagles_boise_state_broncos
+-----
+South Carolina - OLD Dominion Monarchs
+  1: 1.04
+  2: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/72ly2-south_carolina_old_dominion_monarchs
+-----
+California Golden Bears - UC Davis Aggies
+  1: 1.05
+  2: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xff03-california_golden_bears_uc_davis_aggies
+-----
+Marshall Thundering Herd - Stony Brook Seawolves
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6zn03-marshall_thundering_herd_stony_brook_seawolves
+-----
+South Alabama Jaguars - North Texas Mean Green
+  1: 1.38
+  2: 2.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/82ly2-south_alabama_jaguars_north_texas_mean_green
+-----
+Mississipi State Bulldogs - Eastern Kentucky Colonels
+  1: 1.03
+  2: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yff03-mississipi_state_bulldogs_eastern_kentucky_colonels
+-----
+Virginia Cavaliers - Richmond Spiders
+  1: 1.05
+  2: 5.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8gf03-virginia_cavaliers_richmond_spiders
+-----
+Oregon - Idaho State Bengals
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vml03-oregon_idaho_state_bengals
+-----
+Alabama Crimson Tide - Western Kentucky Hilltoppers
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/m2ly2-alabama_crimson_tide_western_kentucky_hilltoppers
+-----
+Arkansas - Central Arkansas Bears
+  1: 1.20
+  2: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ggf03-arkansas_central_arkansas_bears
+-----
+Middle Tenn - Tennessee Tech Golden Eagles
+  1: 1.03
+  2: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/imm03-middle_tenn_tennessee_tech_golden_eagles
+-----
+Baylor Bears - Tarleton State Texans
+  1: 1.02
+  2: 6.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/odl03-baylor_bears_tarleton_state_texans
+-----
+Rice Owls - SAM Houston State Bearkats
+  1: 1.18
+  2: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o2ly2-rice_owls_sam_houston_state_bearkats
+-----
+Troy Trojans - Nevada Wolf Pack
+  1: 1.23
+  2: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n2ly2-troy_trojans_nevada_wolf_pack
+-----
+Houston Cougars - UNLV Runnin Rebels
+  1: 1.58
+  2: 1.92
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a2ly2-houston_cougars_unlv_runnin_rebels
+-----
+Texas A&m - Notre Dame Fighting Irish
+  1: 1.53
+  2: 2.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/eybx2-texas_a_m_notre_dame_fighting_irish
+-----
+Texas - Abilene Christian Wildcats
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ndl03-texas_abilene_christian_wildcats
+-----
+Michigan Wolverines - Fresno
+  1: 1.03
+  2: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/s2ly2-michigan_wolverines_fresno
+-----
+Hawaii Warriors - UCLA Bruins
+  1: 4.00
+  2: 1.11
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x2ly2-hawaii_warriors_ucla_bruins
+-----
+Kentucky Wildcats - Southern Mississippi Golden Eagles
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z2ly2-kentucky_wildcats_southern_mississippi_golden_eagles
+-----
+Utah - Robert Morris Colonials
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/izn03-utah_robert_morris_colonials
+-----
+Louisiana Lafayette Ragin Cajuns - Grambling State Tigers
+  1: 1.00
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ozn03-louisiana_lafayette_ragin_cajuns_grambling_state_tigers
+-----
+Louisiana Tech Bulldogs - Nicholls Colonels
+  1: 1.23
+  2: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/tnm03-louisiana_tech_bulldogs_nicholls_colonels
+-----
+Brigham Young Cougars - Southern Illinois Salukis
+  1: 1.11
+  2: 4.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ygf03-brigham_young_cougars_southern_illinois_salukis
+-----
+Texas State Bobcats - Lamar Cardinals
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wml03-texas_state_bobcats_lamar_cardinals
+-----
+Charlotte 49ers - James Madison Dukes
+  1: 3.10
+  2: 1.21
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/33ly2-charlotte_49ers_james_madison_dukes
+-----
+Georgia Tech Yellow Jackets - Georgia State Panthers
+  1: 1.04
+  2: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l1ly2-georgia_tech_yellow_jackets_georgia_state_panthers
+-----
+New Mexico - Southeast Missouri State Redhawks
+  1: 1.23
+  2: 3.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vmm03-new_mexico_southeast_missouri_state_redhawks
+-----
+Montana Grizzlies - Missouri State Bears
+  1: 1.10
+  2: 4.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j0o03-montana_grizzlies_missouri_state_bears
+-----
+Utah Tech Trailblazers - Montana State Bobcats
+  1: 5.60
+  2: 1.03
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l0o03-utah_tech_trailblazers_montana_state_bobcats
+-----
+Arizona - Wyoming Cowboys
+  1: 1.26
+  2: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/83ly2-arizona_wyoming_cowboys
+-----
+Arizona Wildcats - New Mexico Lobos
+  1: 1.01
+  2: 6.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a3ly2-arizona_wildcats_new_mexico_lobos
+-----
+Washington Huskies - Weber State Wildcats
+  1: 1.01
+  2: 6.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mdl03-washington_huskies_weber_state_wildcats
+-----
+USC Trojans - Louisiana State Tigers
+  1: 2.25
+  2: 1.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hybx2-usc_trojans_louisiana_state_tigers
+-----
+Florida St Seminoles - Boston College Eagles
+  1: 1.08
+  2: 4.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j3ly2-florida_st_seminoles_boston_college_eagles
+-----
+Michigan Wolverines - Texas Longhorns
+  1: 2.12
+  2: 1.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kybx2-michigan_wolverines_texas_longhorns
+-----
+Iowa Hawkeyes - Iowa
+  1: 1.58
+  2: 1.92
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/k3ly2-iowa_hawkeyes_iowa
+-----
+North Carolina - Tennessee Volunteers
+  1: 2.30
+  2: 1.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n3ly2-north_carolina_tennessee_volunteers
+-----
+Nebraska Cornhuskers - Colorado Buffaloes
+  1: 1.32
+  2: 2.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mi5y2-nebraska_cornhuskers_colorado_buffaloes
+-----
+Kansas - Arizona Wildcats
+  1: 1.23
+  2: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o3ly2-kansas_arizona_wildcats
+-----
+Wisconsin Badgers - Alabama Crimson Tide
+  1: 3.05
+  2: 1.21
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/s3ly2-wisconsin_badgers_alabama_crimson_tide
+-----
+Florida Gators - Texas A&m
+  1: 2.17
+  2: 1.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v3ly2-florida_gators_texas_a_m
+-----
+Pittsburgh Panthers - West Virginia Mountaineers
+  1: 2.37
+  2: 1.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/r3ly2-pittsburgh_panthers_west_virginia_mountaineers
+-----
+Oregon - Oregon Ducks
+  1: 5.20
+  2: 1.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/p3ly2-oregon_oregon_ducks
+-----
+Washington Huskies - Washington State Cougars
+  1: 1.23
+  2: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/y3ly2-washington_huskies_washington_state_cougars
+-----
+Colorado - Colorado Buffaloes
+  1: 2.90
+  2: 1.24
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/u3ly2-colorado_colorado_buffaloes
+-----
+Oklahoma State Cowboys - Utah Utes
+  1: 1.78
+  2: 1.68
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/04ly2-oklahoma_state_cowboys_utah_utes
+-----
+Clemson Tigers - North Carolina
+  1: 1.28
+  2: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nybx2-clemson_tigers_north_carolina
+-----
+Oklahoma Sooners - Tennessee Volunteers
+  1: 1.43
+  2: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/z3ly2-oklahoma_sooners_tennessee_volunteers
+-----
+Michigan Wolverines - USC Trojans
+  1: 1.26
+  2: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/14ly2-michigan_wolverines_usc_trojans
+-----
+Miami Florida Hurricanes - Virginia Tech Hokies
+  1: 1.24
+  2: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/24ly2-miami_florida_hurricanes_virginia_tech_hokies
+-----
+Kansas - Oklahoma State Cowboys
+  1: 1.37
+  2: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/94ly2-kansas_oklahoma_state_cowboys
+-----
+USC Trojans - Wisconsin Badgers
+  1: 1.37
+  2: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/34ly2-usc_trojans_wisconsin_badgers
+-----
+Texas A&m - Arkansas Razorbacks
+  1: 1.17
+  2: 3.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/b4ly2-texas_a_m_arkansas_razorbacks
+-----
+Duke Blue Devils - North Carolina
+  1: 2.05
+  2: 1.52
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rybx2-duke_blue_devils_north_carolina
+-----
+Utah Utes - Arizona Wildcats
+  1: 1.21
+  2: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d4ly2-utah_utes_arizona_wildcats
+-----
+Notre Dame Fighting Irish - Louisville Cardinals
+  1: 1.21
+  2: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f4ly2-notre_dame_fighting_irish_louisville_cardinals
+-----
+Alabama Crimson Tide - Georgie Bulldogs
+  1: 2.17
+  2: 1.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/tybx2-alabama_crimson_tide_georgie_bulldogs
+-----
+Texas A&m - Missouri Tigers
+  1: 1.42
+  2: 2.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h4ly2-texas_a_m_missouri_tigers
+-----
+British Columbia Lions - Ottawa Redblacks
+  1: 1.47
+  2: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gil03-british_columbia_lions_ottawa_redblacks
+-----
+Saskatchewan Roughriders - Winnipeg Blue Bombers
+  1: 1.55
+  2: 1.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0ci03-saskatchewan_roughriders_winnipeg_blue_bombers
+-----
+Hamilton Tiger-Cats - Toronto Argonauts
+  1: 2.37
+  2: 1.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/e9i03-hamilton_tiger_cats_toronto_argonauts
+-----
+Calgary Stampeders - Edmonton Eskimos
+  1: 1.48
+  2: 2.07
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d9i03-calgary_stampeders_edmonton_eskimos
+-----
+Jake Paul - Tyson, Mike
+  1: 1.30
+  2: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/06yv2-jake_paul_usa_tyson_mike
+-----
+Cacace, Anthony - Warrington, Josh
+  1: 1.36
+  2: 2.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j73z2-cacace_anthony_warrington_josh
+-----
+Taylor, Katie - Serrano, Amanda
+  1: 1.65
+  2: 13.00
+  3: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/smkx2-taylor_katie_serrano_amanda
+-----
+Dubois, Daniel - Joshua, Anthony Oluwafemi Olaseni
+  1: 3.85
+  2: 26.00
+  3: 1.19
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l73z2-dubois_daniel_joshua_anthony_oluwafemi_olaseni
+-----
+Usyk, Oleksandr - Tyson Fury
+  1: 1.47
+  2: 2.27
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4zgy2-usyk_oleksandr_tyson_fury_eng
+-----
+Alvarez, Saul - Edgar Berlanga
+  1: 1.05
+  2: 24.00
+  3: 7.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9ouz2-alvarez_saul_edgar_berlanga_usa
+-----
+Buatsi, Joshua - Willy Hutchinson
+  1: 1.32
+  2: 2.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h73z2-buatsi_joshua_willy_hutchinson_sco
+-----
+Beterbiev, Artur - Bivol, Dmitriy
+  1: 1.93
+  2: 16.00
+  3: 1.81
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/eyvz2-beterbiev_artur_bivol_dmitriy
+-----
+Takei, Yoshiki - Higa, Daigo
+  1: 1.21
+  2: 3.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ofsz2-takei_yoshiki_higa_daigo
+-----
+Inoue, Naoya - Doheny, Terrence John
+  1: 1.02
+  2: 17.00
+  3: 11.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pfsz2-inoue_naoya_doheny_terrence_john
+-----
+Ruiz, Adelaida - Fuchs, Virginia
+  1: 1.75
+  2: 11.00
+  3: 2.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rln03-ruiz_adelaida_fuchs_virginia
+-----
+Clarke, Cheavan - Apochi, Efetobor
+  1: 1.11
+  2: 18.00
+  3: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jbn03-clarke_cheavan_apochi_efetobor
+-----
+Popoca, Arturo - Valdez, Jesus A
+  1: 1.19
+  2: 14.00
+  3: 4.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/bln03-popoca_arturo_valdez_jesus_a
+-----
+Pacheco, Diego - Sulecki, Maciej
+  1: 1.04
+  2: 24.00
+  3: 7.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/95m03-pacheco_diego_sulecki_maciej
+-----
+Barroso, Ismael - Hiraoka, Andy
+  1: 4.30
+  2: 1.13
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nfsz2-barroso_ismael_hiraoka_andy
+-----
+Hernandez, Eduardo - Mattice, Thomas
+  1: 1.30
+  2: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nyvz2-hernandez_eduardo_mattice_thomas
+-----
+Chamberlain, Mark - Padley, Josh
+  1: 1.02
+  2: 7.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ej9z2-chamberlain_mark_padley_josh
+-----
+Smith, Liam - Kelly, Josh
+  1: 1.78
+  2: 1.78
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/k73z2-smith_liam_kelly_josh
+-----
+Denny, Tyler - Sheeraz, Hamzah
+  1: 5.00
+  2: 1.08
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/i73z2-denny_tyler_sheeraz_hamzah
+-----
+Hsu Y-H - Lin J Y - Kim-Kong
+  1: 6.50
+  2: 1.04
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hwo03-hsu_y_h_lin_j_y_kim_kong
+-----
+TAN/Thinaah - Chan N G - Lin C-C
+  1: 1.02
+  2: 7.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/17p03-tan_thinaah_mls_chan_n_g_lin_c_c
+-----
+Li Y J - Luo X M - Corbett F - Lee A
+  1: 1.02
+  2: 8.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pin03-li_y_j_luo_x_m_corbett_f_lee_a
+-----
+Ishikawa K - Konegawa M - Jeong/Kim
+  1: 6.20
+  2: 1.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/inn03-ishikawa_k_konegawa_m_jeong_kim_chn
+-----
+Sung Y-H - Wang Y Q - Lee Y L - Shin S C
+  1: 7.50
+  2: 1.03
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6pn03-sung_y_h_wang_y_q_lee_y_l_shin_s_c
+-----
+Keng S L - Zhang S X - Teng C H - Yang C Y
+  1: 1.09
+  2: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6go03-keng_s_l_zhang_s_x_teng_c_h_yang_c_y
+-----
+Hsieh P S - Hung E-T - Matsuyama-Shida
+  1: 8.25
+  2: 1.01
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hnn03-hsieh_p_s_hung_e_t_matsuyama_shida
+-----
+Kang M - Seo S - Boon X Y - Goh V S
+  1: 1.01
+  2: 8.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rpo03-kang_m_seo_s_boon_x_y_goh_v_s
+-----
+Jomkoh/Kedren - Soendergaard A - Toft J
+  1: 1.47
+  2: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kin03-jomkoh_kedren_tha_soendergaard_a_toft_j
+-----
+Choi S G - Heo K H - Choong H J - Haikal M
+  1: 2.37
+  2: 1.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lqo03-choi_s_g_heo_k_h_choong_h_j_haikal_m
+-----
+Azriyn N M A A - Tan W K - Carnando L R - Maulana B
+  1: 3.90
+  2: 1.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qnn03-azriyn_n_m_a_a_tan_w_k_carnando_l_r_maulana_b
+-----
+Lee-Yang - Chiu H C - Wang C
+  1: 1.41
+  2: 2.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rnn03-lee_yang_chiu_h_c_wang_c
+-----
+Kim/Kim - Xie H N - Zeng W H
+  1: 1.27
+  2: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/snn03-kim_kim_kor_xie_h_n_zeng_w_h
+-----
+Lee/Lee - Fikri M S - Marthin D
+  1: 4.80
+  2: 1.11
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9wn03-lee_lee_tpe_fikri_m_s_marthin_d
+-----
+Chen B Y - Liu Y - He J T - Ren X Y
+  1: 2.50
+  2: 1.41
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hvo03-chen_b_y_liu_y_he_j_t_ren_x_y
+-----
+Farhan, Alwi - Kuo, Kuan Lin
+  1: 1.33
+  2: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/50p03-farhan_alwi_kuo_kuan_lin
+-----
+Subramanian, S.sankar Muthusamy - Tan, Jia Jie
+  1: 1.60
+  2: 2.07
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/80p03-subramanian_s_sankar_muthusamy_tan_jia_jie
+-----
+Yun Kyu Lee - Hatano, Riku
+  1: 3.25
+  2: 1.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/60p03-yun_kyu_lee_kor_hatano_riku
+-----
+Shesar Hiren Rhustavito - Sameer Verma
+  1: 1.29
+  2: 3.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/90p03-shesar_hiren_rhustavito_sameer_verma
+-----
+Matsui K - Tamate K - Indra R - Rindorindo P H
+  1: 1.40
+  2: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gap03-matsui_k_tamate_k_indra_r_rindorindo_p_h
+-----
+Charoenkitamorn C - Thongsa-Nga W - Inoue S - Kawabe H
+  1: 1.04
+  2: 6.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rap03-charoenkitamorn_c_thongsa_nga_w_inoue_s_kawabe_h
+-----
+Bernardo C - Morada A - Choi J S - Liew X
+  1: 1.43
+  2: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vap03-bernardo_c_morada_a_choi_j_s_liew_x
+-----
+Bao Xin D G L W - Tseng P-C - Prasetya A B F - Ramadhan P
+  1: 1.27
+  2: 3.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/odp03-bao_xin_d_g_l_w_tseng_p_c_prasetya_a_b_f_ramadhan_p
+-----
+Lee J M - Noh J S - Goonting B J - M Fazriq M R
+  1: 2.90
+  2: 1.31
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7gp03-lee_j_m_noh_j_s_goonting_b_j_m_fazriq_m_r
+-----
+Chang K-H - Wu G X - Hardianto H - Santoso A Y
+  1: 1.75
+  2: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8gp03-chang_k_h_wu_g_x_hardianto_h_santoso_a_y
+-----
+Marvino D E - Wijaya C D - Goh B Z - Wong V S
+  1: 1.47
+  2: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kfp03-marvino_d_e_wijaya_c_d_goh_b_z_wong_v_s
+-----
+Maulana A - Jamil I C S - Nabawi Z A A - Rismawardani J M
+  1: 1.20
+  2: 3.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pto03-maulana_a_jamil_i_c_s_nabawi_z_a_a_rismawardani_j_m
+-----
+Hidayatullah J - Pasaribu F A N - Mulia V Y - Elsadai P V
+  1: 1.18
+  2: 3.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qwo03-hidayatullah_j_pasaribu_f_a_n_mulia_v_y_elsadai_p_v
+-----
+Villabrille J - Albo A M N - Loo B K - Ho L E
+  1: 1.42
+  2: 2.47
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9xo03-villabrille_j_albo_a_m_n_loo_b_k_ho_l_e
+-----
+Kodai Naraoka - Brian Yang
+  1: 1.04
+  2: 6.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/goo03-kodai_naraoka_jpn_brian_yang_can
+-----
+Lanxi Lei - Anders Antonsen
+  1: 6.20
+  2: 1.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2zo03-lanxi_lei_anders_antonsen
+-----
+Guangzu Lu - Rasmus Gemke
+  1: 1.57
+  2: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ioo03-guangzu_lu_rasmus_gemke
+-----
+Takuma Obayashi - Chun-Yi Lin
+  1: 2.55
+  2: 1.39
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dwo03-takuma_obayashi_jap_chun_yi_lin_tpe
+-----
+Chia Hao Lee - SU LI Yang
+  1: 1.37
+  2: 2.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dpo03-chia_hao_lee_su_li_yang_tpe
+-----
+Kantaphon Wangcharoen - Li Shifeng
+  1: 6.20
+  2: 1.06
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yqo03-kantaphon_wangcharoen_li_shifeng_chn
+-----
+Hirokami R - Kiyama R - Endo M - Sudo M
+  1: 1.09
+  2: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cgp03-hirokami_r_kiyama_r_endo_m_sudo_m
+-----
+Anjani A - Rahma T M - Otake M - Takahashi M
+  1: 8.00
+  2: 1.02
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dip03-anjani_a_rahma_t_m_otake_m_takahashi_m
+-----
+Chen H Y - Lu S-Y - Munggaran A N T - Ramadhani A Z D
+  1: 3.15
+  2: 1.26
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j9p03-chen_h_y_lu_s_y_munggaran_a_n_t_ramadhani_a_z_d
+-----
+Miantoro J P - Setianingrum F - Meida I S - Nastine R K
+  1: 1.01
+  2: 8.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7ip03-miantoro_j_p_setianingrum_f_meida_i_s_nastine_r_k
+-----
+Pattanawaritthipan P - Povanon A - Azzahra S S - Rahayu A S
+  1: 3.90
+  2: 1.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/igp03-pattanawaritthipan_p_povanon_a_azzahra_s_s_rahayu_a_s
+-----
+Busanan Ongbumrungpan - Chiu, Pin-Chian
+  1: 1.07
+  2: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4oo03-busanan_ongbumrungpan_chiu_pin_chian
+-----
+Ga Eun Kim - Line Christophersen
+  1: 1.13
+  2: 4.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3oo03-ga_eun_kim_line_christophersen_den
+-----
+YU Jin Sim - Yiman Zhang
+  1: 2.60
+  2: 1.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cxo03-yu_jin_sim_kor_yiman_zhang
+-----
+Lo, Sin Yan Happy - Hsiang Ti Lin
+  1: 1.65
+  2: 1.97
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1oo03-lo_sin_yan_happy_hsiang_ti_lin_tpe
+-----
+Yue Han - Suizu, Manami
+  1: 1.07
+  2: 5.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2oo03-yue_han_suizu_manami
+-----
+Kim W H - Jeong N E - Kusharjanto/Kusumawati
+  1: 1.11
+  2: 4.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xqo03-kim_w_h_jeong_n_e_kusharjanto_kusumawati_ina
+-----
+Liu K H - Jheng Y C - Chen T J - Toh E W
+  1: 6.75
+  2: 1.04
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mzo03-liu_k_h_jheng_y_c_chen_t_j_toh_e_w
+-----
+Guo X W - Li Q - KO-Eom
+  1: 1.43
+  2: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/aro03-guo_x_w_li_q_ko_eom
+-----
+Cheng X - Zhang C - Jiang Z B - Wei Y X
+  1: 5.60
+  2: 1.07
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d0p03-cheng_x_zhang_c_jiang_z_b_wei_y_x
+-----
+Hee/Han - Toft J - Magelund A
+  1: 1.33
+  2: 2.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/oql03-hee_han_sin_toft_j_magelund_a
+-----
+Chen Z R - Yang C T - Midorikawa/Saito
+  1: 6.20
+  2: 1.06
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/pql03-chen_z_r_yang_c_t_midorikawa_saito_jpn
+-----
+Widjaya, Stephanie - Tung, Ciou-Tong
+  1: 1.75
+  2: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7wo03-widjaya_stephanie_tung_ciou_tong
+-----
+Sugiyama, Kaoru - G-E.Park
+  1: 1.32
+  2: 2.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9wo03-sugiyama_kaoru_g_e_park_kor
+-----
+Yulia Yosephin Susanto - Asuka Takahashi
+  1: 3.80
+  2: 1.18
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v4p03-yulia_yosephin_susanto_idn_asuka_takahashi
+-----
+Puspitasari, Mutiara Ayu - Handoyo, Chiara Marvella
+  1: 2.12
+  2: 1.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w4p03-puspitasari_mutiara_ayu_handoyo_chiara_marvella
+-----
+Fatetani, Aisyah Sativa - Akechi, Hina
+  1: 4.20
+  2: 1.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/u4p03-fatetani_aisyah_sativa_akechi_hina
+-----
+Los Angeles Dodgers - Baltimore Orioles
+  1: 1.77
+  2: 1.73
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d8o03-los_angeles_dodgers_baltimore_orioles
+-----
+Detroit Tigers - Los Angeles Angels
+  1: 1.48
+  2: 2.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kdp03-detroit_tigers_los_angeles_angels
+-----
+Milwaukee Brewers - San Francisco Giants
+  1: 1.58
+  2: 1.97
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gjp03-milwaukee_brewers_san_francisco_giants
+-----
+Chicago White Sox - Texas Rangers
+  1: 2.50
+  2: 1.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8fp03-chicago_white_sox_texas_rangers
+-----
+St. Louis Cardinals - San Diego Padres
+  1: 1.78
+  2: 1.73
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kgp03-st_louis_cardinals_san_diego_padres
+-----
+Colorado Rockies - Miami Marlins
+  1: 1.67
+  2: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/tgp03-colorado_rockies_miami_marlins
+-----
+Arizona Diamondbacks - New York Mets
+  1: 1.71
+  2: 1.81
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jjp03-arizona_diamondbacks_new_york_mets
+-----
+Cincinnati Reds - Oakland Athletics
+  1: 1.62
+  2: 1.91
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rjp03-cincinnati_reds_oakland_athletics
+-----
+Philadelphia Phillies - Atlanta Braves
+  1: 1.53
+  2: 2.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/okp03-philadelphia_phillies_atlanta_braves
+-----
+Boston Red Sox - Toronto Blue Jays
+  1: 1.62
+  2: 1.92
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qjp03-boston_red_sox_toronto_blue_jays
+-----
+Los Angeles Dodgers - Baltimore Orioles
+  1: 1.50
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kkp03-los_angeles_dodgers_baltimore_orioles
+-----
+Kiwoom Heroes - Samsung Lions
+  1: 1.93
+  2: 1.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d2p03-kiwoom_heroes_samsung_lions
+-----
+NC Dinos - Doosan Bears
+  1: 1.41
+  2: 2.32
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/e2p03-nc_dinos_doosan_bears
+-----
+LG Twins - KT Wiz
+  1: 1.73
+  2: 1.78
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f2p03-lg_twins_kt_wiz
+-----
+Lotte Giants - Hanwha Eagles
+  1: 1.47
+  2: 2.17
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/g2p03-lotte_giants_hanwha_eagles
+-----
+KIA Tigers - SSG Landers
+  1: 1.63
+  2: 1.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h2p03-kia_tigers_ssg_landers
+-----
+Chunichi Dragons - Hiroshima Toyo Carp
+  1: 1.88
+  2: 1.63
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/52p03-chunichi_dragons_hiroshima_toyo_carp
+-----
+Chiba Lotte Marines - Saitama Seibu Lions
+  1: 1.45
+  2: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/62p03-chiba_lotte_marines_saitama_seibu_lions
+-----
+Yokohama Dena Baystars - Hanshin Tigers
+  1: 1.75
+  2: 1.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/72p03-yokohama_dena_baystars_hanshin_tigers
+-----
+Tokyo Yakult Swallows - Yomiuri Giants
+  1: 1.81
+  2: 1.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/92p03-tokyo_yakult_swallows_yomiuri_giants
+-----
+Chris Totten - Tahir, Haris
+  1: 1.57
+  2: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9jn03-chris_totten_sco_tahir_haris
+-----
+Robbie Mcguigan - Sayegh, Abdulraouf
+  1: 1.13
+  2: 4.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/a1p03-robbie_mcguigan_nir_sayegh_abdulraouf
+-----
+Oliver Lines - Bahashwan, Faisal
+  1: 1.01
+  2: 10.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/91p03-oliver_lines_ang_bahashwan_faisal
+-----
+Michael Holt - Abul, Ahmad
+  1: 1.01
+  2: 10.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/81p03-michael_holt_eng_abul_ahmad
+-----
+Allan Taylor - Aqdus, Adeel
+  1: 1.02
+  2: 9.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/41p03-allan_taylor_ang_aqdus_adeel
+-----
+Thor Chuan Leong - Alajlani, Omar
+  1: 1.24
+  2: 3.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/x0p03-thor_chuan_leong_mls_alajlani_omar
+-----
+Reanne Evans - Blackwell, Simon
+  1: 3.85
+  2: 1.21
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uun03-reanne_evans_ang_blackwell_simon
+-----
+Nuanthakhamjan, Siripaporn - Elkhayat, Mohamed
+  1: 2.22
+  2: 1.57
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zgp03-nuanthakhamjan_siripaporn_elkhayat_mohamed
+-----
+Ben Mertens - Alotayyani, Abdullah
+  1: 1.01
+  2: 10.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/f1p03-ben_mertens_bel_alotayyani_abdullah
+-----
+Graham, Liam - Ali, Ali Hussain
+  1: 1.13
+  2: 4.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/d1p03-graham_liam_ali_ali_hussain
+-----
+Farakh Ajaib - AL Mahri, Haitham
+  1: 1.10
+  2: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/c1p03-farakh_ajaib_eng_al_mahri_haitham
+-----
+Zizins, Artemijs - Lim, Kok Leong
+  1: 1.48
+  2: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fjn03-zizins_artemijs_lim_kok_leong
+-----
+Leclercq, Julien - Dylan Emery
+  1: 1.72
+  2: 1.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gjn03-leclercq_julien_dylan_emery_wal
+-----
+Cheung, KA Wai - Joshua Thomond
+  1: 1.24
+  2: 3.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qjn03-cheung_ka_wai_joshua_thomond_eng
+-----
+Lei Peifan - Yulu, Bai
+  1: 1.20
+  2: 3.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/tun03-lei_peifan_chn_yulu_bai
+-----
+Jimmy White - Mohammed Shehab
+  1: 1.68
+  2: 2.02
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vjn03-jimmy_white_ang_mohammed_shehab_uae
+-----
+Pinhey, Haydon - Alamri, Aymn
+  1: 1.12
+  2: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/i1p03-pinhey_haydon_alamri_aymn
+-----
+Antoni Kowalski - Habib, Subah
+  1: 1.11
+  2: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/h1p03-antoni_kowalski_pol_habib_subah
+-----
+Chenzhi, Gong - Ali, Alijalil
+  1: 1.03
+  2: 8.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/g1p03-chenzhi_gong_ali_alijalil
+-----
+Mitchell Mann - Deaville, Paul
+  1: 1.55
+  2: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xjn03-mitchell_mann_eng_deaville_paul
+-----
+Andrew Pagett - Wang Yuchen
+  1: 2.15
+  2: 1.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rjn03-andrew_pagett_pdg_wang_yuchen_chn
+-----
+Revesz, Bulcsu - Iulian Boiko
+  1: 2.22
+  2: 1.55
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/oun03-revesz_bulcsu_iulian_boiko_ukr
+-----
+Huang Jiahao - Elsayed, Ahmed
+  1: 1.05
+  2: 7.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/sun03-huang_jiahao_chn_elsayed_ahmed
+-----
+Zak Surety - Alobaidli, Ali
+  1: 1.12
+  2: 5.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vgp03-zak_surety_ang_alobaidli_ali
+-----
+Dean Young - Alamoudi, Saleh
+  1: 1.12
+  2: 5.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l1p03-dean_young_sco_alamoudi_saleh
+-----
+Duane Jones - Alkamali, Khalid
+  1: 1.11
+  2: 5.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/j1p03-duane_jones_pdg_alkamali_khalid
+-----
+Phetmalaikul, Manasawin - Sarkhosh, Amir
+  1: 3.25
+  2: 1.28
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/mun03-phetmalaikul_manasawin_sarkhosh_amir
+-----
+Davies, Liam - Ken Doherty
+  1: 1.83
+  2: 1.83
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ejn03-davies_liam_ken_doherty_ire
+-----
+Dorgham, Mostafa - Luz, Jonas
+  1: 1.13
+  2: 5.00
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lun03-dorgham_mostafa_luz_jonas
+-----
+Gurbaxani, Kreishh - Akani Songsermsawad
+  1: 6.20
+  2: 1.08
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zjn03-gurbaxani_kreishh_akani_songsermsawad_tha
+-----
+Coulson, Derek - Banks, Thomas
+  1: 1.52
+  2: 2.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/rbp03-coulson_derek_banks_thomas
+-----
+Paul Hogan - van Schie, Jimmy
+  1: 1.70
+  2: 1.92
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ubp03-paul_hogan_van_schie_jimmy
+-----
+Jim Long - Duff, Neil
+  1: 1.48
+  2: 2.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wbp03-jim_long_can_duff_neil
+-----
+Banks, Thomas - Paul Hogan
+  1: 2.00
+  2: 1.63
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zbp03-banks_thomas_paul_hogan
+-----
+Duff, Neil - Coulson, Derek
+  1: 1.62
+  2: 2.02
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0cp03-duff_neil_coulson_derek
+-----
+van Schie, Jimmy - Jim Long
+  1: 1.92
+  2: 1.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/1cp03-van_schie_jimmy_jim_long_can
+-----
+Banks, Thomas - Duff, Neil
+  1: 2.10
+  2: 1.58
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2cp03-banks_thomas_duff_neil
+-----
+Paul Hogan - Jim Long
+  1: 2.02
+  2: 1.62
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/3cp03-paul_hogan_jim_long_can
+-----
+Coulson, Derek - van Schie, Jimmy
+  1: 1.80
+  2: 1.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/4cp03-coulson_derek_van_schie_jimmy
+-----
+Duff, Neil - Paul Hogan
+  1: 1.65
+  2: 1.97
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/5cp03-duff_neil_paul_hogan
+-----
+van Schie, Jimmy - Banks, Thomas
+  1: 1.48
+  2: 2.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/6cp03-van_schie_jimmy_banks_thomas
+-----
+Jim Long - Coulson, Derek
+  1: 1.42
+  2: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/7cp03-jim_long_can_coulson_derek
+-----
+van Schie, Jimmy - Duff, Neil
+  1: 1.78
+  2: 1.82
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8cp03-van_schie_jimmy_duff_neil
+-----
+Coulson, Derek - Paul Hogan
+  1: 1.80
+  2: 1.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9cp03-coulson_derek_paul_hogan
+-----
+Banks, Thomas - Jim Long
+  1: 2.30
+  2: 1.48
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/acp03-banks_thomas_jim_long_can
+-----
+Rowlands, Richard - van Velzen, Marvin
+  1: 2.50
+  2: 1.40
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ccp03-rowlands_richard_van_velzen_marvin
+-----
+Steve West - Sykes, Tom
+  1: 1.80
+  2: 1.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dcp03-steve_west_sykes_tom
+-----
+Paxton, Adam - Rowlands, Richard
+  1: 1.45
+  2: 2.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ecp03-paxton_adam_rowlands_richard
+-----
+van Velzen, Marvin - Steve West
+  1: 1.73
+  2: 1.87
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/fcp03-van_velzen_marvin_steve_west
+-----
+Sykes, Tom - Paxton, Adam
+  1: 1.48
+  2: 2.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gcp03-sykes_tom_paxton_adam
+-----
+Rowlands, Richard - Steve West
+  1: 2.60
+  2: 1.37
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hcp03-rowlands_richard_steve_west
+-----
+van Velzen, Marvin - Sykes, Tom
+  1: 1.87
+  2: 1.73
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/icp03-van_velzen_marvin_sykes_tom
+-----
+Steve West - Paxton, Adam
+  1: 1.55
+  2: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jcp03-steve_west_paxton_adam
+-----
+Sykes, Tom - Rowlands, Richard
+  1: 1.25
+  2: 3.20
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/kcp03-sykes_tom_rowlands_richard
+-----
+Paxton, Adam - van Velzen, Marvin
+  1: 1.80
+  2: 1.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lcp03-paxton_adam_van_velzen_marvin
+-----
+Port Adelaide Power - Geelong Cats
+  1: 1.43
+  2: 2.27
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/l7n03-port_adelaide_power_geelong_cats
+-----
+Western Bulldogs - Hawthorn Hawks
+  1: 1.65
+  2: 1.88
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/m7n03-western_bulldogs_hawthorn_hawks
+-----
+Sydney Swans - Greater Western Sydney
+  1: 1.53
+  2: 2.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n7n03-sydney_swans_greater_western_sydney
+-----
+Brisbane Lions - Carlton Blues
+  1: 1.22
+  2: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o7n03-brisbane_lions_carlton_blues
+-----
+Surrey - Durham
+  1: 1.37
+  2: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ax403-surrey_durham
+-----
+Sussex - Lancashire
+  1: 1.70
+  2: 1.63
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/8x403-sussex_lancashire
+-----
+Northamptonshire - Somerset
+  1: 1.98
+  2: 1.43
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9x403-northamptonshire_somerset
+-----
+Lancashire - Hampshire
+  1: 1.97
+  2: 1.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/akn03-lancashire_hampshire
+-----
+Warwickshire - Kent
+  1: 1.43
+  2: 1.98
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ukn03-warwickshire_kent
+-----
+Nottinghamshire - Surrey
+  1: 2.45
+  2: 1.26
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zkn03-nottinghamshire_surrey
+-----
+Essex - Worcestershire
+  1: 1.37
+  2: 2.12
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/2ln03-essex_worcestershire
+-----
+Petroski, Andre - Budka, Dylan
+  1: 1.25
+  2: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/s2a03-petroski_andre_budka_dylan
+-----
+Yizha - Santos, Gabriel
+  1: 2.65
+  2: 1.36
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ipl03-yizha_santos_gabriel
+-----
+Dos Santos, Felipe - Lima, Andre
+  1: 2.30
+  2: 1.48
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/v8b03-dos_santos_felipe_lima_andre_bra
+-----
+Dulgarian, Isaac - Marotte, Brendon
+  1: 1.03
+  2: 7.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/r2a03-dulgarian_isaac_marotte_brendon
+-----
+Amorim, Jaqueline - Demopoulos, Vanessa
+  1: 1.30
+  2: 2.95
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/q2a03-amorim_jaqueline_demopoulos_vanessa
+-----
+Ryan Spann - Ovince St. Preux
+  1: 1.24
+  2: 3.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/n2a03-ryan_spann_ovince_st_preux
+-----
+Zhu, Rong - Padilla, Christopher
+  1: 1.31
+  2: 2.90
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/w8b03-zhu_rong_padilla_christopher
+-----
+Peek, Trevor - Ashmoz, Yanal
+  1: 1.73
+  2: 1.87
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/t2a03-peek_trevor_ashmoz_yanal
+-----
+Matt Schnell - Costa, Alessandro
+  1: 4.00
+  2: 1.16
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/o2a03-matt_schnell_usa_costa_alessandro
+-----
+Steve Garcia - Kyle Nelson
+  1: 1.48
+  2: 2.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/gs903-steve_garcia_usa_kyle_nelson_can
+-----
+Jessica Andrade - Silva, Natalia
+  1: 2.90
+  2: 1.31
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/p2a03-jessica_andrade_silva_natalia
+-----
+Gilbert Burns - Sean Brady
+  1: 2.35
+  2: 1.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/el103-gilbert_burns_sean_brady_usa
+-----
+Magomed Ankalaev - Aleksandar Rakic
+  1: 1.26
+  2: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/hrxz2-magomed_ankalaev_rus_aleksandar_rakic_aut
+-----
+Ciryl Gane - Alexander Volkov
+  1: 1.35
+  2: 2.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/jrxz2-ciryl_gane_fra_alexander_volkov
+-----
+Robert Whittaker - Khamzat Chimaev
+  1: 2.25
+  2: 1.51
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/irxz2-robert_whittaker_nz_khamzat_chimaev_uae
+-----
+Topuria, Ilia - Max Holloway
+  1: 1.43
+  2: 2.42
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/23yz2-topuria_ilia_max_holloway
+-----
+Renato Moicano - Benoit Saint-Denis
+  1: 2.70
+  2: 1.35
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/zq603-renato_moicano_bra_benoit_saint_denis_fra
+-----
+Jauregui, Yasmine - Souza, Ketlen
+  1: 1.20
+  2: 3.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/vqwz2-jauregui_yasmine_souza_ketlen
+-----
+Chairez, Edgar - Borjas, Kevin
+  1: 1.51
+  2: 2.25
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/tqwz2-chairez_edgar_borjas_kevin
+-----
+Torres, Manuel - Bahamondes, Ignacio
+  1: 1.93
+  2: 1.68
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uqwz2-torres_manuel_bahamondes_ignacio
+-----
+Irene Aldana - Norma Dumont Viana
+  1: 1.81
+  2: 1.78
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/wqwz2-irene_aldana_mex_norma_dumont_viana_bre
+-----
+Rosas Jr, Raul - Aori, Qileng
+  1: 1.11
+  2: 4.70
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/0vwz2-rosas_jr_raul_aori_qileng
+-----
+Rodriguez, Luis - Ode Osbourne
+  1: 1.58
+  2: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ayuz2-rodriguez_luis_ode_osbourne_usa
+-----
+Zellhuber, Daniel - Ribovics, Esteban
+  1: 1.40
+  2: 2.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/byuz2-zellhuber_daniel_ribovics_esteban
+-----
+Brian Ortega - Lopes, Diego
+  1: 2.25
+  2: 1.50
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/9yuz2-brian_ortega_usa_lopes_diego
+-----
+Alexa Grasso - Valentina Shevchenko
+  1: 1.75
+  2: 1.85
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/cvrz2-alexa_grasso_mex_valentina_shevchenko_per
+-----
+Sean O'Malley - Merab Dvalishvili
+  1: 1.88
+  2: 1.72
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/19rz2-sean_o_malley_usa_merab_dvalishvili
+-----
+Machida Zelvia - Urawa Red Diamonds
+  1: 2.00
+  2: 3.00
+  3: 3.15
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/nwk03-fc_machida_zelvia_urawa_red_diamonds
+-----
+Sanfrecce Hiroshima - Tokio
+  1: 1.40
+  2: 3.95
+  3: 5.60
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/yvk03-sanfrecce_hiroshima_fc_tokio
+-----
+Nagoya Grampus - Niigata Albirex
+  1: 2.30
+  2: 2.95
+  3: 2.65
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/qwk03-nagoya_grampus_niigata_albirex
+-----
+Sagan Tosu - Shonan Bellmare
+  1: 2.85
+  2: 3.25
+  3: 2.05
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/owk03-sagan_tosu_shonan_bellmare
+-----
+Cerezo Osaka - Gamba Osaka
+  1: 2.50
+  2: 2.90
+  3: 2.45
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/dvj03-cerezo_osaka_gamba_osaka
+-----
+Kashiwa Reysol - Tokyo Verdy
+  1: 1.93
+  2: 3.05
+  3: 3.30
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/xvk03-kashiwa_reysol_tokyo_verdy
+-----
+Kyoto Sanga - Kashima Antlers
+  1: 2.85
+  2: 3.10
+  3: 2.10
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/ovk03-kyoto_sanga_fc_kashima_antlers
+-----
+Jubilo Iwata - Yokohama Marinos
+  1: 3.65
+  2: 3.50
+  3: 1.68
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/uwk03-jubilo_iwata_yokohama_marinos
+-----
+Consadole Sapporo - Kawasaki Frontale
+  1: 3.30
+  2: 3.45
+  3: 1.80
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/lwk03-consadole_sapporo_kawasaki_frontale
+-----
+Avispa Fukuoka - Vissel Kobe
+  1: 4.10
+  2: 2.95
+  3: 1.75
+link -> https://www.zebet.es/es/competition/771-japon_j_league/es/event/twk03-avispa_fukuoka_vissel_kobe
+-----

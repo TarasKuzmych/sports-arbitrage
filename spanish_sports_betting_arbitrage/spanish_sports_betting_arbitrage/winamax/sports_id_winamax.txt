@@ -1,0 +1,32 @@
+Sport ID: 1, Sport Name: Fútbol
+Sport ID: 2, Sport Name: Baloncesto
+Sport ID: 3, Sport Name: Béisbol
+Sport ID: 4, Sport Name: Hockey hielo 
+Sport ID: 5, Sport Name: Tenis
+Sport ID: 6, Sport Name: Balonmano
+Sport ID: 9, Sport Name: Golf
+Sport ID: 10, Sport Name: Boxeo
+Sport ID: 11, Sport Name: Automovilismo
+Sport ID: 12, Sport Name: Rugby Union
+Sport ID: 13, Sport Name: Fútbol australiano
+Sport ID: 16, Sport Name: Fútbol americano
+Sport ID: 17, Sport Name: Ciclismo
+Sport ID: 18, Sport Name: Especial
+Sport ID: 19, Sport Name: Snooker
+Sport ID: 21, Sport Name: Críquet
+Sport ID: 22, Sport Name: Dardos
+Sport ID: 23, Sport Name: Voleibol
+Sport ID: 24, Sport Name: Hockey hierba
+Sport ID: 26, Sport Name: Waterpolo
+Sport ID: 29, Sport Name: Fútbol sala
+Sport ID: 31, Sport Name: Bádminton
+Sport ID: 40, Sport Name: Fórmula 1
+Sport ID: 43, Sport Name: Esquí alpino
+Sport ID: 44, Sport Name: Biatlón
+Sport ID: 71, Sport Name: Pádel
+Sport ID: 117, Sport Name: MMA
+Sport ID: 190, Sport Name: Motociclismo
+Sport ID: 9992, Sport Name: Rugby League
+Sport ID: 9994, Sport Name: ESports
+Sport ID: 99990, Sport Name: Política
+Sport ID: 100000, Sport Name: Supercuotas

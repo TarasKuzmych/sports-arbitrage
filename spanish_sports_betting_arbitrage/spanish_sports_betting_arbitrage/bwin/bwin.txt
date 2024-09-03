@@ -1,0 +1,4048 @@
+Athletic Club - Valencia
+  1: 1.65
+  2: 3.75
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/athletic-club-valencia-2:6532857
+-----
+Real Valladolid - Leganes
+  1: 2.20
+  2: 2.95
+  3: 3.75
+link -> https://sports.bwin.es/es/sports/eventos/real-valladolid-cd-leganés-2:6532858
+-----
+Real Sociedad - Alaves
+  1: 1.66
+  2: 3.50
+  3: 5.75
+link -> https://sports.bwin.es/es/sports/eventos/r-sociedad-alavés-2:6532861
+-----
+Atletico Madrid - Espanyol Barcelona
+  1: 1.25
+  2: 5.75
+  3: 13.50
+link -> https://sports.bwin.es/es/sports/eventos/atlético-madrid-espanyol-barcelona-2:6532863
+-----
+Girona - Osasuna
+  1: 1.73
+  2: 3.90
+  3: 4.50
+link -> https://sports.bwin.es/es/sports/eventos/girona-osasuna-2:6533283
+-----
+Las Palmas - Real Madrid
+  1: 7.75
+  2: 5.00
+  3: 1.37
+link -> https://sports.bwin.es/es/sports/eventos/las-palmas-real-madrid-2:6533284
+-----
+Barcelona - Real Valladolid
+  1: 1.25
+  2: 6.25
+  3: 11.50
+link -> https://sports.bwin.es/es/sports/eventos/barça-valladolid-2:6535331
+-----
+Athletic Club - Atletico Madrid
+  1: 2.85
+  2: 3.30
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/athletic-club-atlético-madrid-2:6535368
+-----
+Espanyol Barcelona - Rayo Vallecano
+  1: 2.70
+  2: 3.00
+  3: 2.75
+link -> https://sports.bwin.es/es/sports/eventos/espanyol-barcelona-rayo-vallecano-2:6535152
+-----
+Valencia - Villarreal
+  1: 2.75
+  2: 3.40
+  3: 2.50
+link -> https://sports.bwin.es/es/sports/eventos/valencia-villarreal-2:6535155
+-----
+P. Litomisky CZE - J. Rolik CZE
+  1: 1.30
+  2: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/petr-litomisky-cze-jakub-rolik-cze-16246909
+-----
+Blomberg-Lippe - Borussia Dortmund
+  1: 1.90
+  2: 9.50
+  3: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/hsg-blomberg-lippe-borussia-dortmund-16235272
+-----
+Radnicki Kragujevac - HC Kolubara
+  1: 1.14
+  2: 14.50
+  3: 6.50
+link -> https://sports.bwin.es/es/sports/eventos/radnicki-kragujevac-hc-kolubara-16241009
+-----
+LDU Quito - Deportivo Cuenca
+  1: 1.34
+  2: 4.60
+  3: 6.50
+link -> https://sports.bwin.es/es/sports/eventos/ldu-quito-deportivo-cuenca-2:6537600
+-----
+Leganes - Mallorca
+  1: 2.45
+  2: 2.95
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/cd-leganés-mallorca-2:6535370
+-----
+Alaves - Las Palmas
+  1: 2.05
+  2: 3.25
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/alavés-las-palmas-2:6536143
+-----
+Osasuna - Celta de Vigo
+  1: 2.35
+  2: 3.25
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/osasuna-celta-de-vigo-2:6536166
+-----
+Sevilla - Girona
+  1: 2.30
+  2: 3.60
+  3: 2.85
+link -> https://sports.bwin.es/es/sports/eventos/sevilla-girona-2:6536145
+-----
+Getafe - Real Sociedad
+  1: 3.75
+  2: 2.95
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/getafe-real-sociedad-2:6536042
+-----
+Real Madrid - Real Betis
+  1: 1.30
+  2: 5.75
+  3: 9.25
+link -> https://sports.bwin.es/es/sports/eventos/real-madrid-real-betis-2:6536045
+-----
+Granada - Huesca
+  1: 1.80
+  2: 3.20
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/granada-sd-huesca-2:6538936
+-----
+Real Oviedo - Racing Santander
+  1: 2.10
+  2: 3.25
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/real-oviedo-racing-santander-2:6538943
+-----
+Cadiz - Tenerife
+  1: 1.80
+  2: 3.20
+  3: 4.40
+link -> https://sports.bwin.es/es/sports/eventos/cádiz-tenerife-2:6539875
+-----
+Malaga - Albacete Balompie
+  1: 2.10
+  2: 3.10
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/málaga-cf-albacete-balompié-2:6539878
+-----
+Almeria - Real Sporting
+  1: 1.77
+  2: 3.40
+  3: 4.20
+link -> https://sports.bwin.es/es/sports/eventos/almería-real-sporting-2:6540153
+-----
+Burgos - Castellon
+  1: 2.45
+  2: 3.10
+  3: 2.70
+link -> https://sports.bwin.es/es/sports/eventos/burgos-cf-cd-castellón-2:6541106
+-----
+Deportivo La Coruna - Racing Club de Ferrol
+  1: 1.88
+  2: 3.20
+  3: 4.00
+link -> https://sports.bwin.es/es/sports/eventos/deportivo-la-coruña-racing-club-de-ferrol-2:6541139
+-----
+Eldense - Cartagena
+  1: 1.90
+  2: 3.20
+  3: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/cd-eldense-fc-cartagena-2:6541005
+-----
+Mirandes - Real Zaragoza
+  1: 2.60
+  2: 2.90
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/cd-mirandés-real-zaragoza-2:6541141
+-----
+Eibar - Levante
+  1: 1.90
+  2: 3.40
+  3: 3.60
+link -> https://sports.bwin.es/es/sports/eventos/eibar-levante-2:6541330
+-----
+Elche - Cordoba
+  1: 2.10
+  2: 3.10
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/elche-córdoba-cf-2:6541331
+-----
+Qarabag - Dinamo Zagreb
+  1: 1.98
+  2: 3.80
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/qarabag-fk-dinamo-zagreb-2:6532402
+-----
+Crvena Zvezda - Bodo Glimt
+  1: 1.98
+  2: 3.75
+  3: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/estrella-roja-de-belgrado-fk-bodo-glimt-2:6532400
+-----
+Slovan Bratislava - Midtjylland
+  1: 2.95
+  2: 3.40
+  3: 2.37
+link -> https://sports.bwin.es/es/sports/eventos/sk-slovan-bratislava-midtjylland-2:6532403
+-----
+Slavia Praga - Lille
+  1: 2.37
+  2: 3.25
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/slavia-praga-lille-osc-2:6532404
+-----
+Elfsborg - Molde
+  1: 2.20
+  2: 3.60
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/if-elfsborg-molde-fk-2:6536370
+-----
+Petrocub Hincesti - Ludogorets 1945 Razgrad
+  1: 4.10
+  2: 3.70
+  3: 1.83
+link -> https://sports.bwin.es/es/sports/eventos/petrocub-hincesti-pfc-ludogorets-1945-razgrad-2:6536371
+-----
+Apoel Nicosia - Rigas Futbola Skola
+  1: 1.57
+  2: 4.10
+  3: 5.75
+link -> https://sports.bwin.es/es/sports/eventos/apoel-nicosia-fc-rigas-futbola-skola-2:6536385
+-----
+Ajax - Jagiellonia Bialystok
+  1: 1.20
+  2: 7.50
+  3: 12.00
+link -> https://sports.bwin.es/es/sports/eventos/ajax-jagiellonia-bialystok-2:6536365
+-----
+Besiktas - Lugano
+  1: 1.44
+  2: 4.80
+  3: 6.75
+link -> https://sports.bwin.es/es/sports/eventos/besiktas-fc-lugano-2:6536366
+-----
+Anderlecht - Dinamo Minsk
+  1: 1.30
+  2: 5.50
+  3: 10.00
+link -> https://sports.bwin.es/es/sports/eventos/rsc-anderlecht-fc-dinamo-minsk-2:6536372
+-----
+Fotbal Club FCSB - LASK
+  1: 2.15
+  2: 3.40
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/fotbal-club-fcsb-lask-2:6536374
+-----
+Heart of Midlothian - Viktoria Plzen
+  1: 3.50
+  2: 3.60
+  3: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/heart-of-midlothian-fc-fc-viktoria-plzen-2:6536369
+-----
+Borac Banja Luka - Ferencvarosi
+  1: 5.50
+  2: 3.80
+  3: 1.63
+link -> https://sports.bwin.es/es/sports/eventos/fk-borac-banja-luka-ferencvarosi-tc-2:6536367
+-----
+TSC Backa Topola - Maccabi Tel Aviv
+  1: 3.40
+  2: 3.60
+  3: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/fk-tsc-backa-topola-maccabi-tel-aviv-2:6536368
+-----
+Shamrock Rovers - PAOK Salonica
+  1: 5.25
+  2: 4.10
+  3: 1.61
+link -> https://sports.bwin.es/es/sports/eventos/shamrock-rovers-fc-paok-salónica-2:6536373
+-----
+Rapid Wien - Braga
+  1: 2.75
+  2: 3.50
+  3: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/sk-rapid-wien-sc-braga-2:6536386
+-----
+KAA Gent - Partizan Beograd
+  1: 1.50
+  2: 4.20
+  3: 5.25
+link -> https://sports.bwin.es/es/sports/eventos/kaa-gent-fk-partizan-beograd-2:6536397
+-----
+Basaksehir - St Patrick's Athletic
+  1: 1.17
+  2: 6.50
+  3: 14.00
+link -> https://sports.bwin.es/es/sports/eventos/basaksehir-fk-st-patrick-s-athletic-2:6536402
+-----
+Astana - Brann
+  1: 3.75
+  2: 3.60
+  3: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/fk-astana-sk-brann-2:6536398
+-----
+Helsinki - KI Klaksvik
+  1: 2.10
+  2: 3.30
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/hjk-helsinki-ki-klaksvik-2:6536399
+-----
+Zira - Omonia Nicosia
+  1: 2.87
+  2: 3.30
+  3: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/zira-fk-ac-omonia-nicosia-2:6536400
+-----
+MFk Ruzomberok - Noah
+  1: 2.45
+  2: 3.10
+  3: 2.70
+link -> https://sports.bwin.es/es/sports/eventos/mfk-ruzomberok-fc-noah-2:6536401
+-----
+Olimpija Ljubljana - HNK Rijeka
+  1: 2.60
+  2: 3.10
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/nk-olimpija-ljubljana-hnk-rijeka-2:6536403
+-----
+M. Sklensky CZE - M. Murawski POL
+  1: 3.60
+  2: 1.25
+link -> https://sports.bwin.es/es/sports/eventos/miroslav-sklensky-cze-michal-murawski-pol-16243568
+-----
+V. Buczynski POL - P. Adamus POL
+  1: 4.50
+  2: 1.17
+link -> https://sports.bwin.es/es/sports/eventos/vitold-buczynski-pol-pawel-adamus-pol-16243569
+-----
+Magdeburg - Fuchse Berlin
+  1: 1.90
+  2: 8.50
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/sc-magdeburg-fuchse-berlin-16206822
+-----
+Aalborg - GOG
+  1: 1.25
+  2: 9.00
+  3: 5.25
+link -> https://sports.bwin.es/es/sports/eventos/aalborg-handbold-gog-handbold-16206821
+-----
+Team Esbjerg - Nykobing F. Handboldklub
+  1: 1.10
+  2: 15.50
+  3: 7.75
+link -> https://sports.bwin.es/es/sports/eventos/team-esbjerg-nykobing-f-handboldklub-16244670
+-----
+HC Kriens-Luzern - Wacker Thun
+  1: 1.14
+  2: 14.00
+  3: 6.75
+link -> https://sports.bwin.es/es/sports/eventos/hc-kriens-luzern-wacker-thun-16202256
+-----
+RTV 1879 Basilea - Amicitia Zurich
+  1: 4.25
+  2: 11.50
+  3: 1.28
+link -> https://sports.bwin.es/es/sports/eventos/rtv-1879-basilea-gc-amicitia-zurich-16202257
+-----
+Grundfos Tatabanya - Zagreb
+  1: 3.70
+  2: 11.00
+  3: 1.36
+link -> https://sports.bwin.es/es/sports/eventos/grundfos-tatabanya-rk-zagreb-16241177
+-----
+Bgufk Ska - Gomel
+  1: 2.50
+  2: 8.25
+  3: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/bgufk-ska-gomel-16241140
+-----
+Union Berlin - St. Pauli
+  1: 1.98
+  2: 3.50
+  3: 3.70
+link -> https://sports.bwin.es/es/sports/eventos/unión-berlín-st-pauli-2:6529391
+-----
+Eintracht Frankfurt - Hoffenheim
+  1: 1.83
+  2: 4.00
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/eintracht-frankfurt-hoffenheim-2:6530244
+-----
+Bochum - Borussia M gladbach
+  1: 2.45
+  2: 3.60
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/bochum-borussia-m´gladbach-2:6530247
+-----
+Holstein Kiel - Wolfsburgo
+  1: 3.20
+  2: 3.60
+  3: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/holstein-kiel-wolfsburgo-2:6530250
+-----
+Stuttgart - 1. Mainz 05
+  1: 1.61
+  2: 4.20
+  3: 5.25
+link -> https://sports.bwin.es/es/sports/eventos/stuttgart-1-fsv-mainz-05-2:6530503
+-----
+Werder Bremen - Borussia Dortmund
+  1: 3.60
+  2: 4.00
+  3: 1.90
+link -> https://sports.bwin.es/es/sports/eventos/werder-bremen-borussia-dortmund-2:6530505
+-----
+Bayer Leverkusen - Leipzig
+  1: 1.80
+  2: 4.00
+  3: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/bayer-leverkusen-rb-leipzig-2:6530253
+-----
+1. Heidenheim 1846 - Augsburgo
+  1: 2.37
+  2: 3.50
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/1-fc-heidenheim-1846-augsburgo-2:6531365
+-----
+Bayern Munich - Friburgo
+  1: 1.20
+  2: 7.75
+  3: 11.50
+link -> https://sports.bwin.es/es/sports/eventos/bayern-múnich-friburgo-2:6531312
+-----
+Carl Zeiss Jena - Bayer Leverkusen
+  1: 36.00
+  2: 19.50
+  3: 1.045
+link -> https://sports.bwin.es/es/sports/eventos/carl-zeiss-jena-bayer-leverkusen-2:6496406
+-----
+Fortuna Dusseldorf - Hannover 96
+  1: 2.15
+  2: 3.60
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/dusseldorf-hannover-2:6538924
+-----
+SSV Jahn Regensburg - Greuther Furth
+  1: 2.90
+  2: 3.50
+  3: 2.30
+link -> https://sports.bwin.es/es/sports/eventos/ssv-jahn-regensburg-greuther-furth-2:6538928
+-----
+Hamburgo - Preussen 06 Munster
+  1: 1.43
+  2: 5.00
+  3: 6.50
+link -> https://sports.bwin.es/es/sports/eventos/hamburgo-sc-preussen-06-munster-2:6539839
+-----
+Elversberg - Darmstadt
+  1: 2.30
+  2: 3.75
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/elversberg-darmstadt-2:6540038
+-----
+Nuremberg - 1. Magdeburgo
+  1: 2.60
+  2: 3.75
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/nuremberg-1-fc-magdeburgo-2:6540041
+-----
+Kaiserslautern - Hertha Berlin
+  1: 2.30
+  2: 3.75
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/kaiserslautern-hertha-berlín-2:6539183
+-----
+Eintracht Braunschweig - Karlsruher
+  1: 3.40
+  2: 3.90
+  3: 1.95
+link -> https://sports.bwin.es/es/sports/eventos/eintracht-braunschweig-karlsruher-sc-2:6540499
+-----
+Paderborn - SSV Ulm 1846
+  1: 1.61
+  2: 4.10
+  3: 5.25
+link -> https://sports.bwin.es/es/sports/eventos/sc-paderborn-ssv-ulm-1846-2:6541125
+-----
+Schalke 04 - Colonia
+  1: 3.00
+  2: 3.90
+  3: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/fc-schalke-04-colonia-2:6541127
+-----
+Viktoria Colonia - Hansa Rostock
+  1: 2.70
+  2: 3.60
+  3: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/viktoria-colonia-fc-hansa-rostock-2:6525297
+-----
+Arminia Bielefeld - Sandhausen
+  1: 1.85
+  2: 3.75
+  3: 3.70
+link -> https://sports.bwin.es/es/sports/eventos/bielefeld-sv-sandhausen-2:6526126
+-----
+Alemannia Aachen - Erzgebirge Aue
+  1: 2.35
+  2: 3.50
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/alemannia-aachen-erzgebirge-aue-2:6526274
+-----
+Ingolstadt - 1860 Munich
+  1: 1.77
+  2: 3.80
+  3: 4.10
+link -> https://sports.bwin.es/es/sports/eventos/ingolstadt-1860-múnich-2:6526276
+-----
+Waldhof Mannheim - Saarbrucken
+  1: 2.55
+  2: 3.60
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/waldhof-mannheim-saarbrucken-2:6526285
+-----
+Dynamo Dresden - Stuttgart II
+  1: 1.41
+  2: 4.75
+  3: 6.75
+link -> https://sports.bwin.es/es/sports/eventos/dynamo-dresden-stuttgart-ii-2:6526287
+-----
+Borussia Dortmund II - Osnabruck
+  1: 2.50
+  2: 3.50
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/borussia-dortmund-ii-osnabruck-2:6526278
+-----
+Wehen Wiesbaden - Energie Cottbus
+  1: 1.63
+  2: 3.90
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/wehen-wiesbaden-energie-cottbus-2:6527021
+-----
+Unterhaching - RW Essen
+  1: 2.70
+  2: 3.60
+  3: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/spvgg-unterhaching-rot-weiss-essen-2:6527023
+-----
+Hannover 96 II - Verl
+  1: 2.40
+  2: 3.50
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/hannover-96-ii-verl-2:6527048
+-----
+Eintracht Rheine - Sportfreunde Lotte 1929
+  1: 7.50
+  2: 5.50
+  3: 1.26
+link -> https://sports.bwin.es/es/sports/eventos/fc-eintracht-rheine-vfl-sportfreunde-lotte-1929-2:6541415
+-----
+Kickers Offenbach U23 - TSG 1899 Hoffenheim II U23
+  1: 1.78
+  2: 3.60
+  3: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/kickers-offenbach-tsg-1899-hoffenheim-ii-sub-23-2:6537545
+-----
+Delfines Del Este - Club Atletico Pantoja
+  1: 1.73
+  2: 1.98
+link -> https://sports.bwin.es/es/sports/eventos/delfines-del-este-club-atletico-pantoja-2:6541425
+-----
+Cubs - Pirates
+  1: 2.40
+  2: 1.60
+link -> https://sports.bwin.es/es/sports/eventos/chicago-cubs-en-casa-de-pittsburgh-pirates-16114269
+-----
+Royals - Guardians
+  1: 2.20
+  2: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/kansas-city-royals-en-casa-de-cleveland-guardian-16114270
+-----
+Astros - Phillies
+  1: 1.91
+  2: 1.91
+link -> https://sports.bwin.es/es/sports/eventos/houston-astros-en-casa-de-philadelphia-phillies-16114271
+-----
+Angels - Tigers
+  1: 2.20
+  2: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/los-angeles-angels-en-casa-de-detroit-tigers-16114274
+-----
+Athletics - Reds
+  1: 1.91
+  2: 1.91
+link -> https://sports.bwin.es/es/sports/eventos/oakland-athletics-en-casa-de-cincinnati-reds-16245622
+-----
+Yankees - Nationals
+  1: 1.50
+  2: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/new-york-yankees-en-casa-de-washington-nationals-16114275
+-----
+Blue Jays - Red Sox
+  1: 2.35
+  2: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/toronto-blue-jays-en-casa-de-boston-red-sox-16114276
+-----
+Braves - Twins
+  1: 1.65
+  2: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/atlanta-braves-en-casa-de-minnesota-twins-16114277
+-----
+Padres - Cardinals
+  1: 1.75
+  2: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/san-diego-padres-en-casa-de-st-louis-cardinals-16114278
+-----
+Giants - Brewers
+  1: 2.45
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/san-francisco-giants-en-casa-de-milwaukee-brewer-16114280
+-----
+Marlins - Rockies
+  1: 2.10
+  2: 1.75
+link -> https://sports.bwin.es/es/sports/eventos/miami-marlins-en-casa-de-colorado-rockies-16114281
+-----
+Mets - Diamondbacks
+  1: 2.05
+  2: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/new-york-mets-en-casa-de-arizona-diamondbacks-16114282
+-----
+Orioles - Dodgers
+  1: 1.95
+  2: 1.87
+link -> https://sports.bwin.es/es/sports/eventos/baltimore-orioles-en-casa-de-los-angeles-dodgers-16114283
+-----
+Seibu Lions - Chiba Lotte Marines
+  1: 2.35
+  2: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/seibu-lions-en-casa-de-chiba-lotte-marines-16108843
+-----
+Hiroshima Toyo Carp - Chunichi Dragons
+  1: 1.80
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/hiroshima-toyo-carp-en-casa-de-chunichi-dragons-16108844
+-----
+Orix Buffaloes - Fukuoka Softbank Hawks
+  1: 2.45
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/orix-buffaloes-en-casa-de-fukuoka-softbank-hawks-16108845
+-----
+Tohoku Rakuten Golden Eagles - Nippon Ham Fighters
+  1: 2.25
+  2: 1.65
+link -> https://sports.bwin.es/es/sports/eventos/tohoku-rakuten-golden-eagles-en-casa-de-nippon-h-16108846
+-----
+Yomiuri Giants - Yakult Swallows
+  1: 1.62
+  2: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/yomiuri-giants-en-casa-de-yakult-swallows-16108847
+-----
+Hanshin Tigers - Yokohama BayStars
+  1: 2.05
+  2: 1.78
+link -> https://sports.bwin.es/es/sports/eventos/hanshin-tigers-en-casa-de-yokohama-baystars-16108848
+-----
+SSG Landers - KIA Tigers
+  1: 2.25
+  2: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/ssg-landers-en-casa-de-kia-tigers-16107646
+-----
+Samsung Lions - Kiwoom Heroes
+  1: 1.60
+  2: 2.30
+link -> https://sports.bwin.es/es/sports/eventos/samsung-lions-en-casa-de-kiwoom-heroes-16107647
+-----
+KT Wiz - LG Twins
+  1: 2.55
+  2: 1.50
+link -> https://sports.bwin.es/es/sports/eventos/kt-wiz-en-casa-de-lg-twins-16107648
+-----
+Hanwha Eagles - Lotte Giants
+  1: 2.45
+  2: 1.53
+link -> https://sports.bwin.es/es/sports/eventos/hanwha-eagles-en-casa-de-lotte-giants-16107649
+-----
+Doosan Bears - NC Dinos
+  1: 1.78
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/doosan-bears-en-casa-de-nc-dinos-16107650
+-----
+Zabbar Saint Patrick - Floriana
+  1: 4.50
+  2: 3.75
+  3: 1.58
+link -> https://sports.bwin.es/es/sports/eventos/zabbar-saint-patrick-fc-floriana-fc-2:6537665
+-----
+Hamrun Spartans - Melita
+  1: 1.39
+  2: 4.50
+  3: 5.75
+link -> https://sports.bwin.es/es/sports/eventos/hamrun-spartans-fc-melita-fc-2:6537694
+-----
+Knicks - Celtics
+  1: 2.55
+  2: 1.53
+link -> https://sports.bwin.es/es/sports/eventos/new-york-knicks-en-casa-de-boston-celtics-16181852
+-----
+Timberwolves - Lakers
+  1: 1.83
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/minnesota-timberwolves-en-casa-de-los-angeles-la-16181853
+-----
+Indiana Pacers - Detroit
+  1: 1.40
+  2: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/indiana-pacers-en-casa-de-detroit-pistons-16242962
+-----
+Milwaukee Bucks - 76ers
+  1: 2.45
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/milwaukee-bucks-en-casa-de-filadelfia-76ers-16181854
+-----
+Cavaliers - Toronto Raptors
+  1: 1.59
+  2: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/cleveland-cavaliers-en-casa-de-toronto-raptors-16242963
+-----
+Orlando - Heat
+  1: 1.91
+  2: 1.91
+link -> https://sports.bwin.es/es/sports/eventos/orlando-magic-en-casa-de-miami-heat-16242964
+-----
+Nets - Hawks
+  1: 3.40
+  2: 1.33
+link -> https://sports.bwin.es/es/sports/eventos/brooklyn-nets-en-casa-de-atlanta-hawks-16242966
+-----
+Bulls - New Orleans Pelicans
+  1: 3.20
+  2: 1.36
+link -> https://sports.bwin.es/es/sports/eventos/chicago-bulls-en-casa-de-new-orleans-pelicans-16242967
+-----
+Charlotte Hornets - Houston
+  1: 3.00
+  2: 1.40
+link -> https://sports.bwin.es/es/sports/eventos/charlotte-hornets-en-casa-de-houston-rockets-16242968
+-----
+Grizzlies - Utah
+  1: 1.67
+  2: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/memphis-grizzlies-en-casa-de-utah-jazz-16242969
+-----
+Suns - Clippers
+  1: 1.95
+  2: 1.87
+link -> https://sports.bwin.es/es/sports/eventos/phoenix-suns-en-casa-de-los-angeles-clippers-16181855
+-----
+Warriors - Portland
+  1: 1.67
+  2: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/golden-state-warriors-en-casa-de-portland-trail-16242970
+-----
+Celtics - Washington
+  1: 1.13
+  2: 6.50
+link -> https://sports.bwin.es/es/sports/eventos/boston-celtics-en-casa-de-washington-wizards-16243435
+-----
+San Antonio - Dallas Mavericks
+  1: 3.60
+  2: 1.31
+link -> https://sports.bwin.es/es/sports/eventos/san-antonio-spurs-en-casa-de-dallas-mavericks-16243437
+-----
+Thunder - Denver Nuggets
+  1: 2.10
+  2: 1.77
+link -> https://sports.bwin.es/es/sports/eventos/oklahoma-city-thunder-en-casa-de-denver-nuggets-16191017
+-----
+Timberwolves - Kings
+  1: 2.00
+  2: 1.83
+link -> https://sports.bwin.es/es/sports/eventos/minnesota-timberwolves-en-casa-de-sacramento-kin-16243439
+-----
+Hawks - Celtics
+  1: 6.00
+  2: 1.14
+link -> https://sports.bwin.es/es/sports/eventos/atlanta-hawks-en-casa-de-boston-celtics-16243440
+-----
+Charlotte Hornets - Orlando
+  1: 3.60
+  2: 1.31
+link -> https://sports.bwin.es/es/sports/eventos/charlotte-hornets-en-casa-de-orlando-magic-16243443
+-----
+Heat - Detroit
+  1: 1.60
+  2: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/miami-heat-en-casa-de-detroit-pistons-16243444
+-----
+Knicks - 76ers
+  1: 2.15
+  2: 1.74
+link -> https://sports.bwin.es/es/sports/eventos/new-york-knicks-en-casa-de-filadelfia-76ers-16191018
+-----
+Toronto Raptors - Milwaukee Bucks
+  1: 3.75
+  2: 1.29
+link -> https://sports.bwin.es/es/sports/eventos/toronto-raptors-en-casa-de-milwaukee-bucks-16243447
+-----
+Suns - Utah
+  1: 1.60
+  2: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/phoenix-suns-en-casa-de-utah-jazz-16243450
+-----
+Dallas Mavericks - Warriors
+  1: 2.10
+  2: 1.77
+link -> https://sports.bwin.es/es/sports/eventos/dallas-mavericks-en-casa-de-golden-state-warrior-16182465
+-----
+Timberwolves - Portland
+  1: 1.36
+  2: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/minnesota-timberwolves-en-casa-de-portland-trail-16243452
+-----
+San Antonio - Knicks
+  1: 4.50
+  2: 1.22
+link -> https://sports.bwin.es/es/sports/eventos/san-antonio-spurs-en-casa-de-new-york-knicks-16170423
+-----
+Timberwolves - Dallas Mavericks
+  1: 2.45
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/minnesota-timberwolves-en-casa-de-dallas-maveric-16170424
+-----
+76ers - Celtics
+  1: 2.65
+  2: 1.50
+link -> https://sports.bwin.es/es/sports/eventos/filadelfia-76ers-en-casa-de-boston-celtics-16170425
+-----
+Lakers - Warriors
+  1: 2.35
+  2: 1.61
+link -> https://sports.bwin.es/es/sports/eventos/los-angeles-lakers-en-casa-de-golden-state-warri-16170426
+-----
+Denver Nuggets - Suns
+  1: 2.05
+  2: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/denver-nuggets-en-casa-de-phoenix-suns-16170427
+-----
+Connecticut Sun - Indiana Fever
+  1: 1.60
+  2: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/connecticut-sun-en-casa-de-indiana-fever-16085719
+-----
+Washington Mystics - Chicago Sky
+  1: 1.70
+  2: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/washington-mystics-en-casa-de-chicago-sky-16085720
+-----
+New York Liberty - LA Sparks
+  1: 1.10
+  2: 7.50
+link -> https://sports.bwin.es/es/sports/eventos/new-york-liberty-en-casa-de-la-sparks-16085721
+-----
+Minnesota Lynx - Phoenix Mercury
+  1: 1.57
+  2: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/minnesota-lynx-en-casa-de-phoenix-mercury-16085722
+-----
+Atlanta Dream - Seattle Storm
+  1: 4.25
+  2: 1.23
+link -> https://sports.bwin.es/es/sports/eventos/atlanta-dream-en-casa-de-seattle-storm-16085723
+-----
+Roche Vendee - Landes
+  1: 2.90
+  2: 1.34
+link -> https://sports.bwin.es/es/sports/eventos/roche-vendee-basket-landes-16242290
+-----
+Lietuvos rytas - Juventus
+  1: 1.28
+  2: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/lietuvos-rytas-juventus-16245006
+-----
+Timisoara - CSU Atlassib Sibiu
+  1: 1.30
+  2: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/bc-timisoara-csu-atlassib-sibiu-16242059
+-----
+Mega - Bahcesehir Koleji
+  1: 3.25
+  2: 1.28
+link -> https://sports.bwin.es/es/sports/eventos/kk-mega-basket-bahcesehir-koleji-16242258
+-----
+Le Mans - ADA Blois 41
+  1: 1.14
+  2: 4.60
+link -> https://sports.bwin.es/es/sports/eventos/le-mans-ada-blois-basket-41-16245007
+-----
+Breidablik - Haukar
+  1: 11.50
+  2: 1.01
+link -> https://sports.bwin.es/es/sports/eventos/breidablik-haukar-16242259
+-----
+Manresa - Club Girona 2014
+  1: 1.75
+  2: 1.91
+link -> https://sports.bwin.es/es/sports/eventos/basquet-manresa-club-basquet-girona-2014-16242060
+-----
+Taiwan Beer - UP Fighting Maroons
+  1: 9.00
+  2: 1.02
+link -> https://sports.bwin.es/es/sports/eventos/taiwan-beer-up-fighting-maroons-16246328
+-----
+Universidad de Bangkok - Taiwan Bank
+  1: 13.50
+  2: 1.01
+link -> https://sports.bwin.es/es/sports/eventos/universidad-de-bangkok-taiwan-bank-16246329
+-----
+Chinese Taipei University - Changhua BLL
+  1: 1.20
+  2: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/chinese-taipei-university-changhua-bll-16246330
+-----
+Cagdas Bodrum - TED Ankara Koleji
+  1: 1.87
+  2: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/cagdas-bodrum-ted-ankara-koleji-16246600
+-----
+Santiagueno - Batanecas
+  1: 9.25
+  2: 1.02
+link -> https://sports.bwin.es/es/sports/eventos/santiagueno-batanecas-bc-16242516
+-----
+Astros Jalisco - Mineros de Zacatecas
+  1: 1.62
+  2: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/astros-jalisco-mineros-de-zacatecas-16242833
+-----
+Fuerza Regia de Monterrey - Plateros de Fresnillo
+  1: 1.25
+  2: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/fuerza-regia-de-monterrey-plateros-de-fresnillo-16246270
+-----
+San Marcos Lima - Regatas Lima
+  1: 9.00
+  2: 1.02
+link -> https://sports.bwin.es/es/sports/eventos/san-marcos-lima-regatas-lima-16242492
+-----
+Louveira U21 - E.C. Praia Grande Femenino U21
+  1: 1.02
+  2: 9.00
+link -> https://sports.bwin.es/es/sports/eventos/louveira-u21-e-c-praia-grande-women-u21-16241935
+-----
+Paineiras U21 - Sao Jose dos Campos U21
+  1: 2.05
+  2: 1.67
+link -> https://sports.bwin.es/es/sports/eventos/paineiras-u21-sao-josé-dos-campos-u21-16241936
+-----
+Volei Renata U21 - Sao Caetano U21
+  1: 1.12
+  2: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/volei-renata-u21-sao-caetano-u21-16241917
+-----
+HNK Gorica - HNK Sibenik
+  1: 2.35
+  2: 3.40
+  3: 2.85
+link -> https://sports.bwin.es/es/sports/eventos/hnk-gorica-hnk-sibenik-2:6538796
+-----
+Slaven - Istra 1961
+  1: 2.45
+  2: 3.30
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/nk-slaven-nk-istra-1961-2:6539560
+-----
+HNK Hajduk Split - Osijek
+  1: 1.73
+  2: 3.80
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/hajduk-nk-osijek-2:6539606
+-----
+Lokomotiva Zagreb - VSNK Varazdin
+  1: 2.15
+  2: 3.50
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/nk-lokomotiva-zagreb-vsnk-varazdin-2:6540535
+-----
+HNK Rijeka - Dinamo Zagreb
+  1: 3.10
+  2: 3.40
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/hnk-rijeka-gnk-dinamo-zagreb-2:6540638
+-----
+Dugopolje - Jarun
+  1: 2.30
+  2: 2.65
+  3: 2.90
+link -> https://sports.bwin.es/es/sports/eventos/nk-dugopolje-nk-jarun-2:6537878
+-----
+Hrvatski vitez Posedarje - Slavonija Pozega
+  1: 5.25
+  2: 3.70
+  3: 1.46
+link -> https://sports.bwin.es/es/sports/eventos/nk-hrvatski-vitez-posedarje-slavonija-pozega-2:6537885
+-----
+Kustosija - Polet
+  1: 1.57
+  2: 3.40
+  3: 4.50
+link -> https://sports.bwin.es/es/sports/eventos/nk-kustosija-zagreb-nk-polet-2:6538488
+-----
+Zrinski Jurjevac - Moslavina
+  1: 1.035
+  2: 11.00
+  3: 29.00
+link -> https://sports.bwin.es/es/sports/eventos/zrinski-jurjevac-moslavina-kutina-2:6539015
+-----
+Bednja - HNK Orijent 1919
+  1: 3.30
+  2: 3.75
+  3: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/nk-bednja-beletinec-hnk-orijent-1919-2:6539016
+-----
+Banjole - Mladost Petrinja
+  1: 1.72
+  2: 3.20
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/nk-banjole-mladost-petrinja-2:6539026
+-----
+Neretvanac Opuzen - Bedem Ivankovo
+  1: 1.30
+  2: 4.33
+  3: 7.25
+link -> https://sports.bwin.es/es/sports/eventos/nk-neretvanac-opuzen-bedem-ivankovo-2:6541422
+-----
+Sloga Nova Gradiska - Bjelovar
+  1: 6.75
+  2: 4.00
+  3: 1.34
+link -> https://sports.bwin.es/es/sports/eventos/nk-sloga-nova-gradiska-nk-bjelovar-2:6541423
+-----
+Bilogora 91 Grubisno Polje - Zagora
+  1: 3.00
+  2: 3.30
+  3: 1.90
+link -> https://sports.bwin.es/es/sports/eventos/nk-bilogora-91-grubisno-polje-nk-zagora-2:6541429
+-----
+KRC Genk - KVC Westerlo
+  1: 1.71
+  2: 4.20
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/krc-genk-kvc-westerlo-2:6525285
+-----
+KV Mechelen - Royal Charleroi
+  1: 2.65
+  2: 3.50
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/kv-mechelen-royal-charleroi-sc-2:6526082
+-----
+K Beerschot VA - FCV Dender EH
+  1: 2.90
+  2: 3.40
+  3: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/k-beerschot-va-fcv-dender-eh-2:6526254
+-----
+Oud-Heverlee Leuven - Standard Lieja
+  1: 1.90
+  2: 3.60
+  3: 4.00
+link -> https://sports.bwin.es/es/sports/eventos/oud-heverlee-leuven-standard-lieja-2:6526256
+-----
+Club Brujas - Cercle Brugge
+  1: 1.53
+  2: 4.60
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/club-brujas-cercle-brugge-2:6526917
+-----
+KAA Gent - Royal Antwerpen
+  1: 2.45
+  2: 3.60
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/kaa-gent-royal-antwerpen-fc-2:6527010
+-----
+Union Saint-Gilloise - Anderlecht
+  1: 2.00
+  2: 3.75
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/union-saint-gilloise-rsc-anderlecht-2:6527012
+-----
+KV Kortrijk - St. Truidense VV
+  1: 2.10
+  2: 3.60
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/kv-kortrijk-st-truidense-vv-2:6526999
+-----
+RWD Molenbeek 47 - KAS Eupen
+  1: 2.10
+  2: 3.30
+  3: 2.95
+link -> https://sports.bwin.es/es/sports/eventos/rwd-molenbeek-47-kas-eupen-2:6538996
+-----
+Zulte Waregem - KSC Lokeren Temse
+  1: 1.36
+  2: 4.60
+  3: 6.00
+link -> https://sports.bwin.es/es/sports/eventos/sv-zulte-waregem-ksc-lokeren-temse-2:6538998
+-----
+RSCA Futures - Raal La Louviere
+  1: 2.50
+  2: 3.30
+  3: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/rsc-anderlecht-futures-raal-la-louviere-2:6540256
+-----
+Patro Eisden Maasmechelen U23 - Club NXT U23
+  1: 1.62
+  2: 3.60
+  3: 4.40
+link -> https://sports.bwin.es/es/sports/eventos/patro-eisden-maasmechelen-club-nxt-u23-2:6539179
+-----
+de Liege - Waasland-Beveren
+  1: 2.30
+  2: 3.20
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/rfc-de-liege-waasland-beveren-2:6540209
+-----
+Jong Genk - Royal Francs Borains
+  1: 2.00
+  2: 3.30
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/jong-krc-genk-royal-francs-borains-2:6540598
+-----
+Lierse Kempenzonen - KMSK Deinze
+  1: 3.20
+  2: 3.30
+  3: 1.95
+link -> https://sports.bwin.es/es/sports/eventos/lierse-kempenzonen-kmsk-deinze-2:6540514
+-----
+FMP - Dynamic
+  1: 1.07
+  2: 6.50
+link -> https://sports.bwin.es/es/sports/eventos/kk-fmp-kk-dynamic-16242260
+-----
+Essex - Worcestershire
+  1: 1.40
+  2: 2.75
+link -> https://sports.bwin.es/es/sports/eventos/essex-worcestershire-15583354
+-----
+Lancashire - Hampshire
+  1: 2.25
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/lancashire-hampshire-15583355
+-----
+Nottinghamshire - Surrey
+  1: 3.50
+  2: 1.27
+link -> https://sports.bwin.es/es/sports/eventos/nottinghamshire-surrey-15583356
+-----
+Somerset - Durham
+  1: 1.57
+  2: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/somerset-durham-15583357
+-----
+Warwickshire - Kent
+  1: 1.50
+  2: 2.50
+link -> https://sports.bwin.es/es/sports/eventos/warwickshire-kent-15583358
+-----
+Glamorgan - Leicestershire
+  1: 2.00
+  2: 1.73
+link -> https://sports.bwin.es/es/sports/eventos/glamorgan-leicestershire-15583619
+-----
+Gloucestershire - Northants
+  1: 1.80
+  2: 1.91
+link -> https://sports.bwin.es/es/sports/eventos/gloucestershire-northants-15583620
+-----
+Sussex - Derbyshire
+  1: 1.44
+  2: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/sussex-derbyshire-15583621
+-----
+Yorkshire - Middlesex
+  1: 1.66
+  2: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/yorkshire-middlesex-15583622
+-----
+Hapoel Haifa - Maccabi Bnei Reina
+  1: 1.85
+  2: 3.30
+  3: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/hapoel-haifa-fc-maccabi-bnei-reina-2:6539175
+-----
+Hapoel Jerusalem - Hapoel Hadera
+  1: 2.15
+  2: 3.20
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/hapoel-jerusalem-fc-hapoel-hadera-fc-2:6539169
+-----
+Maccabi Netanya - Maccabi Haifa
+  1: 4.40
+  2: 3.75
+  3: 1.65
+link -> https://sports.bwin.es/es/sports/eventos/maccabi-netanya-fc-maccabi-haifa-fc-2:6539178
+-----
+Hapoel Nof Hagalil - Hapoel Ramat Gan Givatayim
+  1: 1.80
+  2: 3.40
+  3: 3.70
+link -> https://sports.bwin.es/es/sports/eventos/hapoel-nof-hagalil-fc-hapoel-ramat-gan-givatayim-2:6538197
+-----
+MS Kfar Kasem - Hapoel Rishon Lezion
+  1: 2.05
+  2: 3.00
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/ms-kfar-kasem-hapoel-rishon-lezion-fc-2:6538198
+-----
+Hapoel Kfar Shalem - Hapoel Ra`anana
+  1: 2.00
+  2: 3.20
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/hapoel-kfar-shalem-fc-hapoel-ra-anana-fc-2:6538199
+-----
+Hapoel Tel Aviv - Hapoel Petah Tikva
+  1: 2.05
+  2: 3.10
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/hapoel-tel-aviv-fc-hapoel-petah-tikva-fc-2:6538200
+-----
+Hapoel Acre - Bnei Yehuda Tel Aviv
+  1: 5.75
+  2: 4.20
+  3: 1.42
+link -> https://sports.bwin.es/es/sports/eventos/hapoel-acre-fc-bnei-yehuda-tel-aviv-fc-2:6538201
+-----
+Grenades - Cibao
+  1: 1.71
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/grenades-fc-cibao-fc-2:6541550
+-----
+Tauro - San Francisco
+  1: 1.87
+  2: 3.10
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/tauro-fc-san-francisco-fc-2:6537686
+-----
+Herediano - Motagua
+  1: 1.47
+  2: 3.50
+  3: 6.50
+link -> https://sports.bwin.es/es/sports/eventos/cs-herediano-fc-motagua-2:6537688
+-----
+Kazajistan - Hungria
+  1: 1.48
+  2: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/kazajistán-hungría-16156177
+-----
+Noruega - Japon
+  1: 1.15
+  2: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/noruega-japón-16156214
+-----
+Francia - Ucrania
+  1: 1.25
+  2: 3.70
+link -> https://sports.bwin.es/es/sports/eventos/francia-ucrania-16156183
+-----
+Eslovaquia - Austria
+  1: 1.19
+  2: 4.40
+link -> https://sports.bwin.es/es/sports/eventos/eslovaquia-austria-16156178
+-----
+Dinamarca - Reino Unido
+  1: 1.11
+  2: 6.00
+link -> https://sports.bwin.es/es/sports/eventos/dinamarca-reino-unido-16156215
+-----
+Letonia - Eslovenia
+  1: 1.60
+  2: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/letonia-eslovenia-16156184
+-----
+Capo - Irvine Zeta
+  1: 1.58
+  2: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/capo-fc-irvine-zeta-fc-2:6537679
+-----
+Seattle Sounders - Los Angeles
+  1: 2.40
+  2: 3.10
+  3: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/seattle-sounders-los-angeles-fc-2:6537169
+-----
+Colorado Springs Switchbacks - Memphis 901
+  1: 1.93
+  2: 3.50
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/colorado-springs-switchbacks-fc-memphis-901-fc-2:6537593
+-----
+Galway United - Derry City
+  1: 3.10
+  2: 3.10
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/galway-united-fc-derry-city-fc-2:6538807
+-----
+Dundalk - Shelbourne
+  1: 3.20
+  2: 3.00
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/dundalk-fc-shelbourne-fc-2:6538817
+-----
+Sligo Rovers - Waterford
+  1: 2.45
+  2: 3.20
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/sligo-rovers-fc-waterford-fc-2:6539188
+-----
+Bohemian - Shamrock Rovers
+  1: 3.20
+  2: 3.50
+  3: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/bohemian-fc-dublin-shamrock-rovers-fc-2:6540595
+-----
+St Patrick's Athletic - Drogheda United
+  1: 1.80
+  2: 3.60
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/st-patrick-s-athletic-drogheda-united-fc-2:6540547
+-----
+Lucan United - Usher Celtic
+  1: 1.33
+  2: 5.00
+  3: 6.25
+link -> https://sports.bwin.es/es/sports/eventos/lucan-united-usher-celtic-fc-2:6541398
+-----
+Wayside Celtic - Bluebell United
+  1: 2.00
+  2: 3.70
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/wayside-celtic-bluebell-united-2:6541399
+-----
+Hull KR - Salford
+  1: 1.14
+  2: 26.00
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/hull-kr-salford-red-devils-16240785
+-----
+Leigh Leopards - Warrington
+  1: 2.10
+  2: 19.00
+  3: 1.73
+link -> https://sports.bwin.es/es/sports/eventos/leigh-leopards-warrington-wolves-16240786
+-----
+Hull - Castleford Tigers
+  1: 1.83
+  2: 19.00
+  3: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/hull-fc-castleford-tigers-16240787
+-----
+Catalans Dragons - Wigan Warriors
+  1: 3.20
+  2: 19.00
+  3: 1.36
+link -> https://sports.bwin.es/es/sports/eventos/catalans-dragons-wigan-warriors-16240788
+-----
+Huddersfield Giants - St. Helens
+  1: 3.00
+  2: 19.00
+  3: 1.40
+link -> https://sports.bwin.es/es/sports/eventos/huddersfield-giants-st-helens-16240789
+-----
+London Broncos - Leeds Rhinos
+  1: 8.00
+  2: 34.00
+  3: 1.07
+link -> https://sports.bwin.es/es/sports/eventos/london-broncos-leeds-rhinos-16240790
+-----
+Grecia - Macedonia del Norte F
+  1: 1.06
+  2: 6.75
+link -> https://sports.bwin.es/es/sports/eventos/grecia-macedonia-del-norte-f-16238495
+-----
+Belgica F - Dinamarca
+  1: 1.25
+  2: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/bélgica-f-dinamarca-16238497
+-----
+Belgica - Austria
+  1: 1.28
+  2: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/bélgica-austria-16240853
+-----
+Espana - Suecia
+  1: 1.40
+  2: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/españa-suecia-16240855
+-----
+Rep. Checa - Noruega
+  1: 1.20
+  2: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/república-checa-noruega-16240854
+-----
+Bulgaria - Republica Checa
+  1: 1.28
+  2: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/bulgaria-sub-20-república-checa-sub-20-16241040
+-----
+Letonia - Finlandia
+  1: 2.15
+  2: 1.60
+link -> https://sports.bwin.es/es/sports/eventos/letonia-sub-20-finlandia-sub-20-16241041
+-----
+Turquia - Ucrania
+  1: 1.42
+  2: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/turquía-sub-20-ucrania-sub-20-16241043
+-----
+Eslovenia - Italia
+  1: 4.20
+  2: 1.17
+link -> https://sports.bwin.es/es/sports/eventos/eslovenia-sub-20-italia-sub-20-16241044
+-----
+Serbia - Francia
+  1: 2.65
+  2: 1.40
+link -> https://sports.bwin.es/es/sports/eventos/serbia-sub-20-francia-sub-20-16241045
+-----
+Espana - Grecia
+  1: 2.30
+  2: 1.53
+link -> https://sports.bwin.es/es/sports/eventos/españa-sub-20-grecia-sub-20-16241046
+-----
+Polonia - Austria
+  1: 1.20
+  2: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/polonia-sub-20-austria-sub-20-16241047
+-----
+Cruzeiro - Internacional RS
+  1: 2.35
+  2: 3.10
+  3: 3.30
+link -> https://sports.bwin.es/es/sports/eventos/cruzeiro-ec-mg-internacional-rs-2:6532826
+-----
+Criciuma - Red Bull Bragantino
+  1: 2.35
+  2: 3.20
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/criciuma-ec-sc-red-bull-bragantino-sp-2:6537706
+-----
+Cuiaba - Criciuma
+  1: 2.05
+  2: 3.40
+  3: 3.60
+link -> https://sports.bwin.es/es/sports/eventos/cuiaba-ec-mt-criciuma-ec-sc-2:6535141
+-----
+Botafogo FR - Fortaleza
+  1: 1.80
+  2: 3.50
+  3: 4.60
+link -> https://sports.bwin.es/es/sports/eventos/botafogo-fr-rj-fortaleza-ce-2:6534321
+-----
+Gremio - Mineiro
+  1: 2.20
+  2: 3.20
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/gremio-ca-mineiro-mg-2:6535138
+-----
+Cruzeiro - Atletico Goianiense
+  1: 1.62
+  2: 3.90
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/cruzeiro-ec-mg-atlético-goianiense-2:6535139
+-----
+Corinthians - CR Flamengo
+  1: 2.95
+  2: 3.25
+  3: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/corinthians-sp-cr-flamengo-rj-2:6523159
+-----
+Atletico Paranaense - Palmeiras
+  1: 3.25
+  2: 3.30
+  3: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/atletico-paranaense-palmeiras-sp-2:6534962
+-----
+Vitoria - Vasco da Gama
+  1: 2.35
+  2: 3.30
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/ec-vitoria-salvador-ba-cr-vasco-da-gama-rj-2:6535142
+-----
+Juventude - Internacional RS
+  1: 3.40
+  2: 3.40
+  3: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/ec-juventude-caxias-do-sul-rs-internacional-rs-2:6535144
+-----
+Fluminense - Sao Paulo
+  1: 2.25
+  2: 3.10
+  3: 3.30
+link -> https://sports.bwin.es/es/sports/eventos/fluminense-rj-sao-paulo-fc-sp-2:6535145
+-----
+Red Bull Bragantino - Bahia
+  1: 2.25
+  2: 3.40
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/red-bull-bragantino-sp-ec-bahia-ba-2:6535148
+-----
+Bahia - CR Flamengo
+  1: 2.45
+  2: 2.85
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/ec-bahia-ba-cr-flamengo-rj-2:6537072
+-----
+Sao Paulo - Mineiro
+  1: 2.15
+  2: 2.80
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/sao-paulo-fc-sp-ca-mineiro-mg-2:6537073
+-----
+Juventude - Corinthians
+  1: 2.55
+  2: 2.85
+  3: 2.70
+link -> https://sports.bwin.es/es/sports/eventos/ec-juventude-caxias-do-sul-rs-corinthians-sp-2:6537068
+-----
+Vasco da Gama - Atletico Paranaense
+  1: 2.10
+  2: 3.20
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/cr-vasco-da-gama-rj-atletico-paranaense-2:6537071
+-----
+Santos - Ponte Preta
+  1: 1.47
+  2: 4.00
+  3: 6.25
+link -> https://sports.bwin.es/es/sports/eventos/santos-ponte-preta-sp-2:6533992
+-----
+Gremio Novorizontino - Vila Nova
+  1: 1.95
+  2: 2.90
+  3: 4.10
+link -> https://sports.bwin.es/es/sports/eventos/gremio-novorizontino-sp-vila-nova-fc-go-2:6535204
+-----
+Chapecoense AF - Botafogo
+  1: 2.10
+  2: 2.95
+  3: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/chapecoense-af-sc-botafogo-fc-sp-2:6535205
+-----
+CRB AL - Avai
+  1: 2.15
+  2: 2.95
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/crb-al-avai-sc-2:6535207
+-----
+Amazonas AM - Ceara Fortaleza
+  1: 2.55
+  2: 2.95
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/amazonas-fc-am-ceara-sc-fortaleza-ce-2:6535946
+-----
+Goias - Paysandu PA
+  1: 1.80
+  2: 3.25
+  3: 4.20
+link -> https://sports.bwin.es/es/sports/eventos/goiás-go-paysandu-sc-pa-2:6536074
+-----
+Sport Recife - Ituano
+  1: 1.42
+  2: 4.20
+  3: 6.50
+link -> https://sports.bwin.es/es/sports/eventos/sport-club-do-recife-pe-ituano-fc-sp-2:6536692
+-----
+Operario PR - Brusque
+  1: 1.73
+  2: 3.20
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/operario-pr-brusque-fc-sc-2:6536691
+-----
+Mirassol - America
+  1: 2.20
+  2: 3.00
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/mirassol-fc-sp-america-fc-belo-horizonte-mg-2:6533989
+-----
+Guarani - Coritiba PR
+  1: 2.45
+  2: 2.90
+  3: 2.90
+link -> https://sports.bwin.es/es/sports/eventos/guarani-fc-sp-coritiba-fbc-pr-2:6533991
+-----
+Associacao Ferroviaria Femenino - Internacional RS F
+  1: 1.88
+  2: 3.25
+  3: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/associacao-ferroviaria-sp-women-sc-internacional-2:6538500
+-----
+Palmeiras F - Cruzeiro F
+  1: 1.50
+  2: 4.10
+  3: 4.80
+link -> https://sports.bwin.es/es/sports/eventos/se-palmeiras-sp-f-cruzeiro-ec-mg-f-2:6538638
+-----
+Aimore RS - Ypiranga
+  1: 3.40
+  2: 3.40
+  3: 1.87
+link -> https://sports.bwin.es/es/sports/eventos/ce-aimore-rs-ypiranga-fc-erechim-rs-2:6537808
+-----
+Madureira - Bonsucesso
+  1: 1.90
+  2: 3.10
+  3: 3.60
+link -> https://sports.bwin.es/es/sports/eventos/madureira-ec-rj-bonsucesso-fc-rj-2:6537644
+-----
+Resende - Cabofriense
+  1: 2.10
+  2: 2.95
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/resende-fc-rj-cabofriense-rj-2:6537647
+-----
+Nova Iguacu - Serrano
+  1: 1.68
+  2: 3.30
+  3: 4.50
+link -> https://sports.bwin.es/es/sports/eventos/nova-iguacu-rj-serrano-fc-rj-2:6537678
+-----
+Boavista - Olaria
+  1: 5.50
+  2: 3.90
+  3: 1.47
+link -> https://sports.bwin.es/es/sports/eventos/boavista-sc-saquarema-rj-olaria-ac-rj-2:6537684
+-----
+Bangu - Zinzane
+  1: 4.20
+  2: 3.40
+  3: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/bangu-rj-zinzane-rj-2:6537681
+-----
+Portuguesa - Marica
+  1: 1.66
+  2: 3.30
+  3: 4.60
+link -> https://sports.bwin.es/es/sports/eventos/portuguesa-rj-marica-fc-rj-2:6537682
+-----
+North Carolina - Minnesota
+  1: 1.87
+  2: 1.95
+link -> https://sports.bwin.es/es/sports/eventos/north-carolina-en-casa-de-minnesota-15860756
+-----
+North Dakota State - Colorado
+  1: 3.90
+  2: 1.27
+link -> https://sports.bwin.es/es/sports/eventos/north-dakota-state-en-casa-de-colorado-15860757
+-----
+Coastal Carolina - Jacksonville State
+  1: 2.10
+  2: 1.75
+link -> https://sports.bwin.es/es/sports/eventos/coastal-carolina-en-casa-de-jacksonville-state-16056504
+-----
+Florida Atlantic - Michigan State
+  1: 5.50
+  2: 1.16
+link -> https://sports.bwin.es/es/sports/eventos/florida-atlantic-en-casa-de-michigan-state-16056505
+-----
+Sion - Basel 1893
+  1: 2.65
+  2: 3.60
+  3: 2.37
+link -> https://sports.bwin.es/es/sports/eventos/fc-sion-fc-basel-1893-2:6539772
+-----
+Yverdon-Sport - Grasshoppers C. Zurich
+  1: 2.87
+  2: 3.50
+  3: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/fc-yverdon-sport-grasshoppers-c-zúrich-2:6539775
+-----
+Young Boys Bern - Lausanne-Sports
+  1: 1.78
+  2: 4.00
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/bsc-young-boys-bern-fc-lausanne-sports-2:6539185
+-----
+Winterthur - Servette
+  1: 3.50
+  2: 3.80
+  3: 1.88
+link -> https://sports.bwin.es/es/sports/eventos/fc-winterthur-servette-fc-2:6540502
+-----
+Zurich - Luzern
+  1: 1.93
+  2: 3.80
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/fc-zúrich-fc-luzern-2:6540518
+-----
+Lugano - St. Gallen
+  1: 2.20
+  2: 3.80
+  3: 2.75
+link -> https://sports.bwin.es/es/sports/eventos/fc-lugano-fc-st-gallen-2:6540521
+-----
+Echallens - Sion II
+  1: 1.95
+  2: 3.90
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/fc-echallens-fc-sion-ii-2:6541445
+-----
+Solothurn - Prishtina Bern
+  1: 2.10
+  2: 3.80
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/fc-solothurn-fc-prishtina-bern-2:6541446
+-----
+Rapperswil-Jona - SR Delemont
+  1: 1.43
+  2: 4.75
+  3: 4.80
+link -> https://sports.bwin.es/es/sports/eventos/fc-rapperswil-jona-sr-delemont-2:6537548
+-----
+Baden - Kriens
+  1: 1.85
+  2: 3.80
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/fc-baden-sc-kriens-2:6537547
+-----
+Phitsanulok - Winstreak
+  1: 1.22
+  2: 3.70
+link -> https://sports.bwin.es/es/sports/eventos/phitsanulok-winstreak-16241883
+-----
+Nakhon Ratchasima - Plookpanya Nakhon Ratchasima College
+  1: 1.04
+  2: 8.00
+link -> https://sports.bwin.es/es/sports/eventos/nakhon-ratchasima-plookpanya-nakhon-ratchasima-c-16241880
+-----
+Devils - Sabres
+  1: 1.62
+  2: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/new-jersey-devils-en-casa-de-buffalo-sabres-16129224
+-----
+Blues - Kraken
+  1: 2.10
+  2: 1.75
+link -> https://sports.bwin.es/es/sports/eventos/st-louis-blues-en-casa-de-seattle-kraken-16129225
+-----
+Bruins - Panthers
+  1: 2.30
+  2: 1.65
+link -> https://sports.bwin.es/es/sports/eventos/boston-bruins-en-casa-de-florida-panthers-16129226
+-----
+Blackhawks - Utah Hockey Club
+  1: 2.50
+  2: 1.55
+link -> https://sports.bwin.es/es/sports/eventos/chicago-blackhawks-en-casa-de-utah-hockey-club-16129227
+-----
+Sudafrica - N. Zelanda
+  1: 1.36
+  2: 23.00
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/sudáfrica-nueva-zelanda-16199192
+-----
+Argentina - Australia
+  1: 1.33
+  2: 26.00
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/argentina-australia-16199193
+-----
+Northland - Southland
+  1: 1.25
+  2: 26.00
+  3: 4.00
+link -> https://sports.bwin.es/es/sports/eventos/northland-southland-16240829
+-----
+North Harbour - Counties Manukau
+  1: 1.12
+  2: 34.00
+  3: 6.00
+link -> https://sports.bwin.es/es/sports/eventos/north-harbour-counties-manukau-16240830
+-----
+Taranaki - Otago
+  1: 1.28
+  2: 26.00
+  3: 3.75
+link -> https://sports.bwin.es/es/sports/eventos/taranaki-otago-16240831
+-----
+Waikato - Auckland
+  1: 2.60
+  2: 21.00
+  3: 1.50
+link -> https://sports.bwin.es/es/sports/eventos/waikato-auckland-16240832
+-----
+Tasman - Bay Of Plenty
+  1: 1.25
+  2: 26.00
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/tasman-bay-of-plenty-16240833
+-----
+Dundee - St. Mirren
+  1: 2.10
+  2: 3.40
+  3: 3.30
+link -> https://sports.bwin.es/es/sports/eventos/fc-dundee-fc-st-mirren-2:6529710
+-----
+St Johnstone - Motherwell
+  1: 2.80
+  2: 3.30
+  3: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/st-johnstone-fc-motherwell-fc-2:6529713
+-----
+Ross County - Aberdeen
+  1: 3.30
+  2: 3.60
+  3: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/ross-county-fc-aberdeen-fc-2:6529709
+-----
+Celtic - Rangers
+  1: 1.63
+  2: 4.33
+  3: 4.40
+link -> https://sports.bwin.es/es/sports/eventos/celtic-fc-rangers-fc-2:6529712
+-----
+Kilmarnock - Hibernian
+  1: 2.45
+  2: 3.30
+  3: 2.70
+link -> https://sports.bwin.es/es/sports/eventos/kilmarnock-fc-hibernian-fc-2:6529711
+-----
+Heart of Midlothian - Dundee United
+  1: 1.82
+  2: 3.80
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/heart-of-midlothian-fc-dundee-united-2:6529714
+-----
+Raith Rovers - Livingston
+  1: 2.40
+  2: 3.20
+  3: 2.50
+link -> https://sports.bwin.es/es/sports/eventos/raith-rovers-fc-livingston-fc-2:6539100
+-----
+Partick Thistle - Queens Park
+  1: 2.15
+  2: 3.25
+  3: 2.85
+link -> https://sports.bwin.es/es/sports/eventos/partick-thistle-fc-fc-queens-park-2:6539103
+-----
+Greenock Morton - Falkirk
+  1: 3.75
+  2: 3.30
+  3: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/greenock-morton-fc-falkirk-fc-2:6539105
+-----
+Hamilton Academical - Airdrieonians
+  1: 2.20
+  2: 3.30
+  3: 2.75
+link -> https://sports.bwin.es/es/sports/eventos/hamilton-academical-fc-airdrieonians-fc-2:6539106
+-----
+Dunfermline Athletic - Ayr United
+  1: 3.70
+  2: 3.25
+  3: 1.83
+link -> https://sports.bwin.es/es/sports/eventos/dunfermline-athletic-fc-ayr-united-fc-2:6539107
+-----
+Clachnacuddin - Wick Academy
+  1: 2.05
+  2: 3.70
+  3: 2.75
+link -> https://sports.bwin.es/es/sports/eventos/clachnacuddin-wick-academy-fc-2:6541443
+-----
+Lossiemouth - Formartine
+  1: 4.80
+  2: 4.60
+  3: 1.46
+link -> https://sports.bwin.es/es/sports/eventos/lossiemouth-formartine-utd-2:6541444
+-----
+Stenhousemuir - Annan Athletic
+  1: 2.20
+  2: 3.40
+  3: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/stenhousemuir-fc-annan-athletic-fc-2:6539101
+-----
+Cove Rangers - Montrose
+  1: 2.75
+  2: 3.50
+  3: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/cove-rangers-fc-montrose-fc-2:6539102
+-----
+Arbroath - Alloa Athletic
+  1: 2.30
+  2: 3.50
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/arbroath-fc-alloa-athletic-fc-2:6539104
+-----
+Dumbarton - Kelty Hearts
+  1: 2.40
+  2: 3.40
+  3: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/dumbarton-fc-kelty-hearts-fc-2:6539108
+-----
+Inverness Caledonian Thistle - Queen of The South
+  1: 2.10
+  2: 3.40
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/inverness-caledonian-thistle-fc-queen-of-the-sou-2:6539109
+-----
+East Fife - Clyde
+  1: 2.37
+  2: 3.25
+  3: 2.50
+link -> https://sports.bwin.es/es/sports/eventos/east-fife-fc-clyde-fc-2:6539120
+-----
+Stirling Albion - Spartans
+  1: 2.40
+  2: 3.25
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/stirling-albion-fc-spartans-fc-2:6539121
+-----
+Edinburgh City - Peterhead
+  1: 4.60
+  2: 3.90
+  3: 1.55
+link -> https://sports.bwin.es/es/sports/eventos/edinburgh-city-fc-peterhead-fc-2:6539122
+-----
+Forfar Athletic - Elgin City
+  1: 2.55
+  2: 3.20
+  3: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/forfar-athletic-fc-elgin-city-fc-2:6539123
+-----
+Bonnyrigg Rose - Stranraer
+  1: 2.15
+  2: 3.25
+  3: 2.87
+link -> https://sports.bwin.es/es/sports/eventos/bonnyrigg-rose-stranraer-fc-2:6539133
+-----
+Dundee United Femenino - Queens Park F
+  1: 2.70
+  2: 3.90
+  3: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/dundee-united-wfc-women-queens-park-lfc-f-2:6537574
+-----
+Brera Tchumene - Ferroviario Da Beira
+  1: 2.20
+  2: 2.60
+  3: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/brera-tchumene-fc-ferroviario-da-beira-2:6537499
+-----
+P. Bradac CZE - T. Kos CZE
+  1: 1.53
+  2: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/petr-bradac-cze-tomas-kos-cze-16242741
+-----
+P. Berdych CZE - P. Sprynar CZE
+  1: 1.95
+  2: 1.75
+link -> https://sports.bwin.es/es/sports/eventos/pavel-berdych-cze-pavel-sprynar-cze-16242742
+-----
+J. Hiblbauer CZE - T. Roh CZE
+  1: 2.00
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/jiri-hiblbauer-cze-tomas-roh-cze-16242743
+-----
+M. Jezek CZE - J. Mecl Jr. CZE
+  1: 2.00
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/michal-jezek-cze-jan-mecl-jr-cze-16242744
+-----
+P. Sprynar CZE - J. Grohsgott CZE
+  1: 1.48
+  2: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/pavel-sprynar-cze-jiri-grohsgott-cze-16242697
+-----
+T. Kos CZE - R. Rose CZE
+  1: 1.57
+  2: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/tomas-kos-cze-radek-rose-cze-16242698
+-----
+J. Mecl Jr. CZE - L. Jindrak CZE
+  1: 1.70
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/jan-mecl-jr-cze-lukas-jindrak-cze-16242699
+-----
+T. Roh CZE - Z. Nevrtal CZE
+  1: 1.85
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/tomas-roh-cze-zdenek-nevrtal-cze-16242700
+-----
+T. Postelt CZE - P. Bradac CZE
+  1: 1.80
+  2: 1.91
+link -> https://sports.bwin.es/es/sports/eventos/tomas-postelt-cze-petr-bradac-cze-16242701
+-----
+P. Serak CZE - P. Berdych CZE
+  1: 1.53
+  2: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/petr-serak-cze-pavel-berdych-cze-16242702
+-----
+L. Pelikan CZE - J. Hiblbauer CZE
+  1: 2.05
+  2: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/ludek-pelikan-cze-jiri-hiblbauer-cze-16242703
+-----
+M. Moravec CZE - M. Jezek CZE
+  1: 1.62
+  2: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/michal-moravec-cze-michal-jezek-cze-16242704
+-----
+K. Novak CZE - J. Zuzanek CZE
+  1: 2.15
+  2: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/kamil-novak-cze-jiri-zuzanek-cze-16242294
+-----
+J. Volhejn CZE - T. Nevrtal CZE
+  1: 1.91
+  2: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/jan-volhejn-cze-tomas-nevrtal-cze-16242295
+-----
+T. Zika CZE - J. Ruzicka CZE
+  1: 1.85
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/tadeas-zika-cze-jiri-ruzicka-cze-16242296
+-----
+J. Steffan CZE - V. Dolezal CZE
+  1: 1.72
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/jan-steffan-cze-vaclav-dolezal-cze-16242297
+-----
+V. Cermak CZE - P. Fojt CZE
+  1: 1.53
+  2: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/vladimir-cermak-cze-pavel-fojt-cze-16242298
+-----
+R. Vosyka CZE - L. Vosyka CZE
+  1: 1.83
+  2: 1.87
+link -> https://sports.bwin.es/es/sports/eventos/radek-vosyka-cze-ladislav-vosyka-cze-16242299
+-----
+T. Turek CZE - O. Svacha CZE
+  1: 1.85
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/tomas-turek-cze-ondrej-svacha-cze-16242300
+-----
+L. Krok CZE - T. Dousa CZE
+  1: 1.85
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/lukas-krok-cze-tomas-dousa-cze-16242301
+-----
+J. Zuzanek CZE - V. Cermak CZE
+  1: 1.70
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/jiri-zuzanek-cze-vladimir-cermak-cze-16242302
+-----
+V. Dolezal CZE - L. Krok CZE
+  1: 2.00
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/vaclav-dolezal-cze-lukas-krok-cze-16242303
+-----
+J. Ruzicka CZE - T. Turek CZE
+  1: 2.00
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/jiri-ruzicka-cze-tomas-turek-cze-16242304
+-----
+T. Nevrtal CZE - R. Vosyka CZE
+  1: 2.00
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/tomas-nevrtal-cze-radek-vosyka-cze-16242305
+-----
+P. Fojt CZE - K. Novak CZE
+  1: 2.15
+  2: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/pavel-fojt-cze-kamil-novak-cze-16242306
+-----
+L. Vosyka CZE - J. Volhejn CZE
+  1: 2.55
+  2: 1.45
+link -> https://sports.bwin.es/es/sports/eventos/ladislav-vosyka-cze-jan-volhejn-cze-16242307
+-----
+O. Svacha CZE - T. Zika CZE
+  1: 2.05
+  2: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/ondrej-svacha-cze-tadeas-zika-cze-16242308
+-----
+T. Dousa CZE - J. Steffan CZE
+  1: 2.10
+  2: 1.65
+link -> https://sports.bwin.es/es/sports/eventos/tomas-dousa-cze-jan-steffan-cze-16242309
+-----
+K. Novak CZE - V. Cermak CZE
+  1: 1.85
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/kamil-novak-cze-vladimir-cermak-cze-16242310
+-----
+J. Volhejn CZE - R. Vosyka CZE
+  1: 1.48
+  2: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/jan-volhejn-cze-radek-vosyka-cze-16242311
+-----
+T. Zika CZE - T. Turek CZE
+  1: 2.00
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/tadeas-zika-cze-tomas-turek-cze-16242312
+-----
+J. Steffan CZE - L. Krok CZE
+  1: 1.85
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/jan-steffan-cze-lukas-krok-cze-16242313
+-----
+J. Zuzanek CZE - P. Fojt CZE
+  1: 1.70
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/jiri-zuzanek-cze-pavel-fojt-cze-16242314
+-----
+T. Nevrtal CZE - L. Vosyka CZE
+  1: 1.72
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/tomas-nevrtal-cze-ladislav-vosyka-cze-16242315
+-----
+V. Dolezal CZE - T. Dousa CZE
+  1: 1.85
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/vaclav-dolezal-cze-tomas-dousa-cze-16242316
+-----
+J. Ruzicka CZE - O. Svacha CZE
+  1: 1.85
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/jiri-ruzicka-cze-ondrej-svacha-cze-16242317
+-----
+V. Petracek CZE - M. Sobisek CZE
+  1: 1.60
+  2: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/vratislav-petracek-cze-martin-sobisek-cze-16244246
+-----
+T. Barta CZE - L. Sulava CZE
+  1: 1.62
+  2: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/tomas-barta-cze-lubor-sulava-cze-16244247
+-----
+M. Syroha CZE - Ladislav Havel 1956/CZE
+  1: 2.05
+  2: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/michal-syroha-cze-ladislav-havel-1956-cze-16244248
+-----
+R. Hasmanda CZE - V. Hruska CZE
+  1: 1.45
+  2: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/rostislav-hasmanda-cze-vaclav-hruska-cze-16244249
+-----
+Z. Pagac CZE - M. Vavrecka CZE
+  1: 1.53
+  2: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/zbynek-pagac-cze-michal-vavrecka-cze-16244250
+-----
+F. Trojan CZE - Ondrej Baly CZE
+  1: 2.00
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/frantisek-trojan-cze-ondrej-baly-cze-16244251
+-----
+L. Sulava CZE - P. Picek CZE
+  1: 2.55
+  2: 1.45
+link -> https://sports.bwin.es/es/sports/eventos/lubor-sulava-cze-petr-picek-cze-16244252
+-----
+M. Sobisek CZE - J. Louda CZE
+  1: 2.35
+  2: 1.53
+link -> https://sports.bwin.es/es/sports/eventos/martin-sobisek-cze-jiri-louda-cze-16244253
+-----
+V. Petracek CZE - Z. Pagac CZE
+  1: 1.65
+  2: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/vratislav-petracek-cze-zbynek-pagac-cze-16244254
+-----
+T. Barta CZE - R. Hasmanda CZE
+  1: 2.05
+  2: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/tomas-barta-cze-rostislav-hasmanda-cze-16244255
+-----
+Ondrej Baly CZE - Ladislav Havel 1956/CZE
+  1: 1.87
+  2: 1.83
+link -> https://sports.bwin.es/es/sports/eventos/ondrej-baly-cze-ladislav-havel-1956-cze-16244256
+-----
+P. Picek CZE - V. Hruska CZE
+  1: 2.35
+  2: 1.53
+link -> https://sports.bwin.es/es/sports/eventos/petr-picek-cze-vaclav-hruska-cze-16244257
+-----
+J. Louda CZE - M. Vavrecka CZE
+  1: 1.45
+  2: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/jiri-louda-cze-michal-vavrecka-cze-16244258
+-----
+F. Trojan CZE - M. Syroha CZE
+  1: 1.72
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/frantisek-trojan-cze-michal-syroha-cze-16244259
+-----
+Ravens - Chiefs
+  1: 2.30
+  2: 1.64
+link -> https://sports.bwin.es/es/sports/eventos/baltimore-ravens-en-casa-de-kansas-city-chiefs-15817162
+-----
+Packers - Eagles
+  1: 2.30
+  2: 1.65
+link -> https://sports.bwin.es/es/sports/eventos/green-bay-packers-en-casa-de-philadelphia-eagles-15674274
+-----
+Jaguars - Dolphins
+  1: 2.35
+  2: 1.61
+link -> https://sports.bwin.es/es/sports/eventos/jacksonville-jaguars-en-casa-de-miami-dolphins-15830740
+-----
+Steelers - Falcons
+  1: 2.30
+  2: 1.65
+link -> https://sports.bwin.es/es/sports/eventos/pittsburgh-steelers-en-casa-de-atlanta-falcons-15830741
+-----
+Vikings - Giants
+  1: 1.83
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/minnesota-vikings-en-casa-de-new-york-giants-15830742
+-----
+Panthers - Saints
+  1: 2.65
+  2: 1.50
+link -> https://sports.bwin.es/es/sports/eventos/carolina-panthers-en-casa-de-new-orleans-saints-15830743
+-----
+Patriots - Bengals
+  1: 4.50
+  2: 1.22
+link -> https://sports.bwin.es/es/sports/eventos/new-england-patriots-en-casa-de-cincinnati-benga-15830744
+-----
+Titans - Bears
+  1: 2.70
+  2: 1.48
+link -> https://sports.bwin.es/es/sports/eventos/tennessee-titans-en-casa-de-chicago-bears-15830745
+-----
+Cardinals - Bills
+  1: 3.20
+  2: 1.36
+link -> https://sports.bwin.es/es/sports/eventos/arizona-cardinals-en-casa-de-buffalo-bills-15830746
+-----
+Texans - Colts
+  1: 1.71
+  2: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/houston-texans-en-casa-de-indianápolis-colts-15830747
+-----
+Raiders - Chargers
+  1: 2.50
+  2: 1.55
+link -> https://sports.bwin.es/es/sports/eventos/las-vegas-raiders-en-casa-de-los-angeles-charger-15830748
+-----
+Broncos - Seahawks
+  1: 3.00
+  2: 1.40
+link -> https://sports.bwin.es/es/sports/eventos/denver-broncos-en-casa-de-seattle-seahawks-15830749
+-----
+Commanders - Buccaneers
+  1: 2.50
+  2: 1.55
+link -> https://sports.bwin.es/es/sports/eventos/washington-commanders-en-casa-de-tampa-bay-bucca-15830750
+-----
+Cowboys - Browns
+  1: 1.91
+  2: 1.91
+link -> https://sports.bwin.es/es/sports/eventos/dallas-cowboys-en-casa-de-cleveland-browns-15819100
+-----
+M. Vachier-Lagrave FRA - Ding Liren CHN
+  1: 4.30
+  2: 1.35
+  3: 9.00
+link -> https://sports.bwin.es/es/sports/eventos/maxime-vachier-lagrave-fra-ding-liren-chn-16202562
+-----
+Obolon Kiev - Zorya Lugansk
+  1: 3.20
+  2: 3.30
+  3: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/fc-obolon-kiev-fc-zorya-lugansk-2:6538850
+-----
+Rukh Lviv - Ingulets Petrove
+  1: 1.60
+  2: 3.90
+  3: 5.25
+link -> https://sports.bwin.es/es/sports/eventos/fc-rukh-lviv-fc-ingulets-petrove-2:6538853
+-----
+T. Townsend USA - P. Badosa ESP
+  1: 2.50
+  2: 1.48
+link -> https://sports.bwin.es/es/sports/eventos/taylor-townsend-usa-paula-badosa-esp-16239973
+-----
+M. Uchijima JPN - J. Niemeier GER
+  1: 1.95
+  2: 1.75
+link -> https://sports.bwin.es/es/sports/eventos/moyuka-uchijima-jpn-jule-niemeier-ger-16239974
+-----
+A. Tomljanovic AUS - E. Mertens BEL
+  1: 2.65
+  2: 1.42
+link -> https://sports.bwin.es/es/sports/eventos/ajla-tomljanovic-aus-elise-mertens-bel-16240079
+-----
+B. Krejcikova CZE - E.-G. Ruse ROU
+  1: 1.36
+  2: 2.90
+link -> https://sports.bwin.es/es/sports/eventos/barbora-krejcikova-cze-elena-gabriela-ruse-rou-16240259
+-----
+M. Keys USA - M. Joint AUS
+  1: 1.25
+  2: 3.60
+link -> https://sports.bwin.es/es/sports/eventos/madison-keys-usa-maya-joint-aus-16239976
+-----
+Qinwen Zheng CHN - E. Andreeva RUS
+  1: 1.25
+  2: 3.60
+link -> https://sports.bwin.es/es/sports/eventos/qinwen-zheng-chn-erika-andreeva-rus-16239703
+-----
+H. Dart GBR - Mart. Kostyuk UKR
+  1: 3.20
+  2: 1.30
+link -> https://sports.bwin.es/es/sports/eventos/harriet-dart-gbr-marta-kostyuk-ukr-16240261
+-----
+E. Alexandrova RUS - I. Jovic USA
+  1: 1.44
+  2: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/ekaterina-alexandrova-rus-iva-jovic-usa-16240686
+-----
+D. Parry FRA - Yafan Wang CHN
+  1: 1.91
+  2: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/diane-parry-fra-yafan-wang-chn-16239700
+-----
+D. Vekic CRO - G. Minnen BEL
+  1: 1.40
+  2: 2.75
+link -> https://sports.bwin.es/es/sports/eventos/donna-vekic-cro-greet-minnen-bel-16239704
+-----
+L. Bronzetti ITA - A. Sabalenka BLR
+  1: 6.25
+  2: 1.09
+link -> https://sports.bwin.es/es/sports/eventos/lucia-bronzetti-ita-aryna-sabalenka-blr-16240690
+-----
+E. Navarro USA - A. Rus NED
+  1: 1.22
+  2: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/emma-navarro-usa-arantxa-rus-ned-16240260
+-----
+E. Svitolina UKR - A. Kalinina UKR
+  1: 1.36
+  2: 2.90
+link -> https://sports.bwin.es/es/sports/eventos/elina-svitolina-ukr-anhelina-kalinina-ukr-16239701
+-----
+T. Maria GER - C. Gauff USA
+  1: 6.75
+  2: 1.07
+link -> https://sports.bwin.es/es/sports/eventos/tatjana-maria-ger-coco-gauff-usa-16239702
+-----
+P. Stearns USA - D. Kasatkina RUS
+  1: 1.95
+  2: 1.75
+link -> https://sports.bwin.es/es/sports/eventos/peyton-stearns-usa-daria-kasatkina-rus-16239975
+-----
+V. Azarenka BLR - C. Burel FRA
+  1: 1.30
+  2: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/victoria-azarenka-blr-clara-burel-fra-16240262
+-----
+I. Swiatek POL - E. Shibahara JPN
+  1: 1.05
+  2: 7.75
+link -> https://sports.bwin.es/es/sports/eventos/iga-swiatek-pol-ena-shibahara-jpn-16245309
+-----
+E. Cocciaretto ITA - A. Pavlyuchenkova RUS
+  1: 2.25
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/elisabetta-cocciaretto-ita-anastasia-pavlyuchenk-16245310
+-----
+M. Andreeva RUS - A. Krueger USA
+  1: 1.33
+  2: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/mirra-andreeva-rus-ashlyn-krueger-usa-16245311
+-----
+C. Dolehide USA - S. Errani ITA
+  1: 1.34
+  2: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/caroline-dolehide-usa-sara-errani-ita-16245312
+-----
+C. Wozniacki DEN - R. Zarazua MEX
+  1: 1.26
+  2: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/caroline-wozniacki-den-renata-zarazua-mex-16245313
+-----
+N. Osaka JPN - K. Muchova CZE
+  1: 1.70
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/naomi-osaka-jpn-karolina-muchova-cze-16245314
+-----
+K. Boulter GBR - J. Bouzas Maneiro ESP
+  1: 1.55
+  2: 2.30
+link -> https://sports.bwin.es/es/sports/eventos/katie-boulter-gbr-jessica-bouzas-maneiro-esp-16245315
+-----
+C. Tauson DEN - D. Shnaider RUS
+  1: 2.90
+  2: 1.36
+link -> https://sports.bwin.es/es/sports/eventos/clara-tauson-den-diana-shnaider-rus-16245791
+-----
+E. Rybakina KAZ - J. Ponchet FRA
+  1: 1.09
+  2: 6.25
+link -> https://sports.bwin.es/es/sports/eventos/elena-rybakina-kaz-jessika-ponchet-fra-16245792
+-----
+A. Bondar HUN - A. Kalinskaya RUS
+  1: 3.60
+  2: 1.25
+link -> https://sports.bwin.es/es/sports/eventos/anna-bondar-hun-anna-kalinskaya-rus-16245793
+-----
+V. Lepchenko USA - A. Potapova RUS
+  1: 3.50
+  2: 1.26
+link -> https://sports.bwin.es/es/sports/eventos/varvara-lepchenko-usa-anastasia-potapova-rus-16245794
+-----
+M. Bouzkova CZE - L. Samsonova RUS
+  1: 2.25
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/marie-bouzkova-cze-liudmila-samsonova-rus-16245843
+-----
+B. Haddad Maia BRA - S. Sorribes Tormo ESP
+  1: 1.35
+  2: 2.95
+link -> https://sports.bwin.es/es/sports/eventos/beatriz-haddad-maia-bra-sara-sorribes-tormo-esp-16245844
+-----
+S. Kenin USA - J. Pegula USA
+  1: 4.00
+  2: 1.20
+link -> https://sports.bwin.es/es/sports/eventos/sofia-kenin-usa-jessica-pegula-usa-16246040
+-----
+Y. Putintseva KAZ - Xinyu Wang CHN
+  1: 1.60
+  2: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/yulia-putintseva-kaz-xinyu-wang-chn-16245845
+-----
+Ka. Pliskova CZE - J. Paolini ITA
+  1: 2.60
+  2: 1.44
+link -> https://sports.bwin.es/es/sports/eventos/karolina-pliskova-cze-jasmine-paolini-ita-16245978
+-----
+J. Cristian/A. Moratelli - U. Eikeri/I. Neel
+  1: 3.30
+  2: 1.28
+link -> https://sports.bwin.es/es/sports/eventos/j-cristian-a-moratelli-u-eikeri-i-neel-16233276
+-----
+Cape Town City - Orlando Pirates
+  1: 3.25
+  2: 2.80
+  3: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/cape-town-city-fc-orlando-pirates-fc-2:6537121
+-----
+Mamelodi Sundowns - Stellenbosch
+  1: 1.46
+  2: 3.60
+  3: 6.25
+link -> https://sports.bwin.es/es/sports/eventos/mamelodi-sundowns-stellenbosch-fc-2:6537550
+-----
+A. Joshua ENG - D. Dubois ENG
+  1: 1.22
+  2: 23.00
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/anthony-joshua-eng-daniel-dubois-eng-15998638
+-----
+F. Wardley ENG - F. Clarke GBR
+  1: 1.72
+  2: 17.00
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/fabio-wardley-eng-frazer-clarke-gbr-16214739
+-----
+J. Buatsi ENG - W. Hutchinson SCO
+  1: 1.36
+  2: 17.00
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/joshua-buatsi-eng-willy-hutchinson-sco-16058867
+-----
+D. Bivol KGZ - A. Beterbiev CAN
+  1: 1.85
+  2: 17.00
+  3: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/dmitry-bivol-kgz-artur-beterbiev-can-16214721
+-----
+Lara CUB - D. Garcia USA
+  1: 1.44
+  2: 17.00
+  3: 2.90
+link -> https://sports.bwin.es/es/sports/eventos/erislandy-lara-cub-danny-garcia-usa-16214654
+-----
+H. Sheeraz ENG - T. Denny ENG
+  1: 1.14
+  2: 21.00
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/hamzah-sheeraz-eng-tyler-denny-eng-16058793
+-----
+L. Smith ENG - J. Kelly ENG
+  1: 1.80
+  2: 17.00
+  3: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/liam-smith-eng-josh-kelly-eng-16058791
+-----
+S. Ryan ENG - M. Mayer USA
+  1: 1.72
+  2: 15.00
+  3: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/sandy-ryan-eng-mikaela-mayer-usa-16214704
+-----
+M. Chamberlain GBR - J. Padley ENG
+  1: 1.05
+  2: 21.00
+  3: 10.00
+link -> https://sports.bwin.es/es/sports/eventos/mark-chamberlain-gbr-josh-padley-eng-16105641
+-----
+S. Stevenson USA - J. Cordina WAL
+  1: 1.10
+  2: 21.00
+  3: 7.50
+link -> https://sports.bwin.es/es/sports/eventos/shakur-stevenson-usa-joe-cordina-wal-16214761
+-----
+E. Hernandez Perez MEX - T. Mattice USA
+  1: 1.44
+  2: 17.00
+  3: 2.90
+link -> https://sports.bwin.es/es/sports/eventos/eduardo-hernandez-perez-mex-thomas-mattice-usa-16214630
+-----
+A. Cacace NIR - J. Warrington ENG
+  1: 1.36
+  2: 17.00
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/anthony-cacace-nir-josh-warrington-eng-16058826
+-----
+S. Fulton USA - C. Castro USA
+  1: 1.20
+  2: 17.00
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/stephen-fulton-usa-carlos-castro-usa-16214672
+-----
+Y. Takei JPN - Higa JPN
+  1: 1.36
+  2: 17.00
+  3: 3.30
+link -> https://sports.bwin.es/es/sports/eventos/yoshiki-takei-jpn-daigo-higa-jpn-16214614
+-----
+N. Inoue JPN - TJ Doheny IRL
+  1: 1.02
+  2: 26.00
+  3: 17.00
+link -> https://sports.bwin.es/es/sports/eventos/naoya-inoue-jpn-tj-doheny-irl-16101050
+-----
+D. Pacheco USA - Sulecki POL
+  1: 1.10
+  2: 21.00
+  3: 7.50
+link -> https://sports.bwin.es/es/sports/eventos/diego-pacheco-usa-maciej-sulecki-pol-16214613
+-----
+C. Plant USA - T. McCumby USA
+  1: 1.08
+  2: 21.00
+  3: 8.00
+link -> https://sports.bwin.es/es/sports/eventos/caleb-plant-usa-trevor-mccumby-usa-16214663
+-----
+C. Alvarez MEX - E. Berlanga USA
+  1: 1.06
+  2: 26.00
+  3: 9.00
+link -> https://sports.bwin.es/es/sports/eventos/canelo-alvarez-mex-edgar-berlanga-usa-16156979
+-----
+J. Munguia MEX - E. Bazinyan ARM
+  1: 1.17
+  2: 19.00
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/jaime-munguia-mex-erik-bazinyan-arm-16214687
+-----
+A. Hiraoka JPN - Barroso VEN
+  1: 1.16
+  2: 20.00
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/andy-hiraoka-jpn-ismael-barroso-ven-16214622
+-----
+R. Romero USA - M. Jaimes USA
+  1: 1.44
+  2: 17.00
+  3: 2.90
+link -> https://sports.bwin.es/es/sports/eventos/rolando-romero-usa-manuel-jaimes-usa-16214674
+-----
+C. Wallace AUS - J. Pampellone NZL
+  1: 2.00
+  2: 15.00
+  3: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/conor-wallace-aus-jerome-pampellone-nzl-16240013
+-----
+M. Zerafa AUS - Browne AUS
+  1: 1.05
+  2: 26.00
+  3: 10.00
+link -> https://sports.bwin.es/es/sports/eventos/michael-zerafa-aus-tommy-browne-aus-16240033
+-----
+N. Tszyu AUS - K. Mazoudier AUS
+  1: 1.11
+  2: 21.00
+  3: 7.00
+link -> https://sports.bwin.es/es/sports/eventos/nikita-tszyu-aus-koen-mazoudier-aus-16240018
+-----
+N. Queensland - Melbourne
+  1: 1.22
+  2: 21.00
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/north-queensland-cowboys-melbourne-storm-16240761
+-----
+Canterbury Bulldogs - Manly
+  1: 1.57
+  2: 21.00
+  3: 2.50
+link -> https://sports.bwin.es/es/sports/eventos/canterbury-bulldogs-manly-sea-eagles-16240762
+-----
+Penrith - Rabbitohs
+  1: 1.14
+  2: 26.00
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/penrith-panthers-south-sydney-rabbitohs-16240763
+-----
+Parramatta - Dragons
+  1: 2.25
+  2: 21.00
+  3: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/parramatta-eels-st-george-illawarra-dragons-16240764
+-----
+Dolphins - Brisbane Broncos
+  1: 2.80
+  2: 21.00
+  3: 1.44
+link -> https://sports.bwin.es/es/sports/eventos/dolphins-brisbane-broncos-16240765
+-----
+Cronulla Sharks - New Zealand Warriors
+  1: 1.20
+  2: 26.00
+  3: 4.50
+link -> https://sports.bwin.es/es/sports/eventos/cronulla-sharks-new-zealand-warriors-16240766
+-----
+Newcastle - Gold Coast Titans
+  1: 1.36
+  2: 21.00
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/newcastle-knights-gold-coast-titans-16240767
+-----
+Sydney Roosters - Canberra Raiders
+  1: 1.17
+  2: 26.00
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/sydney-roosters-canberra-raiders-16240768
+-----
+Espana F - Georgia
+  1: 1.12
+  2: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/españa-f-georgia-16238494
+-----
+A. Candiotto/M. Gomez Pezuela Cano - D. Tran/L. Tran
+  1: 1.67
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/a-candiotto-m-gomez-pezuela-cano-d-tran-l-tran-16245923
+-----
+F. Curmi MLT - Y. Bartashevich FRA
+  1: 1.87
+  2: 1.83
+link -> https://sports.bwin.es/es/sports/eventos/francesca-curmi-mlt-yaroslava-bartashevich-fra-16245172
+-----
+A. Abbagnato ITA - I. Primorac CRO
+  1: 2.65
+  2: 1.42
+link -> https://sports.bwin.es/es/sports/eventos/anastasia-abbagnato-ita-iva-primorac-cro-16245170
+-----
+G. BRA - D. Chiesa ITA
+  1: 2.05
+  2: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/gabriela-ce-bra-deborah-chiesa-ita-16245171
+-----
+P. Paukstyte LTU - K. Vlckova CZE
+  1: 1.75
+  2: 1.95
+link -> https://sports.bwin.es/es/sports/eventos/patricija-paukstyte-ltu-karolina-vlckova-cze-16242848
+-----
+M. Marusinova SVK - O. Szymczuch POL
+  1: 1.70
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/martina-marusinova-svk-oliwia-szymczuch-pol-16242847
+-----
+V. Lackova SVK - D. Gorska POL
+  1: 3.50
+  2: 1.26
+link -> https://sports.bwin.es/es/sports/eventos/viktoria-lackova-svk-daria-gorska-pol-16242846
+-----
+L. Karatancheva BUL - E. Kazionova RUS
+  1: 1.36
+  2: 2.85
+link -> https://sports.bwin.es/es/sports/eventos/lia-karatancheva-bul-ekaterina-kazionova-rus-16244505
+-----
+J. Bojovic SRB - K. Laskutova RUS
+  1: 2.05
+  2: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/jana-bojovic-srb-ksenia-laskutova-rus-16244504
+-----
+Academia Puerto Cabello - Deportivo Tachira
+  1: 2.50
+  2: 2.87
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/academia-puerto-cabello-deportivo-tachira-2:6533937
+-----
+Las Rozas - Fuenlabrada
+  1: 6.75
+  2: 4.10
+  3: 1.39
+link -> https://sports.bwin.es/es/sports/eventos/las-rozas-cf-cf-fuenlabrada-2:6541808
+-----
+Mes Rafsanjan - Aluminium Arak
+  1: 2.75
+  2: 2.87
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/mes-rafsanjan-fc-aluminium-arak-2:6538205
+-----
+Havadar - Tractor Sport Club
+  1: 4.50
+  2: 3.10
+  3: 1.82
+link -> https://sports.bwin.es/es/sports/eventos/havadar-sc-tractor-sport-club-2:6538207
+-----
+Kheybar Khorramabad - Zob Ahan Isfahan
+  1: 4.00
+  2: 3.00
+  3: 1.95
+link -> https://sports.bwin.es/es/sports/eventos/kheybar-khorramabad-fc-zob-ahan-isfahan-fc-2:6538206
+-----
+Esteghlal Khuzestan - Esteghlal Tehran
+  1: 4.50
+  2: 3.10
+  3: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/esteghlal-khuzestan-fc-esteghlal-fc-tehran-2:6538208
+-----
+Moreirense - Benfica
+  1: 6.50
+  2: 4.40
+  3: 1.46
+link -> https://sports.bwin.es/es/sports/eventos/moreirense-fc-benfica-2:6533943
+-----
+Santa Clara - AVS Futebol
+  1: 1.88
+  2: 3.40
+  3: 4.00
+link -> https://sports.bwin.es/es/sports/eventos/cd-santa-clara-avs-futebol-2:6534861
+-----
+Estrela Amadora - Casa Pia
+  1: 2.20
+  2: 3.20
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/cf-estrela-da-amadora-casa-pia-ac-2:6534764
+-----
+Boavista - GD Estoril Praia
+  1: 2.35
+  2: 3.20
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/boavista-fc-gd-estoril-praia-2:6534895
+-----
+Sporting Lisboa - Oporto
+  1: 1.90
+  2: 3.60
+  3: 3.70
+link -> https://sports.bwin.es/es/sports/eventos/sporting-lisboa-oporto-2:6534864
+-----
+Nacional - Farense
+  1: 2.20
+  2: 3.40
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/cd-nacional-sc-farense-2:6535805
+-----
+Ave - Arouca
+  1: 2.30
+  2: 3.25
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/rio-ave-fc-fc-arouca-2:6535876
+-----
+Vitoria Guimaraes - Famalicao
+  1: 1.93
+  2: 3.30
+  3: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/vitoria-guimaraes-fc-famalicao-2:6535808
+-----
+Gil Vicente - Braga
+  1: 4.20
+  2: 3.70
+  3: 1.77
+link -> https://sports.bwin.es/es/sports/eventos/gil-vicente-fc-sc-braga-2:6535902
+-----
+Alverca - Academico de Viseu
+  1: 2.85
+  2: 3.10
+  3: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/fc-alverca-academico-de-viseu-fc-2:6538874
+-----
+Oliveirense - Leixoes
+  1: 2.60
+  2: 3.20
+  3: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/ud-oliveirense-leixoes-sc-2:6539149
+-----
+Tondela - Felgueiras 1932
+  1: 2.20
+  2: 3.10
+  3: 2.87
+link -> https://sports.bwin.es/es/sports/eventos/cd-tondela-fc-felgueiras-1932-2:6539625
+-----
+Vizela - SCU Torreense
+  1: 1.75
+  2: 3.50
+  3: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/fc-vizela-scu-torreense-2:6539825
+-----
+Portimonense - Maritimo
+  1: 2.70
+  2: 3.10
+  3: 2.30
+link -> https://sports.bwin.es/es/sports/eventos/portimonense-sc-cs-maritimo-funchal-2:6540932
+-----
+Feirense - Benfica B
+  1: 2.35
+  2: 3.25
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/cd-feirense-sl-benfica-b-2:6540546
+-----
+Pacos Ferreira - Penafiel
+  1: 1.95
+  2: 3.25
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/fc-pacos-ferreira-fc-penafiel-2:6540517
+-----
+Porto B - Leiria
+  1: 2.25
+  2: 3.30
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/fc-porto-b-ud-leiria-2:6540541
+-----
+Ave U23 - Leixoes U23
+  1: 1.30
+  2: 3.90
+  3: 8.75
+link -> https://sports.bwin.es/es/sports/eventos/rio-ave-fc-u23-leixoes-sc-u23-2:6537579
+-----
+Braga U23 - Famalicao U23
+  1: 2.35
+  2: 3.30
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/sc-braga-sub-23-fc-famalicao-u23-2:6537581
+-----
+JKT - Azam
+  1: 12.50
+  2: 1.10
+  3: 7.75
+link -> https://sports.bwin.es/es/sports/eventos/jkt-azam-fc-2:6537576
+-----
+Redblacks - Lions
+  1: 2.00
+  2: 1.83
+link -> https://sports.bwin.es/es/sports/eventos/ottawa-redblacks-en-casa-de-bc-lions-16086002
+-----
+Blue Bombers - Roughriders
+  1: 2.25
+  2: 1.67
+link -> https://sports.bwin.es/es/sports/eventos/winnipeg-blue-bombers-en-casa-de-saskatchewan-ro-16086003
+-----
+Argonauts - Tiger-Cats
+  1: 1.40
+  2: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/toronto-argonauts-en-casa-de-hamilton-tiger-cats-16086004
+-----
+Elks - Stampeders
+  1: 2.45
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/edmonton-elks-en-casa-de-calgary-stampeders-16086005
+-----
+O. Lyon - Strasbourg Alsace
+  1: 1.72
+  2: 3.80
+  3: 4.75
+link -> https://sports.bwin.es/es/sports/eventos/o-lyon-rc-strasbourg-alsace-2:6533976
+-----
+Stade Brestois 29 - Saint Etienne
+  1: 1.78
+  2: 3.70
+  3: 4.40
+link -> https://sports.bwin.es/es/sports/eventos/stade-brestois-29-saint-etienne-2:6535612
+-----
+Montpellier - Nantes
+  1: 2.20
+  2: 3.50
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/montpellier-fc-nantes-2:6535615
+-----
+Toulouse - O. Marsella
+  1: 3.70
+  2: 3.60
+  3: 1.95
+link -> https://sports.bwin.es/es/sports/eventos/toulouse-fc-o-marsella-2:6535616
+-----
+Monaco - Lens
+  1: 1.83
+  2: 3.90
+  3: 3.90
+link -> https://sports.bwin.es/es/sports/eventos/as-mónaco-lens-2:6535614
+-----
+Stade Reims - Stade Rennais
+  1: 2.85
+  2: 3.50
+  3: 2.37
+link -> https://sports.bwin.es/es/sports/eventos/stade-reims-stade-rennais-2:6535594
+-----
+Le Havre - AJ Auxerre
+  1: 2.65
+  2: 3.30
+  3: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/le-havre-ac-aj-auxerre-2:6535916
+-----
+Angers - OGC Niza
+  1: 3.80
+  2: 3.40
+  3: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/angers-ogc-niza-2:6536041
+-----
+Lille - PSG
+  1: 3.70
+  2: 3.60
+  3: 1.98
+link -> https://sports.bwin.es/es/sports/eventos/lille-osc-psg-2:6535613
+-----
+Stade Rennais - Montpellier
+  1: 1.63
+  2: 4.10
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/stade-rennais-montpellier-hsc-2:6542102
+-----
+Nantes - Stade Reims
+  1: 2.60
+  2: 3.40
+  3: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/fc-nantes-stade-reims-2:6542107
+-----
+EA Guingamp - Red Star
+  1: 1.82
+  2: 3.50
+  3: 4.20
+link -> https://sports.bwin.es/es/sports/eventos/ea-guingamp-red-star-fc-2:6533893
+-----
+Ajaccio - ESTAC Troyes
+  1: 2.10
+  2: 3.20
+  3: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/ac-ajaccio-estac-troyes-2:6533896
+-----
+Martigues - Bastia
+  1: 2.75
+  2: 3.20
+  3: 2.50
+link -> https://sports.bwin.es/es/sports/eventos/fc-martigues-sc-bastia-2:6533910
+-----
+Dunkerque - Rodez Aveyron
+  1: 2.65
+  2: 3.30
+  3: 2.50
+link -> https://sports.bwin.es/es/sports/eventos/dunkerque-rodez-aveyron-2:6533913
+-----
+Clermont Foot - Paris
+  1: 2.60
+  2: 3.20
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/clermont-foot-paris-fc-2:6533916
+-----
+Grenoble Foot - Pau
+  1: 2.25
+  2: 3.30
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/grenoble-foot-pau-fc-2:6533929
+-----
+SM Caen - Annecy
+  1: 2.10
+  2: 3.50
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/sm-caen-annecy-fc-2:6533932
+-----
+Metz - Stade Lavallois
+  1: 1.80
+  2: 3.50
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/metz-stade-lavallois-2:6534729
+-----
+Amiens - Lorient
+  1: 3.80
+  2: 3.25
+  3: 1.98
+link -> https://sports.bwin.es/es/sports/eventos/sc-amiens-fc-lorient-2:6534757
+-----
+JKL Lady Dolphins - UCU Lady Canons F
+  1: 1.83
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/jkl-lady-dolphins-ucu-lady-canons-f-16242079
+-----
+KFUM Oslo - Lillestrom
+  1: 2.15
+  2: 3.40
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/kfum-oslo-lillestrom-sk-2:6529339
+-----
+Fredrikstad - Odds
+  1: 1.52
+  2: 4.33
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/fredrikstad-odds-bk-2:6531187
+-----
+Stromsgodset - Bodo Glimt
+  1: 4.20
+  2: 4.33
+  3: 1.66
+link -> https://sports.bwin.es/es/sports/eventos/stromsgodset-bodo-glimt-2:6530162
+-----
+Tromso IL - Viking
+  1: 2.55
+  2: 3.40
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/tromso-il-viking-fk-2:6531131
+-----
+Ham-Kam - Sandefjord
+  1: 2.00
+  2: 3.70
+  3: 3.30
+link -> https://sports.bwin.es/es/sports/eventos/ham-kam-sandefjord-2:6531153
+-----
+Kristiansund - Haugesund
+  1: 2.35
+  2: 3.60
+  3: 2.70
+link -> https://sports.bwin.es/es/sports/eventos/kristiansund-bk-fk-haugesund-2:6531190
+-----
+Rosenborg - Molde
+  1: 2.40
+  2: 3.60
+  3: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/rosenborg-bk-molde-fk-2:6531193
+-----
+Brann - Sarpsborg 08
+  1: 1.40
+  2: 5.25
+  3: 6.25
+link -> https://sports.bwin.es/es/sports/eventos/sk-brann-sarpsborg-08-ff-2:6531156
+-----
+Jerv - Kvik Halden
+  1: 1.22
+  2: 5.75
+  3: 9.25
+link -> https://sports.bwin.es/es/sports/eventos/fk-jerv-kvik-halden-fk-2:6537577
+-----
+Kolbotn IL F - Valerenga F
+  1: 14.00
+  2: 8.75
+  3: 1.10
+link -> https://sports.bwin.es/es/sports/eventos/kolbotn-il-f-valerenga-if-f-2:6537571
+-----
+Slavia Sofia - Arda Kardzhali
+  1: 2.20
+  2: 3.00
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/pfc-slavia-sofia-fc-arda-kardzhali-2:6538845
+-----
+Botev Vratsa - CSKA 1948
+  1: 3.60
+  2: 3.20
+  3: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/botev-vratsa-fc-cska-1948-2:6538848
+-----
+CSKA Sofia - Botev Plovdiv
+  1: 1.83
+  2: 3.40
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/cska-sofia-botev-plovdiv-2:6538864
+-----
+Spartak 1918 Varna - Levski Sofia
+  1: 6.00
+  2: 3.75
+  3: 1.51
+link -> https://sports.bwin.es/es/sports/eventos/fk-spartak-1918-varna-levski-sofía-2:6539874
+-----
+Krumovgrad - Septemvri Sofia
+  1: 1.46
+  2: 4.10
+  3: 6.25
+link -> https://sports.bwin.es/es/sports/eventos/pfc-krumovgrad-fk-septemvri-sofia-2:6540400
+-----
+M. Gigante ITA - J. Rodionov AUT
+  1: 1.65
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/matteo-gigante-ita-jurij-rodionov-aut-16233686
+-----
+M. Janvier FRA - J. Kym SUI
+  1: 3.10
+  2: 1.30
+link -> https://sports.bwin.es/es/sports/eventos/maxime-janvier-fra-jerome-kym-sui-16233689
+-----
+D. Dzumhur BIH - I. Montes-De La Torre ESP
+  1: 1.48
+  2: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/damir-dzumhur-bih-inaki-montes-de-la-torre-esp-16243591
+-----
+L. Lokoli FRA - A. Blockx BEL
+  1: 1.95
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/laurent-lokoli-fra-alexander-blockx-bel-16243594
+-----
+N. Honda JPN - A. Shelbayh JOR
+  1: 5.25
+  2: 1.11
+link -> https://sports.bwin.es/es/sports/eventos/naoya-honda-jpn-abdullah-shelbayh-jor-16233680
+-----
+A. Holmgren DEN - C. Broom GBR
+  1: 1.60
+  2: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/august-holmgren-den-charles-broom-gbr-16233685
+-----
+R. Bertrand FRA - K. Sultanov UZB
+  1: 2.25
+  2: 1.55
+link -> https://sports.bwin.es/es/sports/eventos/robin-bertrand-fra-khumoyun-sultanov-uzb-16243592
+-----
+R. Berankis LTU - H. Naw SYR
+  1: 1.60
+  2: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/ricardas-berankis-ltu-hazem-naw-syr-16243598
+-----
+A. Barroso Campos ESP - M. Cilic CRO
+  1: 2.50
+  2: 1.45
+link -> https://sports.bwin.es/es/sports/eventos/alberto-barroso-campos-esp-marin-cilic-cro-16243595
+-----
+M. Trungelliti ARG - J. Marie FRA
+  1: 1.67
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/marco-trungelliti-arg-jules-marie-fra-16243596
+-----
+E. Couacaud FRA - P.-H. Herbert FRA
+  1: 1.70
+  2: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/enzo-couacaud-fra-pierre-hugues-herbert-fra-16244951
+-----
+M. Valkusz HUN - A. Andreev BUL
+  1: 1.90
+  2: 1.78
+link -> https://sports.bwin.es/es/sports/eventos/mate-valkusz-hun-adrian-andreev-bul-16243711
+-----
+J. Forejtek CZE - D. Cukierman ISR
+  1: 1.40
+  2: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/jonas-forejtek-cze-daniel-cukierman-isr-16243710
+-----
+M. Echargui TUN - C. Taberner ESP
+  1: 3.10
+  2: 1.30
+link -> https://sports.bwin.es/es/sports/eventos/moez-echargui-tun-carlos-taberner-esp-16245261
+-----
+G. Mager ITA - D. Prizmic CRO
+  1: 2.10
+  2: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/gianluca-mager-ita-dino-prizmic-cro-16243712
+-----
+H. Barton CZE - Nikolas Sanchez Izquierdo ESP
+  1: 1.83
+  2: 1.83
+link -> https://sports.bwin.es/es/sports/eventos/hynek-barton-cze-nikolas-sanchez-izquierdo-esp-16245258
+-----
+E. Dalla Valle ITA - J. Faria POR
+  1: 1.95
+  2: 1.72
+link -> https://sports.bwin.es/es/sports/eventos/enrico-dalla-valle-ita-jaime-faria-por-16245259
+-----
+H. Rocha POR - D. Masur GER
+  1: 1.62
+  2: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/henrique-rocha-por-daniel-masur-ger-16245260
+-----
+S. F. Rodriguez Taverna ARG - L. Neumayer AUT
+  1: 2.20
+  2: 1.57
+link -> https://sports.bwin.es/es/sports/eventos/santiago-fa-rodriguez-taverna-arg-lukas-neumayer-16245262
+-----
+J. Bilardo/G. Vulpitta - F. Bergevi/M. Veldheer
+  1: 4.10
+  2: 1.20
+link -> https://sports.bwin.es/es/sports/eventos/j-bilardo-g-vulpitta-f-bergevi-m-veldheer-16245082
+-----
+A. Jecan/I. Liutarevich - J. Schnaitter/M. Wallner
+  1: 2.75
+  2: 1.40
+link -> https://sports.bwin.es/es/sports/eventos/a-jecan-i-liutarevich-j-schnaitter-m-wallner-16245083
+-----
+R. Bertola SUI - A. Molcan SVK
+  1: 2.20
+  2: 1.60
+link -> https://sports.bwin.es/es/sports/eventos/remy-bertola-sui-alex-molcan-svk-16244018
+-----
+F. Bondioli ITA - S. Travaglia ITA
+  1: 3.40
+  2: 1.26
+link -> https://sports.bwin.es/es/sports/eventos/federico-bondioli-ita-stefano-travaglia-ita-16243692
+-----
+Z. Piros HUN - R. Brancaccio ITA
+  1: 1.60
+  2: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/zsombor-piros-hun-raul-brancaccio-ita-16243957
+-----
+F. Passaro ITA - G. A. Olivieri ARG
+  1: 1.36
+  2: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/francesco-passaro-ita-genaro-alberto-olivieri-ar-16243689
+-----
+F. C. Jianu ROU - G. Debru FRA
+  1: 1.87
+  2: 1.80
+link -> https://sports.bwin.es/es/sports/eventos/filip-cristian-jianu-rou-gabriel-debru-fra-16244923
+-----
+F. Misolic AUT - I. Buse PER
+  1: 1.90
+  2: 1.78
+link -> https://sports.bwin.es/es/sports/eventos/filip-misolic-aut-ignacio-buse-per-16244924
+-----
+C. Wong HKG - N. Gombos SVK
+  1: 1.70
+  2: 2.05
+link -> https://sports.bwin.es/es/sports/eventos/coleman-wong-hkg-norbert-gombos-svk-16242490
+-----
+B. Zhukayev KAZ - Tung-lin Wu TPE
+  1: 1.78
+  2: 1.90
+link -> https://sports.bwin.es/es/sports/eventos/beibit-zhukayev-kaz-tung-lin-wu-tpe-16242319
+-----
+Sh. Tang CHN - Fajing Sun CHN
+  1: 3.75
+  2: 1.22
+link -> https://sports.bwin.es/es/sports/eventos/sheng-tang-chn-fajing-sun-chn-16244075
+-----
+Yan Bai CHN - Seong Chan Hong KOR
+  1: 2.35
+  2: 1.50
+link -> https://sports.bwin.es/es/sports/eventos/yan-bai-chn-seong-chan-hong-kor-16244076
+-----
+F. C. Alcantara/P. Isaro - R. Noguchi/S. Watanabe
+  1: 2.45
+  2: 1.48
+link -> https://sports.bwin.es/es/sports/eventos/f-c-alcantara-p-isaro-r-noguchi-s-watanabe-16243870
+-----
+T. Lamasine/D. Svrcina - M. Haliak/L. Pokorny
+  1: 1.34
+  2: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/t-lamasine-d-svrcina-m-haliak-l-pokorny-16246018
+-----
+GAIS - Kalmar
+  1: 1.72
+  2: 3.80
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/gais-kalmar-ff-2:6526262
+-----
+Varnamo -
+  1: 3.10
+  2: 3.30
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/ifk-varnamo-aik-2:6526264
+-----
+Mjallby U21 - Halmstads U21
+  1: 1.53
+  2: 4.20
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/mjallby-aif-u21-halmstads-bk-2:6526093
+-----
+Vasteras - Sirius
+  1: 2.30
+  2: 3.70
+  3: 2.75
+link -> https://sports.bwin.es/es/sports/eventos/vasteras-sk-ik-sirius-2:6526265
+-----
+Malmo - Djurgardens
+  1: 1.61
+  2: 4.00
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/malmo-ff-djurgardens-if-2:6527022
+-----
+Brommapojkarna - Elfsborg
+  1: 2.75
+  2: 3.70
+  3: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/if-brommapojkarna-if-elfsborg-2:6527024
+-----
+Goteborg - Hammarby
+  1: 2.60
+  2: 3.60
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/ifk-goteborg-hammarby-if-2:6526923
+-----
+Norrkoping - Hacken
+  1: 2.90
+  2: 3.90
+  3: 2.10
+link -> https://sports.bwin.es/es/sports/eventos/ifk-norrkoping-fk-bk-hacken-2:6527003
+-----
+KIF Orebro DFF F - Linkopings F
+  1: 3.70
+  2: 3.60
+  3: 1.75
+link -> https://sports.bwin.es/es/sports/eventos/kif-orebro-dff-f-linkopings-fc-f-2:6537575
+-----
+Inglaterra - Sri Lanka
+  1: 1.12
+  2: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/inglaterra-sri-lanka-2°-test-16193728
+-----
+Pakistan - Bangladesh
+  1: 1.17
+  2: 4.50
+link -> https://sports.bwin.es/es/sports/eventos/pakistán-bangladesh-2°-test-16193818
+-----
+Lyngby - Vejle
+  1: 1.83
+  2: 1.85
+link -> https://sports.bwin.es/es/sports/eventos/lyngby-bk-vejle-bk-2:6538918
+-----
+Aarhus - Nordsjaelland
+  1: 2.00
+  2: 3.60
+  3: 3.30
+link -> https://sports.bwin.es/es/sports/eventos/agf-aarhus-nordsjaelland-2:6539815
+-----
+Copenhague - Brondby
+  1: 2.15
+  2: 3.60
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/fc-copenhague-brondby-if-2:6540534
+-----
+Sonderjyske - Viborg
+  1: 2.50
+  2: 3.40
+  3: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/sonderjyske-viborg-ff-2:6540557
+-----
+Silkeborg - Midtjylland
+  1: 2.75
+  2: 3.60
+  3: 2.30
+link -> https://sports.bwin.es/es/sports/eventos/silkeborg-if-midtjylland-2:6540513
+-----
+Randers - Aalborg
+  1: 1.80
+  2: 3.70
+  3: 4.10
+link -> https://sports.bwin.es/es/sports/eventos/randers-aalborg-bk-2:6540559
+-----
+MFK Skalica - Kosice
+  1: 2.45
+  2: 3.30
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/mfk-skalica-fk-kosice-2:6539173
+-----
+KFC Komarno - MFK Zemplin Michalovce
+  1: 2.20
+  2: 3.30
+  3: 2.95
+link -> https://sports.bwin.es/es/sports/eventos/kfc-komarno-mfk-zemplin-michalovce-2:6539595
+-----
+Podbrezova - MFk Dukla Banska Bystrica
+  1: 1.98
+  2: 3.60
+  3: 3.20
+link -> https://sports.bwin.es/es/sports/eventos/fk-podbrezova-mfk-dukla-banska-bystrica-2:6539680
+-----
+Slovan Bratislava - MSK Zilina
+  1: 1.78
+  2: 3.80
+  3: 3.70
+link -> https://sports.bwin.es/es/sports/eventos/sk-slovan-bratislava-msk-zilina-2:6540635
+-----
+MFk Kezmarok - MFK Zemplin Michalovce
+  1: 21.00
+  2: 9.75
+  3: 1.07
+link -> https://sports.bwin.es/es/sports/eventos/mfk-kezmarok-mfk-zemplin-michalovce-2:6537160
+-----
+Rusovce - Petrzalka 1898
+  1: 23.00
+  2: 11.00
+  3: 1.055
+link -> https://sports.bwin.es/es/sports/eventos/rusovce-fc-petrzalka-1898-2:6537612
+-----
+TJ Nafta Gbely - Vion Zlate Moravce - Vrable
+  1: 19.00
+  2: 8.75
+  3: 1.09
+link -> https://sports.bwin.es/es/sports/eventos/tj-nafta-gbely-fc-vion-zlate-moravce-vrable-2:6537613
+-----
+MSK Kysucke Nove Mesto - MSK Povazska Bystrica
+  1: 15.50
+  2: 8.25
+  3: 1.10
+link -> https://sports.bwin.es/es/sports/eventos/msk-kysucke-nove-mesto-msk-povazska-bystrica-2:6537615
+-----
+Vechec - Partizan Bardejov
+  1: 13.50
+  2: 7.00
+  3: 1.14
+link -> https://sports.bwin.es/es/sports/eventos/fk-vechec-partizan-bardejov-2:6537622
+-----
+Liptovska Stiavnica - Spisska Nova Ves
+  1: 8.25
+  2: 5.75
+  3: 1.24
+link -> https://sports.bwin.es/es/sports/eventos/tj-druzstevnik-liptovska-stiavnica-fk-spisska-no-2:6537623
+-----
+Banik Prievidza - OFK Banik Lehota Pod Vtacnikom
+  1: 3.50
+  2: 3.80
+  3: 1.73
+link -> https://sports.bwin.es/es/sports/eventos/fc-banik-prievidza-ofk-banik-lehota-pod-vtacniko-2:6537624
+-----
+PSC Pezinok - Malacky
+  1: 7.25
+  2: 5.50
+  3: 1.26
+link -> https://sports.bwin.es/es/sports/eventos/psc-pezinok-fc-malacky-2:6537626
+-----
+MFK Spartak Medzev - MFk Snina
+  1: 4.60
+  2: 4.40
+  3: 1.49
+link -> https://sports.bwin.es/es/sports/eventos/mfk-spartak-medzev-mfk-snina-2:6537630
+-----
+Tj Slovan Bystricka - MSK Namestovo
+  1: 7.75
+  2: 5.50
+  3: 1.26
+link -> https://sports.bwin.es/es/sports/eventos/tj-slovan-bystricka-msk-namestovo-2:6537636
+-----
+Tomasov - Inter Bratislava
+  1: 5.25
+  2: 4.33
+  3: 1.44
+link -> https://sports.bwin.es/es/sports/eventos/sk-tomasov-inter-bratislava-2:6537638
+-----
+Cadca - MFK Dolny Kubin
+  1: 5.00
+  2: 4.40
+  3: 1.44
+link -> https://sports.bwin.es/es/sports/eventos/fk-cadca-mfk-dolny-kubin-2:6537648
+-----
+NMSK Bratislava - SDM Domino Bratislava
+  1: 1.39
+  2: 4.75
+  3: 5.50
+link -> https://sports.bwin.es/es/sports/eventos/nmsk-1922-bratislava-sdm-domino-bratislava-2:6537658
+-----
+Vysoke Tatry - Stara Lubovna
+  1: 26.00
+  2: 13.50
+  3: 1.04
+link -> https://sports.bwin.es/es/sports/eventos/fk-vysoke-tatry-mfk-stara-lubovna-2:6537663
+-----
+Nova Dedinka - MFK Skalica
+  1: 18.00
+  2: 8.75
+  3: 1.09
+link -> https://sports.bwin.es/es/sports/eventos/sk-nova-dedinka-mfk-skalica-2:6537670
+-----
+Geca 73 - Slavia Tu Kosice
+  1: 12.00
+  2: 7.25
+  3: 1.14
+link -> https://sports.bwin.es/es/sports/eventos/fk-geca-73-slavia-tu-kosice-2:6541827
+-----
+Cobresal - Universidad Catolica CHI
+  1: 2.35
+  2: 3.40
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/cobresal-cd-universidad-catolica-chi-2:6537587
+-----
+O'Higgins - Deportes Union La Calera
+  1: 2.10
+  2: 3.30
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/cd-o-higgins-deportes-unión-la-calera-2:6537589
+-----
+Audax Italiano - Everton Vina Del Mar
+  1: 2.70
+  2: 3.20
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/audax-italiano-cd-everton-viña-del-mar-2:6537591
+-----
+Colo-Colo - Nublense
+  1: 1.61
+  2: 3.90
+  3: 5.25
+link -> https://sports.bwin.es/es/sports/eventos/csd-colo-colo-cd-nublense-2:6538159
+-----
+Huachipato - Palestino
+  1: 2.30
+  2: 3.40
+  3: 2.87
+link -> https://sports.bwin.es/es/sports/eventos/huachipato-palestino-2:6538160
+-----
+Coquimbo Unido - Universidad de Chile
+  1: 3.10
+  2: 3.40
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/coquimbo-unido-universidad-de-chile-2:6539873
+-----
+Colo-Colo F - Union Espanola F
+  1: 1.045
+  2: 12.50
+  3: 23.00
+link -> https://sports.bwin.es/es/sports/eventos/csd-colo-colo-f-union-espanola-f-2:6541549
+-----
+Nafta Lendava - Domzale
+  1: 2.95
+  2: 3.30
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/nk-nafta-lendava-nk-domzale-2:6538830
+-----
+Radomlje - Bravo
+  1: 2.75
+  2: 3.10
+  3: 2.37
+link -> https://sports.bwin.es/es/sports/eventos/radomlje-nk-bravo-2:6539683
+-----
+Siglap - Eng Tat Hornets
+  1: 1.85
+  2: 1.83
+link -> https://sports.bwin.es/es/sports/eventos/siglap-eng-tat-hornets-16246647
+-----
+Arsenal - Brighton
+  1: 1.34
+  2: 5.50
+  3: 8.50
+link -> https://sports.bwin.es/es/sports/eventos/arsenal-brighton-2:6525862
+-----
+Leicester City - Aston Villa
+  1: 4.40
+  2: 3.90
+  3: 1.77
+link -> https://sports.bwin.es/es/sports/eventos/leicester-a-villa-2:6525810
+-----
+Everton - Bournemouth
+  1: 2.65
+  2: 3.40
+  3: 2.60
+link -> https://sports.bwin.es/es/sports/eventos/everton-fc-bournemouth-2:6525830
+-----
+Brentford - Southampton
+  1: 1.75
+  2: 3.90
+  3: 4.40
+link -> https://sports.bwin.es/es/sports/eventos/brentford-southampton-fc-2:6525865
+-----
+Ipswich Town - Fulham
+  1: 3.00
+  2: 3.50
+  3: 2.30
+link -> https://sports.bwin.es/es/sports/eventos/ipswich-fulham-2:6525868
+-----
+Nottingham Forest - Wolves
+  1: 2.00
+  2: 3.70
+  3: 3.60
+link -> https://sports.bwin.es/es/sports/eventos/nottingham-f-wolverh-2:6525871
+-----
+West Ham - Man City
+  1: 7.25
+  2: 5.25
+  3: 1.40
+link -> https://sports.bwin.es/es/sports/eventos/west-ham-manchester-city-2:6525813
+-----
+Newcastle - Tottenham
+  1: 2.45
+  2: 4.00
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/newcastle-tottenham-2:6526775
+-----
+Chelsea - Crystal Palace
+  1: 1.63
+  2: 4.33
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/chelsea-crystal-palace-2:6526776
+-----
+Man United - Liverpool
+  1: 3.70
+  2: 4.10
+  3: 1.87
+link -> https://sports.bwin.es/es/sports/eventos/manchester-united-liverpool-2:6526778
+-----
+Wolves - Burnley
+  1: 1.46
+  2: 4.75
+  3: 6.50
+link -> https://sports.bwin.es/es/sports/eventos/wolverh-burnley-2:6535596
+-----
+Colchester United - Brentford
+  1: 12.00
+  2: 6.25
+  3: 1.24
+link -> https://sports.bwin.es/es/sports/eventos/colchester-united-brentford-2:6532945
+-----
+Cardiff City - Southampton
+  1: 4.80
+  2: 3.80
+  3: 1.70
+link -> https://sports.bwin.es/es/sports/eventos/cardiff-city-southampton-fc-2:6532951
+-----
+Wimbledon - Ipswich Town
+  1: 6.50
+  2: 4.75
+  3: 1.44
+link -> https://sports.bwin.es/es/sports/eventos/wimbledon-ipswich-2:6532956
+-----
+West Ham - Bournemouth
+  1: 1.73
+  2: 4.10
+  3: 4.20
+link -> https://sports.bwin.es/es/sports/eventos/west-ham-bournemouth-2:6535597
+-----
+Swansea City - Wycombe Wanderers
+  1: 1.61
+  2: 4.20
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/swansea-city-wycombe-wanderers-2:6535602
+-----
+Nottingham Forest - Newcastle
+  1: 3.60
+  2: 3.80
+  3: 1.93
+link -> https://sports.bwin.es/es/sports/eventos/nottingham-f-newcastle-2:6535598
+-----
+Luton Town - Queens Park Rangers
+  1: 1.85
+  2: 3.70
+  3: 4.10
+link -> https://sports.bwin.es/es/sports/eventos/luton-town-queens-park-rangers-2:6533890
+-----
+Burnley - Blackburn Rovers
+  1: 1.80
+  2: 3.80
+  3: 4.10
+link -> https://sports.bwin.es/es/sports/eventos/burnley-blackburn-rovers-2:6534656
+-----
+Cardiff City - Middlesbrough
+  1: 4.00
+  2: 3.60
+  3: 1.87
+link -> https://sports.bwin.es/es/sports/eventos/cardiff-city-fc-middlesbrough-2:6534659
+-----
+Coventry City - Norwich
+  1: 1.88
+  2: 3.80
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/coventry-city-norwich-city-2:6534717
+-----
+Leeds - Hull City
+  1: 1.37
+  2: 5.00
+  3: 7.75
+link -> https://sports.bwin.es/es/sports/eventos/leeds-hull-city-2:6534720
+-----
+Plymouth Argyle - Stoke City
+  1: 3.10
+  2: 3.60
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/plymouth-argyle-stoke-city-2:6534723
+-----
+West Bromwich Albion - Swansea City
+  1: 1.87
+  2: 3.60
+  3: 4.10
+link -> https://sports.bwin.es/es/sports/eventos/west-bromwich-albion-swansea-city-2:6534726
+-----
+Derby County - Bristol City
+  1: 2.75
+  2: 3.40
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/derby-county-bristol-city-2:6534745
+-----
+Millwall - Sheffield Wednesday
+  1: 2.37
+  2: 3.30
+  3: 2.95
+link -> https://sports.bwin.es/es/sports/eventos/millwall-fc-fc-sheffield-wednesday-2:6534748
+-----
+Oxford United - Preston North End
+  1: 2.37
+  2: 3.30
+  3: 2.95
+link -> https://sports.bwin.es/es/sports/eventos/oxford-united-preston-north-end-2:6534751
+-----
+Portsmouth - Sunderland
+  1: 3.60
+  2: 3.50
+  3: 2.00
+link -> https://sports.bwin.es/es/sports/eventos/portsmouth-fc-sunderland-afc-2:6534754
+-----
+Sheffield United - Watford
+  1: 1.77
+  2: 3.80
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/sheffield-united-watford-2:6535803
+-----
+Blackpool - Wycombe Wanderers
+  1: 1.93
+  2: 3.40
+  3: 3.80
+link -> https://sports.bwin.es/es/sports/eventos/blackpool-wycombe-wanderers-2:6534870
+-----
+Rotherham United - Huddersfield Town
+  1: 2.75
+  2: 3.30
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/rotherham-united-huddersfield-town-2:6534901
+-----
+Birmingham City - Wigan Athletic
+  1: 1.41
+  2: 4.75
+  3: 6.75
+link -> https://sports.bwin.es/es/sports/eventos/birmingham-city-wigan-athletic-2:6534770
+-----
+Reading - Charlton Athletic
+  1: 2.30
+  2: 3.40
+  3: 2.87
+link -> https://sports.bwin.es/es/sports/eventos/fc-reading-charlton-athletic-2:6534773
+-----
+Mansfield Town - Stockport County
+  1: 2.40
+  2: 3.50
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/mansfield-town-stockport-county-fc-2:6534873
+-----
+Northampton Town - Burton Albion
+  1: 2.20
+  2: 3.40
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/northampton-burton-2:6534876
+-----
+Shrewsbury Town - Leyton Orient
+  1: 2.85
+  2: 3.25
+  3: 2.40
+link -> https://sports.bwin.es/es/sports/eventos/shrewsbury-town-leyton-orient-2:6534879
+-----
+Bolton Wanderers - Exeter City
+  1: 1.50
+  2: 4.33
+  3: 6.00
+link -> https://sports.bwin.es/es/sports/eventos/bolton-exeter-2:6534905
+-----
+Bristol Rovers - Cambridge United
+  1: 2.00
+  2: 3.40
+  3: 3.60
+link -> https://sports.bwin.es/es/sports/eventos/bristol-rovers-cambridge-united-2:6534907
+-----
+Crawley Town - Barnsley
+  1: 3.00
+  2: 3.50
+  3: 2.20
+link -> https://sports.bwin.es/es/sports/eventos/crawley-town-fc-barnsley-2:6534910
+-----
+Peterborough United - Wrexham
+  1: 2.05
+  2: 3.70
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/peterborough-united-fc-wrexham-2:6534913
+-----
+Stevenage - Lincoln City
+  1: 2.30
+  2: 3.20
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/stevenage-fc-lincoln-city-2:6534916
+-----
+Gillingham - Chesterfield
+  1: 2.50
+  2: 3.40
+  3: 2.65
+link -> https://sports.bwin.es/es/sports/eventos/gillingham-fc-chesterfield-fc-2:6534960
+-----
+Port Vale - Doncaster Rovers
+  1: 2.45
+  2: 3.40
+  3: 2.70
+link -> https://sports.bwin.es/es/sports/eventos/port-vale-doncaster-rovers-fc-2:6534963
+-----
+Carlisle United - Tranmere Rovers
+  1: 2.05
+  2: 3.30
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/carlisle-united-tranmere-rovers-2:6534827
+-----
+Grimsby Town - Bradford City
+  1: 2.85
+  2: 3.40
+  3: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/grimsby-town-bradford-city-2:6534830
+-----
+Walsall - Cheltenham Town
+  1: 1.77
+  2: 3.70
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/walsall-cheltenham-town-2:6534833
+-----
+Accrington Stanley - Colchester United
+  1: 2.55
+  2: 3.50
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/accrington-stanley-colchester-united-2:6534966
+-----
+Harrogate Town - Barrow
+  1: 3.20
+  2: 3.30
+  3: 2.15
+link -> https://sports.bwin.es/es/sports/eventos/harrogate-town-barrow-afc-2:6534969
+-----
+Morecambe - Newport County
+  1: 2.15
+  2: 3.50
+  3: 3.10
+link -> https://sports.bwin.es/es/sports/eventos/morecambe-fc-newport-county-afc-2:6534972
+-----
+Swindon Town - Notts County
+  1: 2.65
+  2: 3.75
+  3: 2.35
+link -> https://sports.bwin.es/es/sports/eventos/swindon-town-notts-county-2:6534978
+-----
+Rays - Mariners
+  1: 2.35
+  2: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/tampa-bay-rays-en-casa-de-seattle-mariners-16114272
+-----
+Rangers - White Sox
+  1: 1.57
+  2: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/texas-rangers-en-casa-de-chicago-white-sox-16114279
+-----
+UNAN Leon - UAM Jaguars
+  1: 2.40
+  2: 1.48
+link -> https://sports.bwin.es/es/sports/eventos/unan-leon-uam-jaguars-16242565
+-----
+Pafos - CFR 1907 Cluj
+  1: 1.98
+  2: 3.30
+  3: 3.40
+link -> https://sports.bwin.es/es/sports/eventos/pafos-fc-fc-cfr-1907-cluj-2:6536404
+-----
+Paksi - Mlada Boleslav
+  1: 2.40
+  2: 3.40
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/paksi-fc-fk-mlada-boleslav-2:6536405
+-----
+Trabzonspor - St. Gallen
+  1: 1.63
+  2: 3.90
+  3: 4.40
+link -> https://sports.bwin.es/es/sports/eventos/trabzonspor-fc-st-gallen-2:6536407
+-----
+The New Saints - Panevezys
+  1: 1.47
+  2: 4.20
+  3: 5.75
+link -> https://sports.bwin.es/es/sports/eventos/the-new-saints-fc-fk-panevezys-2:6536408
+-----
+Drita - Legia Varsovia
+  1: 4.33
+  2: 3.75
+  3: 1.68
+link -> https://sports.bwin.es/es/sports/eventos/kf-drita-legia-varsovia-2:6536387
+-----
+Kilmarnock - Copenhague
+  1: 4.20
+  2: 3.75
+  3: 1.68
+link -> https://sports.bwin.es/es/sports/eventos/kilmarnock-fc-fc-copenhague-2:6536388
+-----
+Panathinaikos Atenas - Lens
+  1: 2.80
+  2: 3.30
+  3: 2.25
+link -> https://sports.bwin.es/es/sports/eventos/panathinaikos-atenas-lens-2:6536389
+-----
+Santa Coloma - Vikingur Reykjavik
+  1: 5.00
+  2: 4.10
+  3: 1.53
+link -> https://sports.bwin.es/es/sports/eventos/ue-santa-coloma-vikingur-reykjavik-2:6536390
+-----
+Cercle Brugge - Wisla Cracovia
+  1: 1.34
+  2: 5.00
+  3: 6.75
+link -> https://sports.bwin.es/es/sports/eventos/cercle-brugge-wisla-cracovia-2:6536409
+-----
+Hsk Zrinjski Mostar - Vitoria Guimaraes
+  1: 3.40
+  2: 3.40
+  3: 1.95
+link -> https://sports.bwin.es/es/sports/eventos/hsk-zrinjski-mostar-vitoria-guimaraes-2:6536410
+-----
+Celje - Pyunik
+  1: 1.68
+  2: 3.50
+  3: 4.60
+link -> https://sports.bwin.es/es/sports/eventos/nk-celje-fc-pyunik-2:6536391
+-----
+Maribor - Djurgardens
+  1: 2.50
+  2: 3.20
+  3: 2.55
+link -> https://sports.bwin.es/es/sports/eventos/nk-maribor-djurgardens-if-2:6536392
+-----
+1. Heidenheim 1846 - Hacken
+  1: 1.63
+  2: 4.00
+  3: 4.20
+link -> https://sports.bwin.es/es/sports/eventos/1-fc-heidenheim-1846-bk-hacken-2:6536393
+-----
+Servette - Chelsea
+  1: 4.33
+  2: 4.10
+  3: 1.62
+link -> https://sports.bwin.es/es/sports/eventos/servette-fc-chelsea-2:6536406
+-----
+Larne - Lincoln Red Imps
+  1: 1.63
+  2: 3.70
+  3: 4.75
+link -> https://sports.bwin.es/es/sports/eventos/larne-fc-lincoln-red-imps-fc-2:6536394
+-----
+Puskas Akademia - Fiorentina
+  1: 5.50
+  2: 4.10
+  3: 1.50
+link -> https://sports.bwin.es/es/sports/eventos/puskas-akademia-fc-fiorentina-2:6536395
+-----
+Real Betis - Kryvbas
+  1: 1.17
+  2: 7.00
+  3: 12.00
+link -> https://sports.bwin.es/es/sports/eventos/real-betis-fc-kryvbas-2:6536396
+-----
+PAS Lamia 1964 - Olympiacos
+  1: 11.50
+  2: 6.50
+  3: 1.22
+link -> https://sports.bwin.es/es/sports/eventos/pas-lamia-1964-olympiacos-2:6537711
+-----
+Aris Tesalonica - Asteras Tripolis
+  1: 1.66
+  2: 3.60
+  3: 5.00
+link -> https://sports.bwin.es/es/sports/eventos/aris-tesalónica-asteras-tripolis-2:6537712
+-----
+Panaitolikos Argos - Panserraikos
+  1: 2.00
+  2: 3.25
+  3: 3.70
+link -> https://sports.bwin.es/es/sports/eventos/panaitolikos-argos-panserraikos-fc-2:6537713
+-----
+APO Levadiakos - AEK Atenas
+  1: 13.50
+  2: 6.00
+  3: 1.22
+link -> https://sports.bwin.es/es/sports/eventos/apo-levadiakos-fc-aek-atenas-2:6537717
+-----
+NFC Volos - OFI Creta
+  1: 2.35
+  2: 3.25
+  3: 2.95
+link -> https://sports.bwin.es/es/sports/eventos/nfc-volos-ofi-creta-fc-2:6537718
+-----
+Atromitos Atenas - PAOK Salonica
+  1: 6.25
+  2: 4.50
+  3: 1.46
+link -> https://sports.bwin.es/es/sports/eventos/atromitos-atenas-paok-salónica-2:6537721
+-----
+Kallithea Atenas - Panathinaikos Atenas
+  1: 10.50
+  2: 6.00
+  3: 1.25
+link -> https://sports.bwin.es/es/sports/eventos/kallithea-fc-atenas-panathinaikos-atenas-2:6537723
+-----
+Atletico San Luis - Atlas
+  1: 2.20
+  2: 3.40
+  3: 3.00
+link -> https://sports.bwin.es/es/sports/eventos/atlético-san-luis-atlas-fc-2:6536521
+-----
+Mazatlan - Puebla
+  1: 1.93
+  2: 3.70
+  3: 3.50
+link -> https://sports.bwin.es/es/sports/eventos/mazatlán-fc-puebla-fc-2:6536522
+-----
+Club Tijuana - Club Leon
+  1: 2.00
+  2: 3.60
+  3: 3.30
+link -> https://sports.bwin.es/es/sports/eventos/club-tijuana-club-león-2:6536523
+-----
+Pachuca - Queretaro
+  1: 1.49
+  2: 4.33
+  3: 6.00
+link -> https://sports.bwin.es/es/sports/eventos/cf-pachuca-querétaro-fc-2:6536524
+-----
+Guadalajara Chivas - Juarez
+  1: 1.75
+  2: 3.70
+  3: 4.33
+link -> https://sports.bwin.es/es/sports/eventos/guadalajara-chivas-fc-juárez-2:6536525
+-----
+Monterrey - Deportivo Toluca
+  1: 2.00
+  2: 3.70
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/cf-monterrey-deportivo-toluca-fc-2:6536526
+-----
+Cruz Azul - Club America Mexico
+  1: 2.10
+  2: 3.40
+  3: 3.25
+link -> https://sports.bwin.es/es/sports/eventos/cruz-azul-club-america-mexico-2:6536527
+-----
+Pumas Unam - Tigres UANL
+  1: 2.35
+  2: 3.40
+  3: 2.80
+link -> https://sports.bwin.es/es/sports/eventos/pumas-unam-tigres-uanl-2:6536528
+-----
+Club Santos Laguna - Necaxa
+  1: 2.65
+  2: 3.50
+  3: 2.45
+link -> https://sports.bwin.es/es/sports/eventos/club-santos-laguna-club-necaxa-2:6536529
+-----

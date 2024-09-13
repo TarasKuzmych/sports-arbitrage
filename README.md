@@ -23,7 +23,7 @@ If you are aspiring to develop a similar tool without an engineering background,
 7. [Progress and Accuracy per Sportsbook](#progress-and-accuracy-per-sportsbook)
 8. [Contact Information](#contact-information)
 9. [Why I Started This Project (might be relevant if you are considering hiring me)](#why-i-started)
-10. [Why I Left The Project Unfinished (mbrifachm)](#why-i-stopped-the-project)
+10. [Why I Left The Project Unfinished (mbriyachm)](#why-i-stopped-the-project)
 
 ## Legal Warning
 ### Compliance with `robots.txt`
